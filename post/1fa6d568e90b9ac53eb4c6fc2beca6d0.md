@@ -1,7 +1,7 @@
 {
     "slug": "orangen-kokosnuss-muffins",
     "draft": false,
-    "date": "2015-10-31T16:22:20+00:00",
+    "date": "2015-10-31T16:22:00+00:00",
     "title": "Orangen-Kokosnuss-Muffins",
     "description": "Es hei\u00dft ja, es gebe immer einen Grund zu backen. Die Orangen-Kokosnuss-Muffins sind garantiert ein guter Grund zu backen.",
     "featuredImage": "orangen-kokosnuss-muffins_59dfe4d0981f6.jpg",
@@ -9,65 +9,65 @@
     "recipe": {
         "ingredients": [
             {
-                "name": "",
+                "name": null,
                 "contents": [
                     {
                         "value": "5",
                         "unit": "EL",
                         "name": "Kokosnuss\u00f6l",
-                        "note": ""
+                        "note": null
                     },
                     {
                         "value": "280",
                         "unit": "g",
                         "name": "Dinkelmehl",
-                        "note": ""
+                        "note": null
                     },
                     {
                         "value": "1",
                         "unit": "TL",
                         "name": "Natron",
-                        "note": ""
+                        "note": null
                     },
                     {
                         "value": "1\/2",
                         "unit": "TL",
                         "name": "Backpulver",
-                        "note": ""
+                        "note": null
                     },
                     {
                         "value": "1",
                         "unit": "Pck",
                         "name": "Orangenzesten",
-                        "note": ""
+                        "note": null
                     },
                     {
                         "value": "1",
                         "unit": "Prise",
                         "name": "Salz",
-                        "note": ""
+                        "note": null
                     },
                     {
                         "value": "150",
                         "unit": "g",
                         "name": "brauner Zucker",
-                        "note": ""
+                        "note": null
                     },
                     {
-                        "value": "20 ",
+                        "value": "20",
                         "unit": "g",
                         "name": "Kokosnussraspel",
-                        "note": ""
+                        "note": null
                     },
                     {
                         "value": "15",
                         "unit": "EL",
                         "name": "Buttermilch",
-                        "note": ""
+                        "note": null
                     },
                     {
                         "value": "2",
-                        "unit": "",
+                        "unit": null,
                         "name": "Eier",
                         "note": "Gr\u00f6\u00dfe M"
                     },
@@ -75,7 +75,7 @@
                         "value": "2",
                         "unit": "TL",
                         "name": "Vanillesirup",
-                        "note": ""
+                        "note": null
                     },
                     {
                         "value": "1",
@@ -118,11 +118,11 @@
         ],
         "steps": [
             {
-                "name": "",
+                "name": null,
                 "contents": [
                     {
                         "text": "Vorbereitend Papier Backformen in die Muffin Backform geben, den Backofenrost auf den mittleren Einschub des Backofens schieben. Dann den Backofen auf 180 Grad Ober-\/Unterhitze vorheizen. Au\u00dferdem das Kokosnuss\u00f6l im Kochtopf schmelzen.",
-                        "photo": null
+                        "photo": "kokosnussoel-schmelzen_59dfe4c33975c.jpg"
                     },
                     {
                         "text": "Zuerst das Mehl das Backpulver und das Natron in eine R\u00fchrsch\u00fcssel sieben.",
@@ -146,15 +146,15 @@
                     },
                     {
                         "text": "In der zweiten kleinen R\u00fchrsch\u00fcssel die Glasur zubereiten. Daf\u00fcr eine Orange zun\u00e4chst halbieren und eine H\u00e4lfte auspressen.",
-                        "photo": null
+                        "photo": "aufgeschnittene-orange_59dfe0510dbd4.jpg"
                     },
                     {
                         "text": "Nun den Puderzucker in die zweite kleine R\u00fchrsch\u00fcssel geben und zwei Essl\u00f6ffel von dem Orangensaft hinzuf\u00fcgen. Alles gut miteinander verr\u00fchren.",
-                        "photo": null
+                        "photo": "orangenglasur_59dfe4c7e4d7d.jpg"
                     },
                     {
                         "text": "Nach 30 Minuten pr\u00fcfen, ob die Muffins fertig sind. Die Muffins kurz abk\u00fchlen lassen, bevor sie mit der Glasur \u00fcberzogen und der Mischung aus  Kokosnussraspeln, Orangenzesten und Zucker garniert werden.",
-                        "photo": null
+                        "photo": "garnitur-fuer-orangen-kokosnuss-muffins_59dfe4cc2bc40.jpg"
                     }
                 ]
             }
@@ -200,9 +200,5 @@ Endlich habe ich eine Idee, was ich mit meinem Kokosnussöl machen kann. Bisher 
  * Zeitmesser
 
 {{< photo filename="einige-der-zutaten_59dfe4c067634.jpg" >}}
-
-
-
-
 
  [1]: https://kochfokus.de/rezepte/fruehstuecksmuffins-mit-heidelbeeren/
