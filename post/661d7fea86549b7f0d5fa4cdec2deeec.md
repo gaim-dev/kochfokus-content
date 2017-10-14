@@ -1,7 +1,7 @@
 {
     "slug": "kokos-gugelhupf-mit-schokoladen-aprikosen-topping",
     "draft": false,
-    "date": "2014-07-29T11:48:09+00:00",
+    "date": "2014-07-29T11:48:00+00:00",
     "title": "Kokos Gugelhupf mit Schokoladen-Aprikosen-Topping",
     "description": "Beim Kokos Gugelhupf mit einem Schokoladen-Aprikosen-Topping sind die frischen Aprikosen das besondere Etwas.",
     "featuredImage": "kokos-gugelhupf-mit-schokoladen-aprikosen-topping_59dff219704fd.jpg",
@@ -9,7 +9,7 @@
     "recipe": {
         "ingredients": [
             {
-                "name": "",
+                "name": null,
                 "contents": [
                     {
                         "value": "300",
@@ -18,15 +18,15 @@
                         "note": "f\u00fcr den Teig"
                     },
                     {
-                        "value": "1 1\/2 ",
+                        "value": "1 1\/2",
                         "unit": "TL",
                         "name": "Backpulver",
                         "note": "f\u00fcr den Teig"
                     },
                     {
                         "value": "4",
-                        "unit": "",
-                        "name": "Eier (Gr M)",
+                        "unit": null,
+                        "name": "Eier (Gr\u00f6\u00dfe M)",
                         "note": "f\u00fcr den Teig"
                     },
                     {
@@ -37,7 +37,7 @@
                     },
                     {
                         "value": "n. B.",
-                        "unit": " ",
+                        "unit": null,
                         "name": "Milch",
                         "note": "f\u00fcr den Teig"
                     },
@@ -91,7 +91,7 @@
                     },
                     {
                         "value": "3",
-                        "unit": "",
+                        "unit": null,
                         "name": "frische Aprikosen",
                         "note": "als Garnitur"
                     }
@@ -100,7 +100,7 @@
         ],
         "steps": [
             {
-                "name": "",
+                "name": null,
                 "contents": [
                     {
                         "text": "Vorbereitend den Backofen auf 160 Grad Umluft vorheizen.",
@@ -120,7 +120,7 @@
                     },
                     {
                         "text": "Zwischenzeitlich wird das Topping zubereitet. Daf\u00fcr zerkleinert man die Kuvert\u00fcre mit einem Messer und gibt die H\u00e4lfte der zerkleinerten Kuvert\u00fcre in die Wasserbad-Schmelzschale oder in die Metallsch\u00fcssel.\r\nUm die Kuvert\u00fcre zu schmelzen, wird zun\u00e4chst einmal Wasser im Topf erhitzt (eine deatillierte Beschreibung und Erkl\u00e4rung siehe in dem oben genannten Link). Die Schokolade so lange r\u00fchren, bis sie geschmolzen ist. Anschlie\u00dfend die Schmelzschale vom Herd nehmen, die Kuvert\u00fcre kurz abk\u00fchlen lassen und die restliche noch nicht geschmolzene Kuvert\u00fcre darin unter gelegentlichem R\u00fchren aufl\u00f6sen.\r\nAbschlie\u00dfend wird die Kuvert\u00fcre temperiert und dann beiseite gestellt.",
-                        "photo": null
+                        "photo": "kokos-gugelhupf-mit-schokoladen-aprikosen-topping-kuvertu-re_59dff20eb76fc.jpg"
                     },
                     {
                         "text": "Jetzt gibt man die Sahne in den Messbecher und f\u00fcgt den Puderzucker sowie den Backkakao hinzu. Dann vermengt man alles miteinander, so dass sowohl der Puderzucker als auch der Backkakao sich aufl\u00f6sen.",
@@ -140,7 +140,7 @@
                     },
                     {
                         "text": "In der Zwischenzeit die Aprikosen waschen, entsteinen und vierteln.",
-                        "photo": null
+                        "photo": "kokos-gugelhupf-mit-schokoladen-aprikosen-topping-aprikosen-vierteln_59dff209011ea.jpg"
                     },
                     {
                         "text": "Anschlie\u00dfend den Kuchen mit dem Topping bestreichen und mit den Aprikosenvierteln belegen.",
@@ -148,11 +148,11 @@
                     },
                     {
                         "text": "Da es sich um ein sehr cremiges Topping handelt, sollte man den Kuchen vor dem Servieren noch f\u00fcr mindestens eine Stunde in den K\u00fchlschrank geben.",
-                        "photo": null
+                        "photo": "kokos-gugelhupf-mit-schokoladen-aprikosen-topping_59dffb5aef4dc.jpg"
                     },
                     {
                         "text": "Guten Appetit!",
-                        "photo": null
+                        "photo": "kokos-gugelhupf-mit-schokoladen-aprikosen-topping_59dffb5781ffb.jpg"
                     }
                 ]
             }
@@ -178,7 +178,7 @@
     ]
 }
 
-Hast Du schon etwas vom Trend Naked Cake Style gehört? Der  Kokos Gugelhupf mit Schokoladen-Aprikosen-Topping ist zum einen der erste Kokoskuchen, den ich backe und zum anderen mein erstes Gebäck mit einem Topping aus frischen Früchten, die nicht mit einem Guss überzogen. Wegen der frischen Früchte sollte man den Kuchen möglichst noch am gleichen Tag verzehren. Für das Topping verwende ich zudem dunkle Kuvertüre, die geschmolzen werden muss. Die genauen Arbeitsschritte dazu findest du hier [/rezepte/schokolade-selber-machen-eine-last-minute-geschenkidee/][1].
+Hast Du schon etwas vom Trend Naked Cake Style gehört? Der Kokos Gugelhupf mit Schokoladen-Aprikosen-Topping ist zum einen der erste Kokoskuchen, den ich backe und zum anderen mein erstes Gebäck mit einem Topping aus frischen Früchten, die nicht mit einem Guss überzogen. Wegen der frischen Früchte sollte man den Kuchen möglichst noch am gleichen Tag verzehren. Für das Topping verwende ich zudem dunkle Kuvertüre, die geschmolzen werden muss. Die genauen Arbeitsschritte dazu findest du hier [https://kochfokus.de/rezepte/schokolade-selber-machen-eine-last-minute-geschenkidee/][1].
 
 Da das Topping etwas aufwändiger ist, erleichtere ich mir die Arbeit ein wenig beim Teig und backe einen Kuchen mit einem sogenannten All-In-Teig. Hierbei handelt es sich um einen Teig, bei dem man die Zutaten nicht nacheinander, sondern auf einmal verrührt. Wie man sieht, handelt es sich hierbei also um einen einfachen Teig, den man zudem schnell zuzubereiten kann. Ich arbeite hier mit einer Silikon-Gugelhupf-Form, was mir das Einfetten und Ausstreuen mit Paniermehl der Backform erspart. Man kann natürlich auch eine &#8222;normale&#8220; Gugelhupf-Form verwenden, die man dann entsprechend vorbereitet.
 
@@ -186,13 +186,9 @@ Vom Topping bleibt eventuell etwas übrig. Bitte nicht wegschmeißen, denn man k
 
 Ich hoffe, ich konnte Dir den Mund wässrig machen.
 
- 
-
 {{< photo filename="kokos-gugelhupf-mit-schokoladen-aprikosen-topping-jpg_59dff213b6c83.jpg" >}}
 
- 
-
-## Wenn Du den  Kokos Gugelhupf mit Schokoladen-Aprikosen-Topping backen möchtest, brauchst Du die folgenden Küchengeräten und -utensilien:
+**Wenn Du den  Kokos Gugelhupf mit Schokoladen-Aprikosen-Topping backen möchtest, brauchst Du die folgenden Küchengeräten und -utensilien:**
 
  * Rührschüssel
  * Esslöffel (oder Silikonspatel)
@@ -212,12 +208,6 @@ Ich hoffe, ich konnte Dir den Mund wässrig machen.
 
 Viel Spaß beim Nachbacken!
 
- 
-
 {{< photo filename="kokos-gugelhupf-mit-schokoladen-aprikosen-topping_59dffb52a58d3.jpg" >}}
-
-
-
-
 
  [1]: https://kochfokus.de/rezepte/schokolade-selber-machen-eine-last-minute-geschenkidee/ "Schokolade selber machen – eine Last-Minute-Geschenkidee"
