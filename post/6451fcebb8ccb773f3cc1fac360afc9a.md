@@ -1,7 +1,7 @@
 {
     "slug": "vitaminreiches-fruehstueck",
     "draft": false,
-    "date": "2015-05-09T11:36:48+00:00",
+    "date": "2015-05-09T11:36:00+00:00",
     "title": "Vitaminreiches Fr\u00fchst\u00fcck",
     "description": "Mit diesem vitaminreichen Fr\u00fchst\u00fcck ist ein leichter, protein- und vitaminreicher Start in den Tag garantiert.",
     "featuredImage": "vitaminreiches-fruehstueck_59dfe2ec627c6.jpg",
@@ -9,31 +9,31 @@
     "recipe": {
         "ingredients": [
             {
-                "name": "",
+                "name": null,
                 "contents": [
                     {
                         "value": "150",
                         "unit": "g",
                         "name": "Naturjoghurt",
-                        "note": ""
+                        "note": null
                     },
                     {
                         "value": "1",
-                        "unit": "",
+                        "unit": null,
                         "name": "kleiner Apfel",
-                        "note": ""
+                        "note": null
                     },
                     {
                         "value": "1",
-                        "unit": "",
+                        "unit": null,
                         "name": "Nektarine",
-                        "note": ""
+                        "note": null
                     },
                     {
                         "value": "1",
-                        "unit": "",
+                        "unit": null,
                         "name": "handvoll Heidelbeeren",
-                        "note": ""
+                        "note": null
                     },
                     {
                         "value": "2 - 3",
@@ -43,7 +43,7 @@
                     },
                     {
                         "value": "1",
-                        "unit": "",
+                        "unit": null,
                         "name": "Erdbeere",
                         "note": "zum Dekorieren"
                     }
@@ -52,10 +52,10 @@
         ],
         "steps": [
             {
-                "name": "",
+                "name": null,
                 "contents": [
                     {
-                        "text": " Zuerst den Naturjoghurt auf die Mitte eines Tellers geben.\r\n\r\n",
+                        "text": "Zuerst den Naturjoghurt auf die Mitte eines Tellers geben.",
                         "photo": null
                     },
                     {
@@ -67,12 +67,12 @@
                         "photo": null
                     },
                     {
-                        "text": "4. Jetzt die Nektarine waschen, vierteln, ebenso in Spalten schneiden und diese um die Apfelspalten legen.",
+                        "text": "Jetzt die Nektarine waschen, vierteln, ebenso in Spalten schneiden und diese um die Apfelspalten legen.",
                         "photo": null
                     },
                     {
                         "text": "Nun die Heidelbeeren waschen, abtropfen lassen, abtrocknen und auf die Apfel- sowie Nekatrinenspalten gegeben.",
-                        "photo": null
+                        "photo": "vitaminreiches-fru-hsru-ck---heidelbeeren_59dfedd1eda90.jpg"
                     },
                     {
                         "text": "Anschlie\u00dfend das Knusper Schoko M\u00fcsli in die Mitte auf den Naturjoghurt geben.",
@@ -80,11 +80,11 @@
                     },
                     {
                         "text": "Abschlie\u00dfend die Erdbeere waschen und dekorativ auf das M\u00fcsli legen. Tipp: Wenn Du die Erdbeere lieber ohne Kelch auf den Teller legen m\u00f6chtest, kannst Du sie nat\u00fcrlich vorher entkelchen.",
-                        "photo": null
+                        "photo": "erdbeere-entkelchen_59dfe0941f4ee.jpg"
                     },
                     {
-                        "text": "Lasst Euch das Fr\u00fchst\u00fcck schmecken!\r\n",
-                        "photo": null
+                        "text": "Lasst Euch das Fr\u00fchst\u00fcck schmecken!",
+                        "photo": "vitaminreiches-fru-hsru-ck---lasst-es-euch-schmecken_59dfedcd672df.jpg"
                     }
                 ]
             }
@@ -118,16 +118,12 @@ Dies Rezept ist so einfach, dass ich es fast nicht gewagt habe, es zu veröffent
 
 Vielleicht bist Du ja auf der Suche nach einem schnell zuzubereitenden und einfachen Frühstücksrezept. Dann ist meine Anregung vielleicht genau richtig für Dich. Ich verwende bei diesem Rezept einmal mehr meinen selbstgemachten Joghurt. Wie man sich ganz einfach Joghurt selbst machen kann, findest Du auf meiner Webseite [hier][1].
 
- 
-
-## Für Zubereitung des vitaminreichen Frühstücks brauchst Du die folgenden Küchenutensilien und -geräte:
+**Für Zubereitung des vitaminreichen Frühstücks brauchst Du die folgenden Küchenutensilien und -geräte:**
 
  * Schneidbrett
  * Obstmesser
  * Esslöffel
  * Sieb
  * Teller zum Anrichten des Frühstücks
-
-
 
  [1]: https://kochfokus.de/wissenswert/joghurt-teil-1-joghurt-selber-machen/
