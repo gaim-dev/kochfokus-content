@@ -1,64 +1,64 @@
 {
-    "slug": "vanillekiperl",
+    "slug": "vanillekipferl",
     "draft": false,
-    "date": "2014-12-09T17:03:46+00:00",
-    "title": "Vanillekiperl",
-    "description": "Vanillekipeferl d\u00fcrfen in der Weihnachtsb\u00e4ckerei einfach  nicht fehlen.",
+    "date": "2014-12-09T17:03:00+00:00",
+    "title": "Vanillekipferl",
+    "description": "Vanillekipferl d\u00fcrfen in der Weihnachtsb\u00e4ckerei einfach  nicht fehlen.",
     "featuredImage": "vanillekiperl_59dfe1f97ac58.jpg",
     "author": "Gabi",
     "recipe": {
         "ingredients": [
             {
-                "name": "",
+                "name": null,
                 "contents": [
                     {
-                        "value": "200 ",
+                        "value": "200",
                         "unit": "g",
                         "name": "Butter (kalt)",
-                        "note": "(f\u00fcr den Teig)"
+                        "note": "f\u00fcr den Teig"
                     },
                     {
                         "value": "300",
                         "unit": "g",
                         "name": "Weizenmehl (550)",
-                        "note": "(f\u00fcr den Teig)"
+                        "note": "f\u00fcr den Teig"
                     },
                     {
                         "value": "2",
-                        "unit": "",
+                        "unit": null,
                         "name": "Eigelbe",
-                        "note": "(f\u00fcr den Teig)"
+                        "note": "f\u00fcr den Teig"
                     },
                     {
                         "value": "150",
                         "unit": "g",
                         "name": "feingemahlene Mandeln",
-                        "note": "(f\u00fcr den Teig)"
+                        "note": "f\u00fcr den Teig"
                     },
                     {
                         "value": "100",
                         "unit": "g",
                         "name": "Zucker",
-                        "note": "(f\u00fcr den Teig)"
+                        "note": "f\u00fcr den Teig"
                     },
                     {
-                        "value": "60 ",
+                        "value": "60",
                         "unit": "g",
                         "name": "Puderzucker",
-                        "note": "(zum Best\u00e4uben der Kipferl)"
+                        "note": "zum Best\u00e4uben der Kipferl"
                     },
                     {
                         "value": "1",
                         "unit": "Pck",
                         "name": "Vanillezucker",
-                        "note": "(zum Best\u00e4uben der Kipferl)"
+                        "note": "zum Best\u00e4uben der Kipferl"
                     }
                 ]
             }
         ],
         "steps": [
             {
-                "name": "",
+                "name": null,
                 "contents": [
                     {
                         "text": "Vorbereitend zwei Backbleche mit Backpapier auslegen und den Vanillezucker mit dem Puderzucker in einem Sch\u00e4lchen vermischen.",
@@ -77,8 +77,8 @@
                         "photo": null
                     },
                     {
-                        "text": "Die Teigkugel in vier m\u00f6glichst gleich gro\u00dfe St\u00fccke teilen, diese zu Rollen formen, in Frischhaltefolie wickeln und dann f\u00fcr 30 Minuten im K\u00fchlschrank ruhen lassen. ",
-                        "photo": null
+                        "text": "Die Teigkugel in vier m\u00f6glichst gleich gro\u00dfe St\u00fccke teilen, diese zu Rollen formen, in Frischhaltefolie wickeln und dann f\u00fcr 30 Minuten im K\u00fchlschrank ruhen lassen.",
+                        "photo": "kiperlteig-in-rollen-formen_59dfe1f155a06.jpg"
                     },
                     {
                         "text": "Bevor die Teigrollen aus dem K\u00fchlschrank geholt werden, den Backofen auf 175 Grad Ober-\/Unterhitze vorheizen.",
@@ -86,14 +86,14 @@
                     },
                     {
                         "text": "Dann die Teigrollen in Scheiben schneiden und diese zu Kipferln formen.",
-                        "photo": null
+                        "photo": "scheiben-zu-kipferln-formen_59dfe1f5608b5.jpg"
                     },
                     {
                         "text": "Die Kipferl auf die mit Backpapier ausgelegten Backbleche legen, diese jeweils auf den mittleren Einschub des vorgeheizten Backofens geben und 12 bis 15 Minuten backen.",
                         "photo": null
                     },
                     {
-                        "text": "Die Kipferl aus dem Backofen holen und noch warm mit der Mischung aus Puderzucker und Vanillezucker best\u00e4uben. ",
+                        "text": "Die Kipferl aus dem Backofen holen und noch warm mit der Mischung aus Puderzucker und Vanillezucker best\u00e4uben.",
                         "photo": null
                     }
                 ]
@@ -121,7 +121,7 @@
 
 Vanillekipferl dürfen in der Weihnachtsbäckerei einfach nicht fehlen. Das Formen dieser köstlichen Halbmonde erfordert ein klein wenig Übung, aber letztlich zählen auch hier einmal mehr der Spaß beim Herstellen und der aromatische Duft beim Backen. Nicht zu vergessen &#8211; sie sind einfach köstlich. Viel muss man bei diesem Gebäck nicht beachten. Wichtig ist jedoch, dass man die Kipferl noch warm mit der Mischung aus Puderzucker und Vanillezucker bestreut (bestäubt), denn  diese Zuckermischung bleibt an kalten Vanillekipferln leider nicht &#8222;haften&#8220;. Ich wälze meine Vanillekipferl übrigens nicht in der Zuckermischung, obwohl dies in vielen Rezepten so angegeben ist. Ich bestäube sie lediglich mit der Mischung aus Puderzucker und Vanillezucker, denn die warmen Vanillekiperl zerbrechen sehr leicht. Bei meinem Rezept handelt es sich einmal mehr um ein sogenanntes klassisches Rezept. Eben Vanillkipferl und keine Amaretto-, Mohn- oder sonstigen Kipferln.
 
-Um die Vanillekipferl zu backen, sollten die folgenden Küchenutensilien und  -geräte bereitstehen:
+**Um die Vanillekipferl zu backen, sollten die folgenden Küchenutensilien und -geräte bereitstehen:**
 
  * Messbecher
  * Messer
