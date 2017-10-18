@@ -39,6 +39,4 @@ Gabriele Altpeter, Internet Marketing-Services ist Teilnehmer des Partnerprogram
 
 Diese Webseite setzt keinerlei Trackinglösungen von Drittanbietern an. Es werden keine Tracking-Cookies angelegt. Zur Auswertung von Besucherstatistiken verwenden wir eine eigene [Piwik](https://piwik.org/)-Installation auf dem Server `analytics.baltpeter.io`. Die Erhebung der Statistik erfolgt anonymisiert, es werden keine vollständigen IP-Adressen gespeichert. Wir respektieren den [Do Not Track-Standard](http://donottrack.us/). Wenn der Do Not Track-Header gesetzt ist, werden keinerlei Seitenaufrufe protokolliert, nicht einmal anonymisiert.
 
-Es besteht darüber hinaus die Möglichkeit, das Tracking direkt auf unserem Piwikserver zu deaktivieren:
-
-<iframe style="border: 0; height: 200px; width: 100%;" src="https://analytics.baltpeter.io/index.php?module=CoreAdminHome&action=optOut&language=en"></iframe>
+Es besteht darüber hinaus die Möglichkeit, das Tracking [direkt auf unserem Piwikserver zu deaktivieren](https://analytics.baltpeter.io/index.php?module=CoreAdminHome&action=optOut&language=de).
