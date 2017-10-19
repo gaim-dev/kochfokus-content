@@ -182,7 +182,7 @@ Ich hoffe, Ihr seid neugierig auf die gesunden Frühstückskekse.
 
 Vorab jedoch noch eine kleine Bemerkung. Ich habe in meiner Vorratsschublade noch eine angefangene Tüte Cranberries gefunden. Zu dieser gesellen sich auch noch eine angefangene Tüte blütenzarte Haferflocken sowie ein kleiner Rest Chiasamen. Da die Susanne vom Blog [magentratzerl][2] mich zu ihrem  Dauer-Blogevent zum Kochen aus dem Vorratsschrank eingeladen hat, kriegt sie von mir auf diesem Wege gleich ein paar gesunde Frühstückskekse serviert.
 
-**Wenn Du die Gesunden Frühstückskekse nachbacken möchtest, solltest Du die folgenden Küchengeräte und -utensilien bereithalten:**
+## Küchengeräte und -utensilien
 
  * mittelgroße Kaffeetasse
  * Messer
