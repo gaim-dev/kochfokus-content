@@ -127,6 +127,10 @@
                     {
                         "text": "Das Bananenbrot etwas ausk\u00fchlen lassen, bevor es aus der Kastenform geholt wird.",
                         "photo": null
+                    },
+                    {
+                        "text": "Guten Appetit!",
+                        "photo": null
                     }
                 ]
             }
