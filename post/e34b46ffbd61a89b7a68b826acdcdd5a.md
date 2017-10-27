@@ -71,7 +71,6 @@
 
  - Messer
  - Schneidbrett
- - Gemüsehobel
  - Standmixer oder Pürierstab
  - Messbecher
  - Küchenwaage
