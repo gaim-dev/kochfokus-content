@@ -141,6 +141,8 @@
     ]
 }
 
+Ich liebe Bananen und darum natürlich auch Bananenbrot. Heute möchte ich es mal wieder etwas anders machen als sonst. Wie kann es auch anders sein? Ich habe hier ja schon ein 
+
 ## Küchengeräte und -utensilien
 
  - Messer
