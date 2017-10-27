@@ -100,7 +100,13 @@
             }
         ],
         "notes": null
-    }
+    },
+    "Kategorien": [
+        "Rezepte",
+        "Brote",
+        "Geb\u00e4ck",
+        "s\u00fc\u00dfes Geb\u00e4ck"
+    ]
 }
 
 ## Küchengeräte und -utensilien
