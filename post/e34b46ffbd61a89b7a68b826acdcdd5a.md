@@ -85,7 +85,11 @@
                 "name": null,
                 "contents": [
                     {
-                        "text": "Vorbereitend die Kastenbackform mit Backpapier auslegen, das Ei aus dem K\u00fchlschrank holen und den Backofen auf 180 Ober-\/Unterhitze vorheizen.",
+                        "text": "Vorbereitend die Kastenbackform mit Backpapier auslegen, die Eier aus dem K\u00fchlschrank holen und den Backofen auf 180 Ober-\/Unterhitze vorheizen.",
+                        "photo": null
+                    },
+                    {
+                        "text": "Au\u00dferdem das Kokosnuss\u00f6l im Kochtopf schmelzen.",
                         "photo": null
                     },
                     {
@@ -93,7 +97,35 @@
                         "photo": null
                     },
                     {
-                        "text": "Dann die Bananen sch\u00e4len, in die kleine St\u00fccke teilen, zu den Zucchinost\u00fccken in den Standmixer geben und beides nun zu einem Mus mixen. Dieses Mus zun\u00e4chst beiseite stellen.",
+                        "text": "Dann die Bananen sch\u00e4len, in die kleine St\u00fccke teilen, zu den Zucchinost\u00fccken in den Standmixer geben und beides nun p\u00fcrieren. Dieses P\u00fcree zun\u00e4chst beiseite stellen.",
+                        "photo": null
+                    },
+                    {
+                        "text": "F\u00fcr den Teig alle trockenen Zutaten in eine Sch\u00fcssel geben und miteinander vermengen.",
+                        "photo": null
+                    },
+                    {
+                        "text": "In eine zweite Sch\u00fcssel zun\u00e4chst die Eier geben und kurz aufschlagen",
+                        "photo": null
+                    },
+                    {
+                        "text": "Danach das Kokosnuss\u00f6l sowie das Zucchino-Bananenp\u00fcree  hinzuf\u00fcgen und alles miteinander verr\u00fchren.",
+                        "photo": null
+                    },
+                    {
+                        "text": "Die fl\u00fcssigen Zutaten zu den trockenen Zutaten geben und miteinander vermengen.",
+                        "photo": null
+                    },
+                    {
+                        "text": "Alles in die vorbereitete Form geben, die Erdnussbutter in Klecksen obenauf geben und mit einer Gabel leicht in die Oberfl\u00e4che swirlen.",
+                        "photo": null
+                    },
+                    {
+                        "text": "Die Kastenbackform auf den mittleren Einschub des vorgeheizten Backofens geben und 45 Minuten bis 50 Minuten backen.",
+                        "photo": null
+                    },
+                    {
+                        "text": "Das Bananenbrot etwas ausk\u00fchlen lassen, bevor es aus der Kastenform geholt wird.",
                         "photo": null
                     }
                 ]
@@ -116,6 +148,7 @@
  - Standmixer oder Pürierstab
  - Messbecher
  - Küchenwaage
+ - kleiner Kochtopf
  - Backrost
  - Kastenbackform
  - Backpapier
@@ -127,3 +160,4 @@
  - Küchenmaschine oder Handrührgerät
  - Teigschaber
  - Schneebesen
+ - Gabel
