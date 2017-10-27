@@ -14,7 +14,7 @@
                     {
                         "value": "1\/2",
                         "unit": null,
-                        "name": "Zucchini",
+                        "name": "Zucchino",
                         "note": "Bio"
                     },
                     {
@@ -40,6 +40,42 @@
                         "unit": "TL",
                         "name": "Zimt",
                         "note": null
+                    },
+                    {
+                        "value": "1",
+                        "unit": "Prise",
+                        "name": "Salz",
+                        "note": null
+                    },
+                    {
+                        "value": "50",
+                        "unit": "g",
+                        "name": "Backkakao",
+                        "note": "unges\u00fc\u00dft"
+                    },
+                    {
+                        "value": "2",
+                        "unit": null,
+                        "name": "Eier",
+                        "note": "Gr\u00f6\u00dfe M"
+                    },
+                    {
+                        "value": "3",
+                        "unit": "EL",
+                        "name": "Kokosnuss\u00f6l",
+                        "note": null
+                    },
+                    {
+                        "value": "1",
+                        "unit": "EL",
+                        "name": "brauner Rohrzucker",
+                        "note": null
+                    },
+                    {
+                        "value": "2",
+                        "unit": "TL",
+                        "name": "Erdnussbutter",
+                        "note": null
                     }
                 ]
             }
@@ -53,11 +89,11 @@
                         "photo": null
                     },
                     {
-                        "text": "Zuerst eine Zucchini waschen, halbieren, eine halbe Zucchini in St\u00fccke schneiden, in den Standmixer geben und p\u00fcrieren. Das Zuchinip\u00fcree zun\u00e4chst beiseite stellen.",
+                        "text": "Zuerst eine Zucchino waschen, halbieren, eine halbe Zucchini in St\u00fccke schneiden und in den Standmixer geben.",
                         "photo": null
                     },
                     {
-                        "text": "Dann die Bananen sch\u00e4len, in die kleine Sch\u00fcssel geben und mit der Gabel zerdr\u00fccken.",
+                        "text": "Dann die Bananen sch\u00e4len, in die kleine St\u00fccke teilen, zu den Zucchinost\u00fccken in den Standmixer geben und beides nun zu einem Mus mixen. Dieses Mus zun\u00e4chst beiseite stellen.",
                         "photo": null
                     }
                 ]
@@ -80,67 +116,8 @@
  - Topflappen oder Backhandschuhe
  - Backofen
  - 2 Rührschüsseln
- - kleine Schüssel
  - Esslöffel
  - Teelöffel
  - Küchenmaschine oder Handrührgerät
  - Teigschaber
  - Schneebesen
-
-
-
-An Zutaten braucht Ihr für dieses Rezept:
-
-
-
-
-
-
-
-1
-
-Teelöffel
-
-Backpulver
-
-
-
-1
-
-Teelöffel
-
-Zimt
-
-1
-
-Esslöffel
-
-Backkakao
-
-1
-
-Prise
-
-Salz
-
-1
-
-Ei (Größe M)
-
-100
-
-ml
-
-Rapsöl
-
-1
-
-Esslöffel
-
-Honig
-
-1
-
-Esslöffel
-
-Ahornsirup
