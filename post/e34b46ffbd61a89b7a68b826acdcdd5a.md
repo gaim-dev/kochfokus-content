@@ -1,5 +1,5 @@
 {
-    "slug": "sensationell-saftiges-schokoladenbananenbrot-mit-geswirlter-Erdnussbutter",
+    "slug": "sensationell-saftiges-schokoladenbananenbrot-mit-geswirlter-erdnussbutter",
     "draft": true,
     "date": "2017-10-27T07:32:00+00:00",
     "title": "Sensationell saftiges Schokoladenbananenbrot mit geswirlter Erdnussbutter",
