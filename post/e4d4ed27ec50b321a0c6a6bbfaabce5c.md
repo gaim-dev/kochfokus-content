@@ -140,6 +140,7 @@
         "notes": null
     },
     "Tags": [
+        "Banane",
         "backen",
         "Ballaststoffe",
         "ballaststoffreich",
@@ -152,9 +153,13 @@
         "Kekse",
         "Kekse mit Haferflocken",
         "rezept",
-        "Rezept Gesunde Fr\u00fchst\u00fcckskekse",
+        "Fr\u00fchst\u00fcckskekse",
         "selbst gemacht",
-        "Snack"
+        "Snack",
+        "Haferflocken",
+        "Heidelbeeren",
+        "Blaubeeren",
+        "Cranberries"
     ],
     "Kategorien": [
         "Fit Food",
