@@ -146,7 +146,9 @@
 }
 
 Ich liebe Bananenbrot. Man kann es gleich morgens zum Frühstück essen oder aber auch als Begleiter zum Nachmittagskaffee genießen. Heute möchte ich es mal wieder etwas anders machen als sonst. Wie kann es auch anders sein? Ich habe hier ja schon einmal einen [Zitronenkuchen](http://kochfokus.de/artikel/herrlich-saftiger-sommerlicher-zitronenkuchen/ "Zitronenkuchen")
-gebacken, der durch eine halbe geraspelte Zucchino schön saftig wurde. So möchte ich dies heute auch mit meinem Bananenbrot machen. Außerdem habe ich mal wieder [Erdnussbutter](https://kochfokus.de/artikel/erdnussbutter-selber-machen/ "Erdnussbutter") selbst gemacht und die soll auch zum Einsatz kommen.
+gebacken, der durch eine halbe geraspelte Zucchino schön saftig wurde. So möchte ich dies heute auch mit meinem Bananenbrot machen. Außerdem habe ich mal wieder [Erdnussbutter](https://kochfokus.de/artikel/erdnussbutter-selber-machen/ "Erdnussbutter") selbst gemacht und die werde ich bei meinem Bananenbrot auch verwenden.
+
+Ich hoffe, Du bist neugierig geworden und möchtest dieses tolle Rezept auch einmal ausprobieren.
 
 ## Küchengeräte und -utensilien
 
@@ -168,3 +170,5 @@ gebacken, der durch eine halbe geraspelte Zucchino schön saftig wurde. So möch
  - Teigschaber
  - Schneebesen
  - Gabel
+
+Viel Spaß beim Nachbacken!
