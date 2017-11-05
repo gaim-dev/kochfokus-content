@@ -145,10 +145,10 @@
     ]
 }
 
-Ich liebe Bananenbrot. Man kann es gleich morgens zum Frühstück, als Snack zwischendurch essen oder aber auch als Begleiter zum Nachmittagskaffee genießen. Heute möchte ich es mal wieder etwas anders machen als sonst. Wie kann es auch anders sein? Ich habe hier ja schon einmal einen [Zitronenkuchen](http://kochfokus.de/artikel/herrlich-saftiger-sommerlicher-zitronenkuchen/ "Zitronenkuchen")
+Hände hoch! wer liebt auch Bananenbrot? Ich liebe Bananenbrot, aber das wisst Ihr ja bereits. Man kann es gleich morgens zum Frühstück, als Snack zwischendurch essen oder aber auch als Begleiter zum Nachmittagskaffee genießen. Heute möchte ich es mal wieder etwas anders machen als sonst. Wie kann es auch anders sein? Ich habe hier ja schon einmal einen [Zitronenkuchen](http://kochfokus.de/artikel/herrlich-saftiger-sommerlicher-zitronenkuchen/ "Zitronenkuchen")
 gebacken, der durch eine halbe geraspelte Zucchino schön saftig wurde. So möchte ich dies heute auch mit meinem Bananenbrot machen. Außerdem habe ich mal wieder gestern mal wieder [Erdnussbutter](https://kochfokus.de/artikel/erdnussbutter-selber-machen/ "Erdnussbutter") selbst gemacht. Diese werde ich bei meinem Bananenbrot auch verwenden.
 
-Also, ich kann es jedenfalls gar nicht mehr abwarten, mein Bananenbrot endlich zu essen und hoffe, Du bist neugierig geworden und möchtest dieses tolle Rezept auch einmal ausprobieren.
+Also, ich kann es jedenfalls gar nicht mehr abwarten, mein Bananenbrot endlich zu essen und hoffe, Ihr seid neugierig geworden und möchtet dieses tolle Rezept auch einmal ausprobieren.
 
 ## Küchengeräte und -utensilien
 
