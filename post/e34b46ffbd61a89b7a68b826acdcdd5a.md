@@ -1,8 +1,8 @@
 {
-    "slug": "sensationell-saftiges-schokoladenbananenbrot-mit-geswirlter-erdnussbutter",
+    "slug": "schokoladenbananenbrot-mit-geswirlter-erdnussbutter",
     "draft": true,
     "date": "2017-10-27T07:32:00+00:00",
-    "title": "Sensationell saftiges Schokoladenbananenbrot mit geswirlter Erdnussbutter",
+    "title": "Schokoladenbananenbrot mit geswirlter Erdnussbutter",
     "description": null,
     "featuredImage": null,
     "author": "Gabi",
