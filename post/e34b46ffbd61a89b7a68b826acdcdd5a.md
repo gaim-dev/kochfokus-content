@@ -93,8 +93,8 @@
                         "photo": null
                     },
                     {
-                        "text": "Zuerst eine Zucchino waschen, halbieren, eine halbe Zucchini in St\u00fccke schneiden und in den Standmixer geben.",
-                        "photo": null
+                        "text": "Zuerst eine Zucchino waschen, halbieren, eine halbe Zucchino in St\u00fccke schneiden und in den Standmixer geben. Tipp: Je nach Leistungsst\u00e4rke des Standmixers muss man die Zucchino in kleine St\u00fccke schneiden. Bei meinem Standmixer reichen grobe St\u00fccke.",
+                        "photo": "super-leckerer-sommersalat---super-schnell-und-einfach-zuchini-in-stuecke-schneiden_59dff17784932.jpg"
                     },
                     {
                         "text": "Dann die Bananen sch\u00e4len, in die kleine St\u00fccke teilen, zu den Zucchinost\u00fccken in den Standmixer geben und beides nun p\u00fcrieren. Dieses P\u00fcree zun\u00e4chst beiseite stellen.",
