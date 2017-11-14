@@ -122,11 +122,11 @@
                     },
                     {
                         "text": "Das Bananenbrot etwas ausk\u00fchlen lassen, bevor es aus der Kastenform geholt wird.",
-                        "photo": null
+                        "photo": "schokoladenbananenbrot-mit-erdnussbutterswirl_5a0ab36a892de.jpg"
                     },
                     {
                         "text": "Guten Appetit!",
-                        "photo": null
+                        "photo": "schokoladenbananenbrot-mit-erdnussbutterswirl-6_5a0ab6238e8fa.jpg"
                     }
                 ]
             }
