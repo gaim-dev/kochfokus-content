@@ -93,12 +93,8 @@
                         "photo": null
                     },
                     {
-                        "text": "Zuerst eine Zucchino waschen, halbieren, eine halbe Zucchino in St\u00fccke schneiden und in den Standmixer geben. Tipp: Je nach Leistungsst\u00e4rke des Standmixers muss man die Zucchino in kleine St\u00fccke schneiden. Bei meinem Standmixer reichen grobe St\u00fccke.",
-                        "photo": "super-leckerer-sommersalat---super-schnell-und-einfach-zuchini-in-stuecke-schneiden_59dff17784932.jpg"
-                    },
-                    {
                         "text": "Dann die Bananen sch\u00e4len, in die kleine St\u00fccke teilen, zu den Zucchinost\u00fccken in den Standmixer geben und beides nun p\u00fcrieren. Dieses P\u00fcree zun\u00e4chst beiseite stellen.",
-                        "photo": null
+                        "photo": "schokoladenbananenbrot-mit-erdnussbutterswirl_5a0aadb1c9db3.jpg"
                     },
                     {
                         "text": "F\u00fcr den Teig alle trockenen Zutaten in eine Sch\u00fcssel geben und miteinander vermengen.",
@@ -118,7 +114,7 @@
                     },
                     {
                         "text": "Alles in die vorbereitete Form geben, die Erdnussbutter in Klecksen obenauf geben und mit einer Gabel leicht in die Oberfl\u00e4che swirlen.",
-                        "photo": null
+                        "photo": "schokoladenbananenbrot-mit-erdnussbutterswirl_5a0aafe24cd2a.jpg"
                     },
                     {
                         "text": "Die Kastenbackform auf den mittleren Einschub des vorgeheizten Backofens geben und 45 Minuten bis 50 Minuten backen.",
