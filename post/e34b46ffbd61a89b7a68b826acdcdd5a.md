@@ -4,7 +4,7 @@
     "date": "2017-10-27T07:32:00+00:00",
     "title": "Schokoladenbananenbrot mit Erdnussbutterswirl",
     "description": null,
-    "featuredImage": null,
+    "featuredImage": "schokoladenbrot-mit-erdnussbutterswirl_5a0aa46d93651.jpg",
     "author": "Gabi",
     "recipe": {
         "ingredients": [
@@ -148,7 +148,7 @@
 Hände hoch! Wer liebt auch **Bananenbrot**? Dass ich es liebe, wisst Ihr ja bereits. Man kann es gleich morgens zum Frühstück, als Snack zwischendurch essen oder aber auch als Begleiter zum Nachmittagskaffee genießen. Heute möchte ich es mal wieder etwas anders machen als sonst. Wie kann es auch anders sein? Immer die gleiche Art von Bananenbrot wäre  einfach zu langweilig.
 
 Vor einiger Zeit habe ja schon einmal einen [Zitronenkuchen](http://kochfokus.de/artikel/herrlich-saftiger-sommerlicher-zitronenkuchen/ "Zitronenkuchen")
-gebacken, der durch eine halbe geraspelte Zucchino schön saftig wurde. Das möchte ich heute auch bei meinem Bananenbrot so machen. Außerdem habe ich mal wieder gestern mal wieder [Erdnussbutter](https://kochfokus.de/artikel/erdnussbutter-selber-machen/ "Erdnussbutter") selbst gemacht. Diese und Backkako werde ich für mein Bananenbrot auch verwenden. Es gibt also ein weiteres **Schokoladenbanenbrot**. Das erste [Schokoladenbananenbrot] (https://kochfokus.de/artikel/wahnsinning-saftiges-glutenfreies-schokoladenbananenbrot/ "Schokoladenbananenbrot") war ein glutenfreies und ich habe es mit Teffmehl gemacht.
+gebacken, der durch eine halbe geraspelte Zucchino schön saftig wurde. Das möchte ich heute auch bei meinem Bananenbrot so machen. Außerdem habe ich mal wieder gestern mal wieder [Erdnussbutter](https://kochfokus.de/artikel/erdnussbutter-selber-machen/ "Erdnussbutter") selbst gemacht. Diese und Backkako werde ich für mein Bananenbrot auch verwenden. Es gibt also ein weiteres **Schokoladenbanenbrot**. Das erste [Schokoladenbananenbrot] (https://kochfokus.de/artikel/wahnsinning-saftiges-glutenfreies-schokoladenbananenbrot/ "Schokoladenbananenbrot") war ein **glutenfreies** und ich habe es mit Teffmehl gemacht.
 
 Ich kann es jedenfalls gar nicht mehr abwarten, mein Bananenbrot endlich zu essen und hoffe, Ihr seid neugierig geworden und möchtet dieses tolle Rezept auch einmal ausprobieren. Wenn Ihr es nachmacht, schickt mir doch einmal Eure Fotos in den Kommentaren oder verlinkt Eure schönen Resultate mit #kochfokusde auf Instagram.
 
