@@ -152,7 +152,7 @@ gebacken, der durch eine halbe geraspelte Zucchino schön saftig wurde. Das möc
 
 Ich kann es jedenfalls gar nicht mehr abwarten, mein Bananenbrot endlich zu essen und hoffe, Ihr seid neugierig geworden und möchtet dieses tolle Rezept auch einmal ausprobieren. Wenn Ihr es nachmacht, schickt mir doch einmal Eure Fotos in den Kommentaren oder verlinkt Eure schönen Resultate mit #kochfokusde auf Instagram.
 
-{{< photo filename="schokoladenbananenbrot-mit-erdnussbutterswirl_5a0aa6ac9dbfd.jpg" caption="Schokoladenbananenbrot mit Erdnussbutterswirl" >}}
+{{< photo filename="schokoladenbananenbrot-mit-erdnussbutterswirl_5a0aa6ac9dbfd.jpg">}}
 
 ## Küchengeräte und -utensilien
 
@@ -177,4 +177,4 @@ Ich kann es jedenfalls gar nicht mehr abwarten, mein Bananenbrot endlich zu esse
 
 Viel Spaß beim Nachbacken!
 
-{{< photo filename="schokoladenbananenbrot-mit-erdnussbutterswirl_5a0aa8ef69c34.jpg" caption="Schokoladenbananenbrot mit Erdnussbutterswirl" >}}
+{{< photo filename="schokoladenbananenbrot-mit-erdnussbutterswirl_5a0aa8ef69c34.jpg">}}
