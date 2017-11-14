@@ -145,10 +145,10 @@
     ]
 }
 
-Hände hoch! Wer liebt auch **Bananenbrot**? Ich liebe es, aber das wisst Ihr ja bereits. Man kann es gleich morgens zum Frühstück, als Snack zwischendurch essen oder aber auch als Begleiter zum Nachmittagskaffee genießen. Heute möchte ich es mal wieder etwas anders machen als sonst. Wie kann es auch anders sein? Immer die gleiche Art von Bananenbrot wäre  einfach zu langweilig.
+Hände hoch! Wer liebt auch **Bananenbrot**? Dass ich es liebe, wisst Ihr ja bereits. Man kann es gleich morgens zum Frühstück, als Snack zwischendurch essen oder aber auch als Begleiter zum Nachmittagskaffee genießen. Heute möchte ich es mal wieder etwas anders machen als sonst. Wie kann es auch anders sein? Immer die gleiche Art von Bananenbrot wäre  einfach zu langweilig.
 
 Vor einiger Zeit habe ja schon einmal einen [Zitronenkuchen](http://kochfokus.de/artikel/herrlich-saftiger-sommerlicher-zitronenkuchen/ "Zitronenkuchen")
-gebacken, der durch eine halbe geraspelte Zucchino schön saftig wurde. So möchte ich dies heute auch mit meinem Bananenbrot machen. Außerdem habe ich mal wieder gestern mal wieder [Erdnussbutter](https://kochfokus.de/artikel/erdnussbutter-selber-machen/ "Erdnussbutter") selbst gemacht. Diese und Backkako werde ich bei meinem Bananenbrot auch verwenden. Ich werde also ein **Schokoladenbananenbrot** backen.
+gebacken, der durch eine halbe geraspelte Zucchino schön saftig wurde. Das möchte ich heute auch bei meinem Bananenbrot so machen. Außerdem habe ich mal wieder gestern mal wieder [Erdnussbutter](https://kochfokus.de/artikel/erdnussbutter-selber-machen/ "Erdnussbutter") selbst gemacht. Diese und Backkako werde ich bei meinem Bananenbrot auch verwenden. Ich werde also ein **Schokoladenbananenbrot** backen.
 
 Ich kann es jedenfalls gar nicht mehr abwarten, mein Bananenbrot endlich zu essen und hoffe, Ihr seid neugierig geworden und möchtet dieses tolle Rezept auch einmal ausprobieren. Wenn Ihr es nachmacht, schickt mir doch einmal Eure Fotos in den Kommentaren oder verlinkt Eure schönen Resultate mit #kochfokusde auf Instagram.
 
