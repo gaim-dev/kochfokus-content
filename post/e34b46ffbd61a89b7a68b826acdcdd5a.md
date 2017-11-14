@@ -131,7 +131,10 @@
                 ]
             }
         ],
-        "notes": null
+        "notes": {
+            "text": "Das Schokoladenbananenbrot mit Erdnussbutterswirl schmeckt \u00fcbrigens pur schon sehr gut. Mit etwas zus\u00e4tzlicher Erdnussbutter ist es noch k\u00f6stlicher.",
+            "photo": "schokoladenbananenbrot-mit-erdnussbutterswirl_5a0ab0d2edf91.jpg"
+        }
     },
     "Kategorien": [
         "Rezepte",
