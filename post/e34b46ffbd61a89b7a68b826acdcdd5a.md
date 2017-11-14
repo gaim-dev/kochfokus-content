@@ -136,6 +136,21 @@
             "photo": "schokoladenbananenbrot-mit-erdnussbutterswirl_5a0ab0d2edf91.jpg"
         }
     },
+    "Tags": [
+        "bananenbrot",
+        "schokoladenbananenbrot",
+        "gesund",
+        "snack",
+        "fr\u00fchst\u00fcck",
+        "banane",
+        "zucchini",
+        "schokolade",
+        "fitfoos",
+        "fit food",
+        "backen",
+        "selbst gebacken",
+        "vegetarisch"
+    ],
     "Kategorien": [
         "Rezepte",
         "Brote",
