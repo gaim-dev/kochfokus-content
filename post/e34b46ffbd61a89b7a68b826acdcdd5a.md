@@ -1,7 +1,7 @@
 {
     "slug": "schokoladenbananenbrot-mit-erdnussbutter-swirl",
     "draft": false,
-    "date": "2017-10-27T07:32:00+00:00",
+    "date": "2017-11-14T07:32:00+00:00",
     "title": "Schokoladenbananenbrot mit Erdnussbutterswirl",
     "description": "Das Schokoladenbananenbrot mit Erdnussbutterswirl wird Deinen Fr\u00fchst\u00fcckstisch im Nu erobern. Die gesunden Zutaten machen es zu einem wertvollen Start in den Tag, aber auch als gesunder Snack zwischendurch ist es hervorragend geeignet.",
     "featuredImage": "schokoladenbrot-mit-erdnussbutterswirl_5a0aa46d93651.jpg",
