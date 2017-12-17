@@ -50,3 +50,7 @@ Meine liebe [Sari](https://www.sariskuechenchaos.de/ "Sari") hat den Stress der 
 Findet ihr nicht auch, dass Familienrezepte wertvolle Schätze sind? Ich freue mich jedesmal besonders, wenn Ihr solche Schätze mit uns teilt! Diesmal hat die liebe Katrin in ihrer[ Hobbyküche](https://krabsch.blogspot.de/ " Hobbyküche") das leckerste[ Schwarz-Weiß-Gebäck](https://krabsch.blogspot.de/2017/12/schwarz-wei-geback.html " Schwarz-Weiß-Gebäck") ihrer Mutter nachgebacken. Sie wollte es schon immer einmal daran versuchen und in diesem Jahr hat es geklappt. Diese Köstlichkeit ist zum Glück auch auf unserem Weihnachtsteller gelandet.
 
 {{< photo filename="zusammenfassung-blog-event-das-darf-auf-keinem-weihnachtsteller-fehlen-_5a36cb69c4e4e.jpg" >}}
+
+Für die liebe [Britta](https://geniesserle.com/ "Britta") ist die Weihnachtsbäckerei ohne viel SchiSchi die beste, denn ihr fehlt im Moment einfach die Geduld für aufwändige Gebäckerei. Wenn ich mir das geniale Rezept für die [Mandel-Marzipan Taler](https://geniesserle.com/2017/12/12/mandel-marzipan-taler/ "Mandel-Marzipan Taler") anschaue fällt mir auf, dass hier auf schön einfache Weise wertvolle Zutaten der Weihnachtsbäckerei verwendet werden. So muss Genuss sein: einfach, aber einfach das Beste. 😉
+
+{{< photo filename="zusammenfassung-blog-event-das-darf-auf-keinem-weihnachtsteller-fehlen-_5a36ce93c6434.jpeg" >}}
