@@ -23,7 +23,7 @@ Die erste Köstlichkeit hat die liebe Birgit von[ Backen mit Leidenschaft](https
 
 {{< photo filename="zusammenfassung-blog-event-das-darf-auf-keinem-weihnachtsteller-fehlen-_5a36b0c2c5264.jpg" >}}
 
-Die liebe Wilma von [Pane - Bistecca](http://pane-bistecca.com/index.html "Pane - Bistecca") wollte schon immer Biberli machen, aber irgendwie hat sie es vorher nie richtig gewagt. Wie gut, dass sie sich für unser Blog Event an die[ Schweizer Biberli](http://pane-bistecca.com/rezepte-recipe-blog/schweizer-biberli " Schweizer Biberli") getraut hat.
+Die liebe Wilma von [Pane - Bistecca](http://pane-bistecca.com/index.html "Pane - Bistecca") wollte schon immer Biberli machen, aber irgendwie hat sie es vorher nie richtig gewagt. Wie gut, dass sie sich für unser Blog Event an die[ Schweizer Biberli](http://pane-bistecca.com/rezepte-recipe-blog/schweizer-biberli " Schweizer Biberli") getraut hat. Achtung bei den Biberli besteht Suchtgefahr! 😉
 
 {{< photo filename="zusammenfassung-blog-event-das-darf-auf-keinem-weihnachtsteller-fehlen-_5a36b395c6f60.jpg"  >}}
 
