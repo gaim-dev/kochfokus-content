@@ -35,6 +35,9 @@ Was ist bei der lieben Lilli von [Vegetarisch unterwegs](http://vegetarisch-unte
 
 {{< photo filename="zusammenfassung-blog-event-das-darf-auf-keinem-weihnachtsteller-fehlen-_5a36bd1e3d5c9.jpg" >}}
 
-Diese süßen [Pudelmützen](http://herdgefluester.de/pudelmuetzen/ "Pudelmützen") sind nicht zum Wärmen der Ohren gedacht, sondern sollen gegessen werden. Das glaubt Ihr nicht? Dann müsst Ihr Euch unbedingt einmal auf [Jasmins](http://herdgefluester.de/ "Jasmins") Blog umschauen.
-
+Diese süßen [Pudelmützen](http://herdgefluester.de/pudelmuetzen/ "Pudelmützen") sind nicht zum Wärmen der Ohren gedacht, sondern sollen gegessen werden. Die liebe Jasmin vom Blog [Herdgeflüster](http://herdgefluester.de/ "Herdgeflüster") hatte dieses tolle Rezept schon beinahe vergessen. Wie gut, dass sie eine riesige Schüssel voller Kekse für einen Weihnachtsmarkt brauchte und ihr dabei alte Traditionen ihrer Familie wieder einfielen. Eine davon sind die Pudelmützen.
 {{< photo filename="zusammenfassung-blog-event-das-darf-auf-keinem-weihnachtsteller-fehlen-_5a36beef48761.jpg" >}}
+
+Wenn [Sina](https://giftigeblonde.com/ "Sina") nach Kroatien reist, dann deckt sie sich unter anderem mit getrockneten Feigen ein. In ihren Vorräten schlummerten neben diesen glücklicherweise noch getrocknete Cranberries, so dass Sina ihre köstlichen[ Florentiner mit Feigen und Cranberries ](https://giftigeblonde.com/2017/12/07/florentiner-mit-feigen-und-cranberries/ " Florentiner mit Feigen und Cranberries ")für unseren Weihnachtstellerbacken konnte.
+
+{{< photo filename="zusammenfassung-blog-event-das-darf-auf-keinem-weihnachtsteller-fehlen-_5a36c475a326d.jpg" >}}
