@@ -42,3 +42,7 @@ Diese süßen [Pudelmützen](http://herdgefluester.de/pudelmuetzen/ "Pudelmütze
 Wenn [Sina](https://giftigeblonde.com/ "Sina") nach Kroatien reist, dann deckt sie sich unter anderem mit getrockneten Feigen ein. In ihren Vorräten schlummerten neben diesen glücklicherweise noch getrocknete Cranberries, so dass Sina ihre köstlichen[ Florentiner mit Feigen und Cranberries ](https://giftigeblonde.com/2017/12/07/florentiner-mit-feigen-und-cranberries/ " Florentiner mit Feigen und Cranberries ")für unseren Weihnachtstellerbacken konnte.
 
 {{< photo filename="zusammenfassung-blog-event-das-darf-auf-keinem-weihnachtsteller-fehlen-_5a36c475a326d.jpg" >}}
+
+Meine liebe Sari hat den Stress der Vorweihnachtszeit zu spüren bekommen. Si hetzte von einem Termin zum Nächsten. Zum Glück hat sie trotz allem noch die Zeit gefunden, die edlen Spekulatius Pralinen zu machen. Sie verwendet diese unter anderem als Mitbringsel und deshalb hat sie einiger davon mit Goldstaub bepudert und auf unseren Weihnachtsteller gelegt.
+
+{{< photo filename="zusammenfassung-blog-event-das-darf-auf-keinem-weihnachtsteller-fehlen-_5a36c840858fb.jpg" >}}
