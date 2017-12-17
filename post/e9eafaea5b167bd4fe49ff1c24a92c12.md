@@ -31,7 +31,7 @@ Den Anfang für die diesjährige Weihnachtsbäckerei machte bei der lieben Andy 
 
 {{< photo filename="zusammenfassung-blog-event-das-darf-auf-keinem-weihnachtsteller-fehlen-_5a36b5b3dfcf1.jpg" >}}
 
-Was ist bei der lieben Lilli von [Vegetarisch unterwegs](http://vegetarisch-unterwegs.blogspot.de/ "Vegetarisch unterwegs") als erstes auf ihrem Plätzchenteller vergriffen? Es sind diese leckeren veganen [Rumkugeln ](http://vegetarisch-unterwegs.blogspot.de/2017/12/weihnachtliche-rumkugeln-black-white.html "Rumkugeln "). Auch Lilli hat uns ein [Rezeptvideo](https://www.youtube.com/watch?v=DQbPhsfzCC0 "Rezeptvideo") spendiert.
+Was ist bei der lieben Lilli von [Vegetarisch unterwegs](http://vegetarisch-unterwegs.blogspot.de/ "Vegetarisch unterwegs") als erstes auf ihrem Plätzchenteller vergriffen? Es sind diese leckeren veganen [Rumkugeln](http://vegetarisch-unterwegs.blogspot.de/2017/12/weihnachtliche-rumkugeln-black-white.html "Rumkugeln "). Auch Lilli hat uns ein [Rezeptvideo](https://www.youtube.com/watch?v=DQbPhsfzCC0 "Rezeptvideo") spendiert.
 
 {{< photo filename="zusammenfassung-blog-event-das-darf-auf-keinem-weihnachtsteller-fehlen-_5a36bd1e3d5c9.jpg" >}}
 
