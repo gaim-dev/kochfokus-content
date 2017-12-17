@@ -57,4 +57,4 @@ Für die liebe [Britta](https://geniesserle.com/ "Britta") ist die Weihnachtsbä
 
 Auch die liebe Apricot Lady Christina öffnet für uns die Familienschatztruhe, um mit uns eines ihrer traditionellen Familienrezepte zu teilen. Sie hat für uns aus etwa 3000 losen Blättern das Rezept für ihre verlockenden [Linzer Augen](https://www.theapricotlady.com/linzer-augen/ "Linzer Augen") ausgegraben.
 
-{{< photo filename="zusammenfassung-blog-event-das-darf-auf-keinem-weihnachtsteller-fehlen-_5a36d05f29050.jpg" caption="Zusammenfassung Blog Event " >}}
+{{< photo filename="zusammenfassung-blog-event-das-darf-auf-keinem-weihnachtsteller-fehlen-_5a36d05f29050.jpg" >}}
