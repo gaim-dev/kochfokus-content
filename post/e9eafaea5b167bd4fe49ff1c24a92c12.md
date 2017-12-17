@@ -1,6 +1,6 @@
 {
     "slug": "zusammenfassung-blog-event-das-darf-auf-keinem-weihnachtsteller-fehlen",
-    "draft": false,
+    "draft": true,
     "date": "2017-12-17T17:25:00+00:00",
     "title": "Zusammenfassung Blog Event \"Das darf auf keinem Weihnachtsteller fehlen\"",
     "description": null,
@@ -21,4 +21,4 @@ Nun wollen wir uns aber jede einzelne Köstlichkeit etwas genauer anschauen:
 
 Die erste Köstlichkeit hat die liebe Birgit von[ Backen mit Leidenschaft](https://backenmitleidenschaftblog.wordpress.com/ " Backen mit Leidenschaft") auf unseren Weihnachtsteller mitgebracht. Sie hat uns [Windbeutel mit Bratapfel und Zimtsahne ](https://backenmitleidenschaftblog.wordpress.com/2017/11/29/windbeutel-mit-bratapfel-und-zimtsahne/ "Windbeutel mit Bratapfel und Zimtsahne ")spendiert.
 
-{{< photo filename="zusammenfassung-blog-event-das-darf-auf-keinem-weihnachtsteller-fehlen-_5a36b0c2c5264.jpg" caption >}}
+{{< photo filename="zusammenfassung-blog-event-das-darf-auf-keinem-weihnachtsteller-fehlen-_5a36b0c2c5264.jpg" >}}
