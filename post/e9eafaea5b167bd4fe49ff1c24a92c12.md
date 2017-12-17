@@ -66,3 +66,7 @@ Dem lieben Christian von [Erdbeeren und anderes Gemüse](http://www.erdbeeren-un
 Die liebe [Lea](https://www.blaubeerbasilikum.de/ "Lea") schenkt uns ein Rezept, das auch zum Backen mit Kindern bestens geeignet ist. Sie hat für uns  wunderbar mürbe [buttrige Weihnachtstaler](https://www.blaubeerbasilikum.de/buttrige-weihnachtstaler/ "buttrige Weihnachtstaler") gebacken.
 
 {{< photo filename="zusammenfassung-blog-event-das-darf-auf-keinem-weihnachtsteller-fehlen-_5a36d71097a80.jpg" >}}
+
+Kennt ihr schon Brotlaibchen? Diese gibt sowohl herzhaft als auch in der süßen Variante. Die liebe [Jasmin](https://diekunstdesbackens.com/ "Jasmin") hat für unseren Weihnachtsteller [süße Bauernlaibchen](https://diekunstdesbackens.com/2017/12/12/suesse-bauerlaibchen/ "süße Bauernlaibchen") gebacken.
+
+{{< photo filename="zusammenfassung-blog-event-das-darf-auf-keinem-weihnachtsteller-fehlen-_5a36d8c252c32.jpg" >}}
