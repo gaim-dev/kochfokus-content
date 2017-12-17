@@ -60,3 +60,5 @@ Auch die liebe [The Apricot Lady](https://www.theapricotlady.com/ "The Apricot L
 {{< photo filename="zusammenfassung-blog-event-das-darf-auf-keinem-weihnachtsteller-fehlen-_5a36d05f29050.jpg" >}}
 
 Dem lieben Christian von [Erdbeeren und anderes Gemüse](http://www.erdbeeren-und-anderes-gemuese.de/ "Erdbeeren und anderes Gemüse") fielen bei unserem Event-Motto sofort Plätzchen ein und Recht hat er. Die dürfen wirklich auf keinem Weihnachtsteller fehlen. Der Christian hat sehr fleißig gebacken und ein Rezept für seine [Walnussmonde](http://www.erdbeeren-und-anderes-gemuese.de/ "Walnussmonde") aufgeschrieben.
+
+{{< photo filename="zusammenfassung-blog-event-das-darf-auf-keinem-weihnachtsteller-fehlen-_5a36d5652618d.jpg" >}}
