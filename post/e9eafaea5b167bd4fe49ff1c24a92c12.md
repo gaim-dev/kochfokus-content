@@ -46,3 +46,7 @@ Wenn [Sina](https://giftigeblonde.com/ "Sina") nach Kroatien reist, dann deckt s
 Meine liebe [Sari](https://www.sariskuechenchaos.de/ "Sari") hat den Stress der Vorweihnachtszeit zu spüren bekommen. Si hetzte von einem Termin zum Nächsten. Zum Glück hat sie trotz allem noch die Zeit gefunden, die edlen [Spekulatius Pralinen](https://www.sariskuechenchaos.de/festtage/weihnachten/spekulatius-pralinen/ "Spekulatius Pralinen") zu machen. Sie verwendet diese unter anderem als Mitbringsel und deshalb hat sie einiger davon mit Goldstaub bepudert und auf unseren Weihnachtsteller gelegt.
 
 {{< photo filename="zusammenfassung-blog-event-das-darf-auf-keinem-weihnachtsteller-fehlen-_5a36c840858fb.jpg" >}}
+
+Findet ihr nicht auch, dass Familienrezepte ein wertvoller Schatz sind. ich freue mich jedesmal, wenn Ihr Eure Schätze mit uns teilt! Diesmal hat die liebe Katrin in ihrer Hobbyküche das leckerste Schwarz-Weiß-Gbäck ihrer Mutter nachgebacken. Sie wollte es schon immer einmal daran versuchen und in diesem Jahr hat es geklappt. Diese Köstlichkeit ist zum Glück auch auf unserem Weihnachtsteller gelandet.
+
+{{< photo filename="zusammenfassung-blog-event-das-darf-auf-keinem-weihnachtsteller-fehlen-_5a36cb69c4e4e.jpg" >}}
