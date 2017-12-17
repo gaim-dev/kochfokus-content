@@ -17,7 +17,7 @@ Ich möchte Euch mit dieser Zusammenfassung herzlich einladen, erst einmal wiede
 
 Bevor es nun aber losgeht, möchte ich mich bei allen, die am Blog Event teilgenommen haben, **ganz herzlich bedanken**. Ich freue mich über jede Eurer Kreationen, die auf unseren Weihnachtsteller gelegt wurde.
 
-Nun wollen wir uns aber jede einzelne Köstlichkeit etwas genauer anschauen:
+## Zusammenfassung
 
 Die erste Köstlichkeit hat die liebe Birgit von[ Backen mit Leidenschaft](https://backenmitleidenschaftblog.wordpress.com/ " Backen mit Leidenschaft") für unseren Weihnachtsteller mitgebracht. Sie hat uns [Windbeutel mit Bratapfel und Zimtsahne ](https://backenmitleidenschaftblog.wordpress.com/2017/11/29/windbeutel-mit-bratapfel-und-zimtsahne/ "Windbeutel mit Bratapfel und Zimtsahne ")spendiert. Die Windbeutel lassen sich prima vorbereiten, denn man kann das Gebäck zunächst backen und am folgenden Tag mit der Füllung versehen.
 
