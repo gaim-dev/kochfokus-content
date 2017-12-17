@@ -4,7 +4,7 @@
     "date": "2017-12-17T17:25:00+00:00",
     "title": "Zusammenfassung Blog Event \"Das darf auf keinem Weihnachtsteller fehlen\"",
     "description": null,
-    "featuredImage": null,
+    "featuredImage": "zusammenfassung-blog-event-das-darf-auf-keinem-weihnachtsteller-fehlen-_5a36b17d74cf4.jpg",
     "author": "Gabi",
     "recipe": null
 }
