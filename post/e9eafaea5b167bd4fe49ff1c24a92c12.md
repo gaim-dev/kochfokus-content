@@ -26,3 +26,7 @@ Die erste Köstlichkeit hat die liebe Birgit von[ Backen mit Leidenschaft](https
 Die liebe Wilma von [Pane - Bistecca](http://pane-bistecca.com/index.html "Pane - Bistecca") wollte schon immer Biberli machen, aber irgendwie hat sie es vorher nie richtig gewagt. Wie gut, dass sie sich für unser Blog Event an die[ Schweizer Biberli](http://pane-bistecca.com/rezepte-recipe-blog/schweizer-biberli " Schweizer Biberli") getraut hat.
 
 {{< photo filename="zusammenfassung-blog-event-das-darf-auf-keinem-weihnachtsteller-fehlen-_5a36b395c6f60.jpg"  >}}
+
+Den glorreichen Anfang für die Weihnachtsbäckerei machte bei der lieben [Andy](http://kuechencottage.de/ "Andy") das deine Butterspritzgebäck. Andy hat uns auch nicht nur das herrlich zarte [Spritzgebäck](http://kuechencottage.de/butterspritzgebaeck/ "Spritzgebäck") spendiert, sondern gleich noch ein [Rezeptvideo](https://www.youtube.com/watch?v=xJf6mHNcp-E "Rezeptvideo") dazu gelegt.
+
+{{< photo filename="zusammenfassung-blog-event-das-darf-auf-keinem-weihnachtsteller-fehlen-_5a36b5b3dfcf1.jpg"  >}}
