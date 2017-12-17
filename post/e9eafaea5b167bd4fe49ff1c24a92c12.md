@@ -19,7 +19,7 @@ Bevor es nun aber losgeht, möchte ich mich bei allen, die am Blog Event teilgen
 
 Nun wollen wir uns aber jede einzelne Köstlichkeit etwas genauer anschauen:
 
-Die erste Köstlichkeit hat die liebe Birgit von[ Backen mit Leidenschaft](https://backenmitleidenschaftblog.wordpress.com/ " Backen mit Leidenschaft") für unseren Weihnachtsteller mitgebracht. Sie hat uns [Windbeutel mit Bratapfel und Zimtsahne ](https://backenmitleidenschaftblog.wordpress.com/2017/11/29/windbeutel-mit-bratapfel-und-zimtsahne/ "Windbeutel mit Bratapfel und Zimtsahne ")spendiert.
+Die erste Köstlichkeit hat die liebe Birgit von[ Backen mit Leidenschaft](https://backenmitleidenschaftblog.wordpress.com/ " Backen mit Leidenschaft") für unseren Weihnachtsteller mitgebracht. Sie hat uns [Windbeutel mit Bratapfel und Zimtsahne ](https://backenmitleidenschaftblog.wordpress.com/2017/11/29/windbeutel-mit-bratapfel-und-zimtsahne/ "Windbeutel mit Bratapfel und Zimtsahne ")spendiert. Die Windbeutel lassen sich prima vorbereiten, denn man kann das Gebäck zunächst backen und am folgendem Tag mit der Füllung versehen.
 
 {{< photo filename="zusammenfassung-blog-event-das-darf-auf-keinem-weihnachtsteller-fehlen-_5a36b0c2c5264.jpg" >}}
 
