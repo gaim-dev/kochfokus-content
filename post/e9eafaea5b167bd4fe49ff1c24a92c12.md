@@ -27,7 +27,7 @@ Die liebe Wilma von [Pane - Bistecca](http://pane-bistecca.com/index.html "Pane 
 
 {{< photo filename="zusammenfassung-blog-event-das-darf-auf-keinem-weihnachtsteller-fehlen-_5a36b395c6f60.jpg" >}}
 
-Den Anfang für die diesjährige Weihnachtsbäckerei machte bei der lieben Andy in ihrem [Kuechencottage](http://kuechencottage.de/ "Kuechencottage") das deine Butterspritzgebäck. Andy hat uns auch nicht nur das herrlich zarte [Spritzgebäck](http://kuechencottage.de/butterspritzgebaeck/ "Spritzgebäck") spendiert, sondern gleich noch ein [Rezeptvideo](https://www.youtube.com/watch?v=xJf6mHNcp-E "Rezeptvideo") dazugelegt.
+Den Anfang für die diesjährige Weihnachtsbäckerei machte bei der lieben Andy in ihrem [Kuechencottage](http://kuechencottage.de/ "Kuechencottage") das feine Butterspritzgebäck. Andy hat uns aber nicht nur das herrlich zarte [Spritzgebäck](http://kuechencottage.de/butterspritzgebaeck/ "Spritzgebäck") spendiert, sondern gleich noch ein [Rezeptvideo](https://www.youtube.com/watch?v=xJf6mHNcp-E "Rezeptvideo") dazugelegt.
 
 {{< photo filename="zusammenfassung-blog-event-das-darf-auf-keinem-weihnachtsteller-fehlen-_5a36b5b3dfcf1.jpg" >}}
 
