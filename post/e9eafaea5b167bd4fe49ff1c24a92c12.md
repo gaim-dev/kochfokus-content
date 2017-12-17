@@ -35,6 +35,6 @@ Was ist bei der lieben Lilli von [Vegetarisch unterwegs](http://vegetarisch-unte
 
 {{< photo filename="zusammenfassung-blog-event-das-darf-auf-keinem-weihnachtsteller-fehlen-_5a36bd1e3d5c9.jpg" >}}
 
-Diese [Pudelmützen](http://herdgefluester.de/pudelmuetzen/ "Pudelmützen") sind nicht zum Wärmen der Ohren, sondern sollen gegessen werden. Das glaubt Ihr nicht? Dann müsst Ihr Euch unbedingt mal auf [Jasmins](http://herdgefluester.de/ "Jasmins") Blog umschauen.
+Diese süßen [Pudelmützen](http://herdgefluester.de/pudelmuetzen/ "Pudelmützen") sind nicht zum Wärmen der Ohren gedacht, sondern sollen gegessen werden. Das glaubt Ihr nicht? Dann müsst Ihr Euch unbedingt einmal auf [Jasmins](http://herdgefluester.de/ "Jasmins") Blog umschauen.
 
 {{< photo filename="zusammenfassung-blog-event-das-darf-auf-keinem-weihnachtsteller-fehlen-_5a36beef48761.jpg" >}}
