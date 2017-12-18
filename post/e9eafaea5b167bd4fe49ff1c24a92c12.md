@@ -9,7 +9,7 @@
     "recipe": null
 }
 
-Als [Jill](http://www.kleineskuliversum.com/ "Jill") und ich Euch eingeladen haben, uns zu verraten, was auf keinem Weihnachtsteller fehlen darf, lag die Adventszeit noch vor uns. Ein Blick auf meinen Kalender zeigt mir sehr deutlich, dass wir nun geradezu auf das  Weihnachtsfest zurasen. Habt Ihr auch das Gefühl, dass Weihnachten immer schneller auf uns zukommt?
+Als [Jill](http://www.kleineskuliversum.com/ "Jill") und ich Euch eingeladen haben, uns zu verraten, was auf keinem Weihnachtsteller fehlen darf, lag die Adventszeit noch vor uns. Ein Blick auf meinen Kalender zeigt mir sehr deutlich, dass wir nun geradezu auf das  Weihnachtsfest zu rasen. Habt Ihr auch das Gefühl, dass Weihnachten immer schneller auf uns zukommt?
 
 Irgendwie scheint es mit den Weihnachtstagen immer so zu sein, dass sie plötzlich und ganz unerwartet da sind. In den letzten Tagen vor Weihnachten werden die Menschen auch zusehends hektischer, weil häufig noch so viel zu machen ist und sie sich unvorbereitet fühlen.
 
