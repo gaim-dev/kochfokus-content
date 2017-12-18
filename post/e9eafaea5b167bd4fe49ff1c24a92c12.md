@@ -55,7 +55,7 @@ Findet Ihr nicht auch, dass Familienrezepte wertvolle Schätze sind? Ich freue m
 
 {{< photo filename="zusammenfassung-blog-event-das-darf-auf-keinem-weihnachtsteller-fehlen-_5a36cb69c4e4e.jpg" >}}
 
-Für die liebe [Britta](https://geniesserle.com/ "Britta") ist die Weihnachtsbäckerei ohne viel SchiSchi die beste, denn ihr fehlt im Moment einfach die Geduld für aufwändige Gebäcke. Wenn ich mir das geniale Rezept für die [Mandel-Marzipan Taler](https://geniesserle.com/2017/12/12/mandel-marzipan-taler/ "Mandel-Marzipan Taler") anschaue fällt mir auf, dass hier auf schön einfache Weise wertvolle Zutaten der Weihnachtsbäckerei verwendet werden. So muss Genuss sein: einfach, aber einfach das Beste. 😉
+Für die liebe [Britta](https://geniesserle.com/ "Britta") ist die Weihnachtsbäckerei ohne viel SchiSchi die beste, denn ihr fehlt im Moment einfach die Geduld für aufwändige Gebäcke. Wenn ich mir das geniale Rezept für die [Mandel-Marzipan Taler](https://geniesserle.com/2017/12/12/mandel-marzipan-taler/ "Mandel-Marzipan Taler") anschaue, fällt mir auf, dass hier auf schön einfache Weise wertvolle Zutaten der Weihnachtsbäckerei verwendet werden. So muss Genuss sein: einfach, aber einfach das Beste. 😉
 
 {{< photo filename="zusammenfassung-blog-event-das-darf-auf-keinem-weihnachtsteller-fehlen-_5a36ce93c6434.jpeg" >}}
 
