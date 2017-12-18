@@ -71,7 +71,7 @@ Die liebe [Lea](https://www.blaubeerbasilikum.de/ "Lea") schenkt uns ein Rezept,
 
 {{< photo filename="zusammenfassung-blog-event-das-darf-auf-keinem-weihnachtsteller-fehlen-_5a36d71097a80.jpg" >}}
 
-Kennt ihr schon Brotlaibchen? Diese gibt sowohl herzhaft als auch in der süßen Variante. Jasmin vom Blog [die Kunst des Backens](https://diekunstdesbackens.com/ "die Kunst des Backens") hat für unseren Weihnachtsteller [süße Bauernlaibchen](https://diekunstdesbackens.com/2017/12/12/suesse-bauerlaibchen/ "süße Bauernlaibchen") gebacken.
+Kennt Ihr schon Brotlaibchen? Diese gibt sowohl herzhaft als auch in der süßen Variante. Jasmin vom Blog [die Kunst des Backens](https://diekunstdesbackens.com/ "die Kunst des Backens") hat für unseren Weihnachtsteller [süße Bauernlaibchen](https://diekunstdesbackens.com/2017/12/12/suesse-bauerlaibchen/ "süße Bauernlaibchen") gebacken.
 
 {{< photo filename="zusammenfassung-blog-event-das-darf-auf-keinem-weihnachtsteller-fehlen-_5a36d8c252c32.jpg" >}}
 
