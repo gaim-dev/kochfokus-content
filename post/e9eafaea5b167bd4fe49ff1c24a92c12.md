@@ -80,3 +80,7 @@ Kennt ihr schon Brotlaibchen? Diese gibt sowohl herzhaft als auch in der süßen
 Backt ihr mit kindern? Dann solltet Ihr Euch die [kinderleichten Lebkuchen](https://achtzehn-pfund-quitten.blogspot.de/2017/12/kinderleichte-lebkuchen.html?showComment=1513583348772#c1635122268379802186 "kinderleichten Lebkuchen") von der lieben Evelyn auf ihrem Blog [Achtzehn Pfund Quitten](https://achtzehn-pfund-quitten.blogspot.de/ "Achtzehn Pfund Quitten") unbedingt anschauen und diese nachmachen.
 
 {{< photo filename="zusammenfassung-blog-event-das-darf-auf-keinem-weihnachtsteller-fehlen-_5a37775c9debb.jpg" >}}
+
+Auf dem Weihnachtsteller ist nur noch ein klein wenig Platz und ihr ahnt sicherlich schon, wer nun noch etwas darauf legt. Auch ich habe natürlich etwas gebacken und auf unseren Teller gelegt. Ich habe dafür die sogenannten Engelsaugen etwas neu interpretiert und Euch himmlische Lebkuchenaugen mitgebracht.
+
+{{< photo filename="himmlische-johannisbeer-lebkuchenaugen_5a1eb628bf33f.jpg" >}}
