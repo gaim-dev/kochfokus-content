@@ -79,6 +79,6 @@ Backt Ihr mit Kindern? Dann solltet Ihr Euch auch die [kinderleichten Lebkuchen]
 
 {{< photo filename="zusammenfassung-blog-event-das-darf-auf-keinem-weihnachtsteller-fehlen-_5a37775c9debb.jpg" >}}
 
-Auf dem Weihnachtsteller ist nur noch ein klein wenig Platz und ihr ahnt sicherlich schon, wer nun noch etwas darauf legt. Auch ich habe natürlich etwas gebacken und auf unseren Teller gelegt. Ich habe dafür die sogenannten Engelsaugen etwas neu interpretiert und Euch himmlische Lebkuchenaugen mitgebracht.
+Auf dem Weihnachtsteller ist nur noch ein klein wenig Platz und sicherlich ahnt Ihr schon, wer nun noch etwas darauf legt. Auch ich habe natürlich etwas gebacken und auf unseren Weihnachtsteller gelegt. Ich habe dafür die sogenannten Engelsaugen etwas neu interpretiert und Euch [himmlische Lebkuchenaugen ](https://kochfokus.de/artikel/himmlische-johannisbeer-lebkuchenaugen/ "himmlische Lebkuchenaugen ")mitgebracht.
 
 {{< photo filename="himmlische-johannisbeer-lebkuchenaugen_5a1eb628bf33f.jpg" >}}
