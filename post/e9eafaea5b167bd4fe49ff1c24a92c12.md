@@ -63,9 +63,9 @@ Auch die liebe [The Apricot Lady](https://www.theapricotlady.com/ "The Apricot L
 
 {{< photo filename="zusammenfassung-blog-event-das-darf-auf-keinem-weihnachtsteller-fehlen-_5a36d05f29050.jpg" >}}
 
-Dem lieben Christian von [Erdbeeren und anderes Gemüse](http://www.erdbeeren-und-anderes-gemuese.de/ "Erdbeeren und anderes Gemüse") fielen bei unserem Event-Motto sofort Plätzchen ein und Recht hat er. Die dürfen wirklich auf keinem Weihnachtsteller fehlen. Der Christian hat sehr fleißig gebacken und ein Rezept für seine [Walnussmonde](http://www.erdbeeren-und-anderes-gemuese.de/ "Walnussmonde") aufgeschrieben.
+Dem lieben Christian von [Erdbeeren und anderes Gemüse](http://www.erdbeeren-und-anderes-gemuese.de/ "Erdbeeren und anderes Gemüse") fielen bei unserem Event-Motto sofort Plätzchen ein und Recht hat er. Die dürfen wirklich auf keinem Weihnachtsteller fehlen. Der Christian hat sehr fleißig gebacken und uns seine [Walnussmonde](http://www.erdbeeren-und-anderes-gemuese.de/ "Walnussmonde") mitgebracht.
 
-{{< photo filename="zusammenfassung-blog-event-das-darf-auf-keinem-weihnachtsteller-fehlen-_5a36d61b20267.jpg" >}}
+{{< photo filename="zusammenfassung-blog-event-das-darf-auf-keinem-weihnachtsteller-fehlen-_5a36d61d2dcf8.jpg" >}}
 
 Die liebe [Lea](https://www.blaubeerbasilikum.de/ "Lea") schenkt uns ein Rezept, das auch zum Backen mit Kindern bestens geeignet ist. Sie hat für uns  wunderbar mürbe [buttrige Weihnachtstaler](https://www.blaubeerbasilikum.de/buttrige-weihnachtstaler/ "buttrige Weihnachtstaler") gebacken.
 
