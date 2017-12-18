@@ -51,7 +51,7 @@ Meine liebe [Sari](https://www.sariskuechenchaos.de/ "Sari") hat den Stress der 
 
 {{< photo filename="zusammenfassung-blog-event-das-darf-auf-keinem-weihnachtsteller-fehlen-_5a36c840858fb.jpg" >}}
 
-Findet ihr nicht auch, dass Familienrezepte wertvolle Schätze sind? Ich freue mich jedesmal besonders, wenn Ihr solche Schätze mit uns teilt! Diesmal hat die liebe Katrin in ihrer[ Hobbyküche](https://krabsch.blogspot.de/ " Hobbyküche") das leckerste[ Schwarz-Weiß-Gebäck](https://krabsch.blogspot.de/2017/12/schwarz-wei-geback.html " Schwarz-Weiß-Gebäck") ihrer Mutter nachgebacken. Sie wollte es schon immer einmal daran versuchen und in diesem Jahr hat es geklappt. Diese Köstlichkeit ist zum Glück auch auf unserem Weihnachtsteller gelandet.
+Findet ihr nicht auch, dass Familienrezepte wertvolle Schätze sind? Ich freue mich jedesmal besonders, wenn Ihr solche Schätze mit uns teilt! Diesmal hat die liebe Katrin in ihrer[ Hobbyküche](https://krabsch.blogspot.de/ " Hobbyküche") das leckerste[ Schwarz-Weiß-Gebäck](https://krabsch.blogspot.de/2017/12/schwarz-wei-geback.html " Schwarz-Weiß-Gebäck") ihrer Mutter nachgebacken. Sie wollte sich schon immer einmal daran versuchen und in diesem Jahr hat es geklappt. Diese Köstlichkeit ist zum Glück auch auf unserem Weihnachtsteller gelandet.
 
 {{< photo filename="zusammenfassung-blog-event-das-darf-auf-keinem-weihnachtsteller-fehlen-_5a36cb69c4e4e.jpg" >}}
 
