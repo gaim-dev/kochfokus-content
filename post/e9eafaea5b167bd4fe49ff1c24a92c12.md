@@ -36,12 +36,10 @@ Was ist bei der lieben Lilli von [Vegetarisch unterwegs](http://vegetarisch-unte
 
 {{< photo filename="zusammenfassung-blog-event-das-darf-auf-keinem-weihnachtsteller-fehlen-_5a36bd1e3d5c9.jpg" >}}
 
-Wenn Conny [von mein wunderbares Chaos ](http://meinwunderbareschaos.de/ "von mein wunderbares Chaos ") an *Rumkugeln* denkt, setzt dieses Wort allein schon eine Verkettung von weiteren Begriffen in Gang. Wie das kommt erfahrt, Ihr in ihrem Rezept [Rumkugeln für alle, Konditor](http://meinwunderbareschaos.de/rumkugeln-fuer-alle-konditor "Rumkugeln für alle, Konditor").
+Wenn Conny [von mein wunderbares Chaos ](http://meinwunderbareschaos.de/ "von mein wunderbares Chaos ") an *Rumkugeln* denkt, setzt dieses Wort allein schon eine Verkettung von weiteren Begriffen in Gang. Wie das kommt erfahrt, Ihr in ihrem Rezept [Rumkugeln für alle, Konditor](http://meinwunderbareschaos.de/rumkugeln-fuer-alle-konditor "Rumkugeln für alle, Konditor"). Wie gut, dass diese Verkettung sie dennoch nicht davon abgehalten hat, uns ihre Auswahl an köstlichen Rumkugeln auf den Weihnachtsteller zu legen.
 
 {{< photo filename="zusammenfassung-blog-event-das-darf-auf-keinem-weihnachtsteller-fehlen-_5a37770faa410.jpg" >}}
 
-
-Wie gut, dass diese Verkettung sie dennoch nicht davon abgehalten hat, uns ihre Auswahl an köstlichen Rumkugeln auf den Weihnachtsteller zu legen. 
 Diese süßen [Pudelmützen](http://herdgefluester.de/pudelmuetzen/ "Pudelmützen") sind nicht zum Wärmen der Ohren gedacht, sondern sollen gegessen werden. Die liebe Jasmin vom Blog [Herdgeflüster](http://herdgefluester.de/ "Herdgeflüster") hatte dieses tolle Rezept schon beinahe vergessen. Wie gut, dass sie eine riesige Schüssel voller Kekse für einen Weihnachtsmarkt brauchte und ihr dabei alte Traditionen ihrer Familie wieder einfielen. Eine davon sind die Pudelmützen.
 {{< photo filename="zusammenfassung-blog-event-das-darf-auf-keinem-weihnachtsteller-fehlen-_5a36beef48761.jpg" >}}
 
