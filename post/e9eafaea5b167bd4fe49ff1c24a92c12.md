@@ -47,7 +47,7 @@ Wenn [Sina](https://giftigeblonde.com/ "Sina") nach Kroatien reist, dann deckt s
 
 {{< photo filename="zusammenfassung-blog-event-das-darf-auf-keinem-weihnachtsteller-fehlen-_5a36c475a326d.jpg" >}}
 
-Meine liebe [Sari](https://www.sariskuechenchaos.de/ "Sari") hat den Stress der Vorweihnachtszeit zu spüren bekommen. Die Ärmste hetzt von einem Termin zum Nächsten. Zum Glück hat sie trotz allem noch die Zeit gefunden, die edlen [Spekulatius Pralinen](https://www.sariskuechenchaos.de/festtage/weihnachten/spekulatius-pralinen/ "Spekulatius Pralinen") zu machen. Sie verwendet diese unter anderem als Mitbringsel und deshalb hat sie einige davon mit Goldstaub bepudert und auf unseren Weihnachtsteller gelegt.
+Meine liebe [Sari](https://www.sariskuechenchaos.de/ "Sari") hat den Stress der Vorweihnachtszeit zu spüren bekommen. Die Ärmste hetzt von einem Termin zum Nächsten. Zum Glück hat sie trotz allem noch die Zeit gefunden, die edlen [Spekulatius-Pralinen](https://www.sariskuechenchaos.de/festtage/weihnachten/spekulatius-pralinen/ "Spekulatius Pralinen") zu machen. Sie verwendet diese unter anderem als Mitbringsel und deshalb hat sie einige davon mit Goldstaub bepudert und auf unseren Weihnachtsteller gelegt.
 
 {{< photo filename="zusammenfassung-blog-event-das-darf-auf-keinem-weihnachtsteller-fehlen-_5a36c840858fb.jpg" >}}
 
