@@ -81,17 +81,19 @@ Backt Ihr mit Kindern? Dann solltet Ihr Euch auch die [kinderleichten Lebkuchen]
 
 Sylvia und Elke von [einfach leicht](http://www.einfachleicht.at/ "einfach leicht") haben es noch gerade so in die Zusammenfassung geschafft. Da sie uns eine so gesunde und figurfreundliche  Variante von Kokosbusserln mitgebracht haben, habe ich sie natürlich auch noch kurz nach Toresschluss ihre [Kokosbusserln Light](http://www.einfachleicht.at/kokosbusserln-light/ "Kokosbusserln Light") auf unseren Weihnachtsteller legen lassen. Ein paar Küsschen dürfen zum Fest der Liebe ja schließlich nicht fehlen, oder? 😉
 
-{{< photo filename="zusammenfassung-blog-event-das-darf-auf-keinem-weihnachtsteller-fehlen-_5a37bf0cad565.jpg" caption="Zusammenfassung Blog Event " >}}
+{{< photo filename="zusammenfassung-blog-event-das-darf-auf-keinem-weihnachtsteller-fehlen-_5a37bf0cad565.jpg" >}}
 
 Auf dem Weihnachtsteller ist nur noch ein klein wenig Platz und sicherlich ahnt Ihr schon, wer nun noch etwas darauf legt. Auch ich habe natürlich etwas gebacken und auf unseren Weihnachtsteller gelegt. Ich habe dafür die sogenannten Engelsaugen etwas neu interpretiert und Euch [himmlische Lebkuchenaugen ](https://kochfokus.de/artikel/himmlische-johannisbeer-lebkuchenaugen/ "himmlische Lebkuchenaugen ")mitgebracht.
 
 {{< photo filename="himmlische-johannisbeer-lebkuchenaugen_5a1eb628bf33f.jpg" >}}
 
-Das Blog Event hat wunderschöne Rezepte mit sämtlichen Zutaten und Arbeitsschritten für Euch bereit. Alles, was nun noch fehlt, seid IHR! Nur wenn Ihr die Rezepte nachbackt, bleiben schöne Traditionen erhalten.
+Das Blog Event hält wunderschöne Rezepte mit sämtlichen Zutaten und Arbeitsschritten für Euch bereit. Alles, was nun noch fehlt, seid IHR! Nur wenn Ihr die Rezepte nachbackt, bleiben schöne Traditionen erhalten.
+
+Zeigt mir doch gerne einmal in den Kommentaren, was Ihr so nach gebacken habt. Ihr dürft mir Eure Ergebnisse natürlich auch gerne auf Instagram, Facebook oder Twitter zeigen.
 
 Mit dieser Zusammenfassung verabschiede ich mich in den Weihnachtsurlaub. Ich danke Euch allen, die Ihr dieses  Blog Event durch Eure Teilnahme mit Leben gefüllt habt, nochmals sehr, sehr herzlich.
 
-Auch  Euch, meine **lieben Leserinnen und Leser** sei auf diesem Wege  ganz herzlich für jeden Besuch auf meiner Seite, für jeden Kommentar gedankt. Ich habe mich sehr darüber gefreut!
+Auch  Euch, meinen **lieben Leserinnen und Lesern** sei auf diesem Wege  ganz herzlich für jeden Besuch auf meiner Seite, für jeden Kommentar gedankt. Ich habe mich sehr darüber gefreut!
 
  Ich wünsche Euch allen gesegnete und friedliche Feiertage.
 
