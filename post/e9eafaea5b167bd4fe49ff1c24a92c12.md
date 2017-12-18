@@ -1,12 +1,27 @@
 {
     "slug": "zusammenfassung-blog-event-das-darf-auf-keinem-weihnachtsteller-fehlen",
-    "draft": true,
+    "draft": false,
     "date": "2017-12-17T17:25:00+00:00",
     "title": "Zusammenfassung Blog Event \"Das darf auf keinem Weihnachtsteller fehlen\"",
-    "description": null,
+    "description": "Gerade in der Vorweihnachtszeit suchen wir nach gut verst\u00e4ndlichen und dennoch wunderbaren Rezepten, mit denen wir unsere Weihnachtsteller auff\u00fcllen k\u00f6nnen. In dieser Zusammenfassung gibt es die unterschiedlichsten K\u00f6stlichkeiten.",
     "featuredImage": "zusammenfassung-blog-event-das-darf-auf-keinem-weihnachtsteller-fehlen-_5a36b17d74cf4.jpg",
     "author": "Gabi",
-    "recipe": null
+    "recipe": null,
+    "Tags": [
+        "kekse",
+        "backen",
+        "pralinen. diy. selbst gebacken",
+        "selbst gemacht. weihnachtsb\u00e4ckerei",
+        "rezepte",
+        "rezeptesammlung",
+        "weihnachtsteller",
+        "anleitungen",
+        "geschenke",
+        "last minute geschenke"
+    ],
+    "Kategorien": [
+        "Blog Events"
+    ]
 }
 
 Als [Jill](http://www.kleineskuliversum.com/ "Jill") und ich Euch eingeladen haben, uns zu verraten, was auf keinem Weihnachtsteller fehlen darf, lag die Adventszeit noch vor uns. Ein Blick auf meinen Kalender zeigt mir sehr deutlich, dass Weihnachten mit riesengroßen Schritten auf uns zu kommt. Habt Ihr auch das Gefühl, dass die Zeit bis Weihnachten von Jahr zu Jahr immer kürzer wird?
