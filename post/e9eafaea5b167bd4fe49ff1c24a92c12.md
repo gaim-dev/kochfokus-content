@@ -82,3 +82,15 @@ Backt Ihr mit Kindern? Dann solltet Ihr Euch auch die [kinderleichten Lebkuchen]
 Auf dem Weihnachtsteller ist nur noch ein klein wenig Platz und sicherlich ahnt Ihr schon, wer nun noch etwas darauf legt. Auch ich habe natürlich etwas gebacken und auf unseren Weihnachtsteller gelegt. Ich habe dafür die sogenannten Engelsaugen etwas neu interpretiert und Euch [himmlische Lebkuchenaugen ](https://kochfokus.de/artikel/himmlische-johannisbeer-lebkuchenaugen/ "himmlische Lebkuchenaugen ")mitgebracht.
 
 {{< photo filename="himmlische-johannisbeer-lebkuchenaugen_5a1eb628bf33f.jpg" >}}
+
+Das Blog Event hat wunderschöne Rezepte mit sämtlichen Zutaten und Arbeitsschritten für Euch bereit. Alles, was nun noch fehlt, seid IHR! Nur wenn Ihr die Rezepte nachbackt, bleiben schöne Traditionen erhalten.
+
+Mit dieser Zusammenfassung verabschiede ich mich in den Weihnachtsurlaub. Ich danke Euch allen, die Ihr dieses  Blog Event durch Eure Teilnahme mit Leben gefüllt habt, nochmals sehr, sehr herzlich.
+
+Auch  Euch, meine **lieben Leserinnen und Leser** sei auf diesem Wege  ganz herzlich für jeden Besuch auf meiner Seite, für jeden Kommentar gedankt. Ich habe mich sehr darüber gefreut!
+
+ Ich wünsche Euch allen gesegnete und friedliche Feiertage.
+
+ Liebe Weihnachtsgrüße
+
+Eure Gabi
