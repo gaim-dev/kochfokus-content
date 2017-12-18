@@ -13,7 +13,7 @@ Als [Jill](http://www.kleineskuliversum.com/ "Jill") und ich Euch eingeladen hab
 
 Irgendwie scheint es mit den Weihnachtstagen immer so zu sein, dass sie plötzlich und ganz unerwartet da sind. In den letzten Tagen vor Weihnachten werden die Menschen auch zusehends hektischer, weil häufig noch so viel zu machen ist und sie sich unvorbereitet fühlen.
 
-Ich möchte Euch mit dieser Zusammenfassung herzlich einladen, erst einmal wieder zur Ruhe zu kommen. Macht Euch eine schöne heiße Tasse Kaffee, Tee oder Kakao und schaut Euch an, was die folgenden wunderbaren Foodblogger alles an Köstlichkeiten auf unseren Weihnachtsteller gelegt haben. Am Ende dieses Artikels wartet sogar ein Film auf Euch. Also, jetzt heißt es für Euch einfach mal genießen. Ihr braucht auch gar nicht mehr nach Rezepten zu suchen, denn hier gibr es zu sämtlichen Rezepten natürlich auch die Links.
+Ich möchte Euch mit dieser Zusammenfassung herzlich einladen, erst einmal wieder zur Ruhe zu kommen. Macht Euch eine schöne heiße Tasse Kaffee, Tee oder Kakao und schaut Euch an, was die folgenden wunderbaren Foodblogger alles an Köstlichkeiten auf unseren Weihnachtsteller gelegt haben. Am Ende dieses Artikels wartet sogar ein Film auf Euch. Also, jetzt heißt es für Euch einfach erstmal genießen. Ihr braucht auch gar nicht mehr nach Rezepten zu suchen, denn hier gibt es zu sämtlichen Rezepten natürlich auch die dazugehörigen Links.
 
 Bevor es nun aber losgeht, möchte ich mich bei allen, die am Blog Event teilgenommen haben, **ganz herzlich bedanken**. Ich freue mich über jede Eurer Kreationen, die auf unseren Weihnachtsteller gelegt wurde.
 
@@ -28,11 +28,11 @@ Die liebe Wilma von [Pane-Bistecca](http://pane-bistecca.com/index.html "Pane - 
 
 {{< photo filename="zusammenfassung-blog-event-das-darf-auf-keinem-weihnachtsteller-fehlen-_5a36b395c6f60.jpg" >}}
 
-Den Anfang für die diesjährige Weihnachtsbäckerei machte bei der lieben Andy in ihrem [Kuechencottage](http://kuechencottage.de/ "Kuechencottage") das feine Butterspritzgebäck. Andy hat uns aber nicht nur das herrlich zarte [Spritzgebäck](http://kuechencottage.de/butterspritzgebaeck/ "Spritzgebäck") spendiert, sondern gleich noch ein [Rezeptvideo](https://www.youtube.com/watch?v=xJf6mHNcp-E "Rezeptvideo") dazugelegt.
+Den Anfang für ihre diesjährige Weihnachtsbäckerei machte bei der lieben Andy in ihrem [Kuechencottage](http://kuechencottage.de/ "Kuechencottage") das feine Butterspritzgebäck. Andy hat uns aber nicht nur das herrlich zarte [Spritzgebäck](http://kuechencottage.de/butterspritzgebaeck/ "Spritzgebäck") spendiert, sondern gleich noch ein [Rezeptvideo](https://www.youtube.com/watch?v=xJf6mHNcp-E "Rezeptvideo") dazugelegt.
 
 {{< photo filename="zusammenfassung-blog-event-das-darf-auf-keinem-weihnachtsteller-fehlen-_5a36b5b3dfcf1.jpg" >}}
 
-Was ist bei der lieben Lilli von [Vegetarisch unterwegs](http://vegetarisch-unterwegs.blogspot.de/ "Vegetarisch unterwegs") als erstes auf ihrem Plätzchenteller vergriffen? Es sind diese leckeren veganen [Rumkugeln](http://vegetarisch-unterwegs.blogspot.de/2017/12/weihnachtliche-rumkugeln-black-white.html "Rumkugeln "). Auch Lilli hat uns ein [Rezeptvideo](https://www.youtube.com/watch?v=DQbPhsfzCC0 "Rezeptvideo") spendiert.
+Was ist bei der lieben Lilli von [Vegetarisch unterwegs](http://vegetarisch-unterwegs.blogspot.de/ "Vegetarisch unterwegs") als erstes auf ihrem Plätzchenteller vergriffen? Es sind diese leckeren veganen [Rumkugeln](http://vegetarisch-unterwegs.blogspot.de/2017/12/weihnachtliche-rumkugeln-black-white.html "Rumkugeln "). Auch Lilli hat uns ein [Rezeptvideo](https://www.youtube.com/watch?v=DQbPhsfzCC0 "Rezeptvideo") geschenkt.
 
 {{< photo filename="zusammenfassung-blog-event-das-darf-auf-keinem-weihnachtsteller-fehlen-_5a36bd1e3d5c9.jpg" >}}
 
@@ -40,14 +40,14 @@ Wenn Conny [von mein wunderbares Chaos ](http://meinwunderbareschaos.de/ "von me
 
 {{< photo filename="zusammenfassung-blog-event-das-darf-auf-keinem-weihnachtsteller-fehlen-_5a37770faa410.jpg" >}}
 
-Diese süßen [Pudelmützen](http://herdgefluester.de/pudelmuetzen/ "Pudelmützen") sind nicht zum Wärmen der Ohren gedacht, sondern sollen gegessen werden. Die liebe Jasmin vom Blog [Herdgeflüster](http://herdgefluester.de/ "Herdgeflüster") hatte dieses tolle Rezept schon beinahe vergessen. Wie gut, dass sie eine riesige Schüssel voller Kekse für einen Weihnachtsmarkt brauchte und ihr dabei alte Traditionen ihrer Familie wieder einfielen. Eine davon sind die Pudelmützen.
+Diese süßen [Pudelmützen](http://herdgefluester.de/pudelmuetzen/ "Pudelmützen") sind nicht zum Wärmen der Ohren gedacht, sondern sollen gegessen werden. Die liebe Jasmin vom Blog [Herdgeflüster](http://herdgefluester.de/ "Herdgeflüster") hatte dieses tolle Rezept schon beinahe vergessen. Wie gut, dass sie eine riesige Schüssel voller Kekse für einen Weihnachtsmarkt brauchte und ihr dabei die alten Traditionen ihrer Familie wieder einfielen. Eine davon sind die Pudelmützen.
 {{< photo filename="zusammenfassung-blog-event-das-darf-auf-keinem-weihnachtsteller-fehlen-_5a36beef48761.jpg" >}}
 
 Wenn [Sina](https://giftigeblonde.com/ "Sina") nach Kroatien reist, dann deckt sie sich unter anderem mit getrockneten Feigen ein. In ihren Vorräten schlummerten neben diesen glücklicherweise noch getrocknete Cranberries, so dass Sina ihre köstlichen[ Florentiner mit Feigen und Cranberries ](https://giftigeblonde.com/2017/12/07/florentiner-mit-feigen-und-cranberries/ " Florentiner mit Feigen und Cranberries ")für unseren Weihnachtsteller backen konnte.
 
 {{< photo filename="zusammenfassung-blog-event-das-darf-auf-keinem-weihnachtsteller-fehlen-_5a36c475a326d.jpg" >}}
 
-Meine liebe [Sari](https://www.sariskuechenchaos.de/ "Sari") hat den Stress der Vorweihnachtszeit zu spüren bekommen. Die Ärmste hetzt von einem Termin zum Nächsten. Zum Glück hat sie trotz allem noch die Zeit gefunden, die edlen [Spekulatius-Pralinen](https://www.sariskuechenchaos.de/festtage/weihnachten/spekulatius-pralinen/ "Spekulatius Pralinen") zu machen. Sie verwendet diese unter anderem als Mitbringsel und deshalb hat sie einige davon mit Goldstaub bepudert und auf unseren Weihnachtsteller gelegt.
+Meine liebe [Sari](https://www.sariskuechenchaos.de/ "Sari") hat den Stress der Vorweihnachtszeit zu spüren bekommen. Die Ärmste hetzt von einem Termin zum Nächsten. Zum Glück hat sie trotz allem noch die Zeit gefunden, die edlen [Spekulatius-Pralinen](https://www.sariskuechenchaos.de/festtage/weihnachten/spekulatius-pralinen/ "Spekulatius Pralinen") zu machen. Sie verwendet diese unter anderem als Mitbringsel und deshalb hat sie einige davon mit Goldstaub bepudert und für unseren Weihnachtsteller mitgebracht.
 
 {{< photo filename="zusammenfassung-blog-event-das-darf-auf-keinem-weihnachtsteller-fehlen-_5a36c840858fb.jpg" >}}
 
@@ -71,7 +71,7 @@ Die liebe [Lea](https://www.blaubeerbasilikum.de/ "Lea") schenkt uns ein Rezept,
 
 {{< photo filename="zusammenfassung-blog-event-das-darf-auf-keinem-weihnachtsteller-fehlen-_5a36d71097a80.jpg" >}}
 
-Kennt Ihr schon Brotlaibchen? Diese gibt sowohl herzhaft als auch in der süßen Variante. Jasmin vom Blog [die Kunst des Backens](https://diekunstdesbackens.com/ "die Kunst des Backens") hat für unseren Weihnachtsteller [süße Bauernlaibchen](https://diekunstdesbackens.com/2017/12/12/suesse-bauerlaibchen/ "süße Bauernlaibchen") gebacken.
+Kennt Ihr schon Brotlaibchen? Diese gibt es sowohl herzhaft als auch in der süßen Variante. Jasmin vom Blog [die Kunst des Backens](https://diekunstdesbackens.com/ "die Kunst des Backens") hat auf unseren Weihnachtsteller [süße Bauernlaibchen](https://diekunstdesbackens.com/2017/12/12/suesse-bauerlaibchen/ "süße Bauernlaibchen") gelegt.
 
 {{< photo filename="zusammenfassung-blog-event-das-darf-auf-keinem-weihnachtsteller-fehlen-_5a36d8c252c32.jpg" >}}
 
@@ -83,17 +83,17 @@ Sylvia und Elke von [einfach leicht](http://www.einfachleicht.at/ "einfach leich
 
 {{< photo filename="zusammenfassung-blog-event-das-darf-auf-keinem-weihnachtsteller-fehlen-_5a37bf0cad565.jpg" >}}
 
-Auf dem Weihnachtsteller ist nur noch ein klein wenig Platz und sicherlich ahnt Ihr schon, wer nun noch etwas darauf legt. Auch ich habe natürlich etwas gebacken und auf unseren Weihnachtsteller gelegt. Ich habe dafür die sogenannten Engelsaugen etwas neu interpretiert und Euch [himmlische Lebkuchenaugen ](https://kochfokus.de/artikel/himmlische-johannisbeer-lebkuchenaugen/ "himmlische Lebkuchenaugen ")mitgebracht.
+Auf dem Weihnachtsteller ist nur noch ein klein wenig Platz und sicherlich ahnt Ihr schon, wer nun noch etwas darauf legt. Auch ich habe natürlich etwas gebacken und etwas auf unseren Weihnachtsteller gelegt. Ich habe dafür die sogenannten Engelsaugen etwas neu interpretiert und Euch [himmlische Lebkuchenaugen ](https://kochfokus.de/artikel/himmlische-johannisbeer-lebkuchenaugen/ "himmlische Lebkuchenaugen ")mitgebracht.
 
 {{< photo filename="himmlische-johannisbeer-lebkuchenaugen_5a1eb628bf33f.jpg" >}}
 
-Das Blog Event hält wunderschöne Rezepte mit sämtlichen Zutaten und Arbeitsschritten für Euch bereit. Alles, was nun noch fehlt, seid IHR! Nur wenn Ihr die Rezepte nachbackt, bleiben schöne Traditionen erhalten.
+Das Blog Event hält wunderschöne Rezepte mit sämtlichen Zutaten und Arbeitsschritten für Euch bereit. Alles, was nun noch fehlt, seid IHR! Nur wenn Ihr die Rezepte nachbackt, bleiben diese schönen Traditionen erhalten.
 
 Zeigt mir doch gerne einmal in den Kommentaren, was Ihr so nach gebacken habt. Ihr dürft mir Eure Ergebnisse natürlich auch gerne auf Instagram, Facebook oder Twitter zeigen.
 
 Mit dieser Zusammenfassung verabschiede ich mich in den Weihnachtsurlaub. Ich danke Euch allen, die Ihr dieses  Blog Event durch Eure Teilnahme mit Leben gefüllt habt, nochmals sehr, sehr herzlich.
 
-Auch  Euch, meinen **lieben Leserinnen und Lesern** sei auf diesem Wege  ganz herzlich für jeden Besuch auf meiner Seite, für jeden Kommentar gedankt. Ich habe mich sehr darüber gefreut!
+Auch  Euch, meinen **lieben Leserinnen und Lesern** sei auf diesem Wege  ganz herzlich für jeden Besuch auf meiner Seite und für jeden Kommentar gedankt. Ich habe mich sehr darüber gefreut und hoffe, Ihr bleibt mir wohl gesonnen und besucht meinen Blog auch weiterhin regelmäßig.
 
  Ich wünsche Euch allen gesegnete und friedliche Feiertage.
 
