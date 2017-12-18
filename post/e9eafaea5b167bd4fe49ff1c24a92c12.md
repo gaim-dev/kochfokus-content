@@ -36,7 +36,7 @@ Was ist bei der lieben Lilli von [Vegetarisch unterwegs](http://vegetarisch-unte
 
 {{< photo filename="zusammenfassung-blog-event-das-darf-auf-keinem-weihnachtsteller-fehlen-_5a36bd1e3d5c9.jpg" >}}
 
-Wenn [Conny](http://meinwunderbareschaos.de/ "Conny") an Rumkugeln denkt, setzt dieses Wort allein schon eine Verkettung von weiteren Begriffen in Gang. Wie das kommt erfahrt, Ihr in ihrem Rezept [Rumkugeln für alle, Konditor](http://meinwunderbareschaos.de/rumkugeln-fuer-alle-konditor "Rumkugeln für alle, Konditor").
+Wenn Conny [von mein wunderbares Chaos ](http://meinwunderbareschaos.de/ "von mein wunderbares Chaos ") an *Rumkugeln* denkt, setzt dieses Wort allein schon eine Verkettung von weiteren Begriffen in Gang. Wie das kommt erfahrt, Ihr in ihrem Rezept [Rumkugeln für alle, Konditor](http://meinwunderbareschaos.de/rumkugeln-fuer-alle-konditor "Rumkugeln für alle, Konditor").
 
 {{< photo filename="zusammenfassung-blog-event-das-darf-auf-keinem-weihnachtsteller-fehlen-_5a37770faa410.jpg" >}}
 
