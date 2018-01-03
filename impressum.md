@@ -6,7 +6,7 @@
 	"static": true
 }
 
-Dieses Impressum ist gültig für die folgenden Internetangebote: die kochfokus.de-Webseite, die kochfokus.de-Facebook-Seite (<https://www.facebook.com/kochfokusDE/>), das kochfokus.de-Twitter-Profil (<https://twitter.com/kochfokusDE/>), das kochfokus.de-Instagram-Profil (<https://www.instagram.com/kochfokus.de/>), das kochfokus.de-Pinterest-Profil (<https://www.pinterest.com/kochfokus/>) und den kochfokus.tv-YouTube-Channel (<https://youtube.com/kochfokustv>).
+Dieses Impressum ist gültig für die folgenden Internetangebote: die [kochfokus.de-Webseite](https://kochfokus.de), die [social.kf.al-Webseite](https://social.kf.al), die [kochfokus.de-Facebook-Seite](https://www.facebook.com/kochfokusDE/), das [kochfokus.de-Twitter-Profil](https://twitter.com/kochfokusDE/), das [kochfokus.de-Instagram-Profil](https://www.instagram.com/kochfokus.de/), das [kochfokus.de-Pinterest-Profil](https://www.pinterest.com/kochfokus/), das [kochfokus.de-Google+-Profil](https://plus.google.com/+kochfokusDE), das [kochfokus.de-Flipboard-Profil](https://flipboard.com/@kochfokusde) und den [kochfokus.tv-YouTube-Channel](https://youtube.com/kochfokustv).
 
 ## Angaben gemäß § 5 TMG:
 
