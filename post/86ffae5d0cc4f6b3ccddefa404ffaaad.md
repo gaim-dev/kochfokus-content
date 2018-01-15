@@ -9,3 +9,4 @@
     "recipe": null
 }
 
+Idee Pizzateig um große Muffinfrom stülpen - 6 Füllmöglichkeiten - 1 x Suppe, 1 x Salat, 1 x herzhafte Füllung, 1 x süße Füllung
