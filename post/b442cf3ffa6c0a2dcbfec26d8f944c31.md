@@ -111,8 +111,8 @@
                         "note": null
                     },
                     {
-                        "value": "1",
-                        "unit": "Prise",
+                        "value": "1\/2",
+                        "unit": "TL",
                         "name": "Salz",
                         "note": null
                     },
@@ -138,6 +138,17 @@
                         "value": "1",
                         "unit": "Handvoll",
                         "name": "Waln\u00fcsse",
+                        "note": null
+                    }
+                ]
+            },
+            {
+                "name": "Brotbackform",
+                "contents": [
+                    {
+                        "value": "N. B.",
+                        "unit": null,
+                        "name": "\u00d6l oder  Backtrennspray  zum Einfetten der Brotbackform",
                         "note": null
                     }
                 ]
@@ -194,7 +205,7 @@
                         "photo": null
                     },
                     {
-                        "text": "Aus dem Teig eine Teigkugel formen.",
+                        "text": "Aus dem Teig eine Teigkugel formen. Tipp: Der Teig ist etwas klebrig. Deshalb einen Teigschaber zu Hilfe nehmen.",
                         "photo": null
                     },
                     {
@@ -202,7 +213,7 @@
                         "photo": null
                     },
                     {
-                        "text": "In der Zwischenzeit die Arbeitsfl\u00e4che bemehlen und das Backblech mit einem Bogen Backpapier auslegen.",
+                        "text": "In der Zwischenzeit die Brotbackform mit etwas \u00d6l oder aber Backtrennspary einfetten.",
                         "photo": null
                     },
                     {
@@ -214,15 +225,11 @@
                         "photo": null
                     },
                     {
-                        "text": "Wenn das Volumen des Teiges sich verdoppelt hat, wird er weiter verarbeitet.",
+                        "text": "Wenn das Volumen des Teiges sich verdoppelt hat, wird er in die vorbereitete Backform gegeben.",
                         "photo": null
                     },
                     {
-                        "text": "Den Teig auf die bemehlte Arbeitsfl\u00e4che geben, von Hand durchkneten und und zu einem Brotlaib formen Tipp: Vorher die H\u00e4nde etwas bemehlen damit dies leichter geht.",
-                        "photo": null
-                    },
-                    {
-                        "text": "Den Brotlaib dann auf das Backblech geben und mit einem scharfen Messer anschneiden.",
+                        "text": "Den fertigen Brotteig direkt in die eingefettete Brotbackform geben, die H\u00e4nde leicht bemehlen, den Brotlaib etwas nachformen und mit den H\u00e4nden die Luft ein wenig aus dem Teig klopfen. Nun den Brotlaib mit Wasser bespr\u00fchen und mit einem scharfen Messer einschneiden.",
                         "photo": null
                     },
                     {
@@ -265,6 +272,7 @@ Apropos Farbe, ich verwende für mein heutige Brot übrigens Möhren und ein St�
 - Schneidbrett
 - Reibe
 - Schüssel
+- Teigschaber
 - ev. Sparschäler (s. Zucchino)
 - Teelöffel
 - Esslöffel
@@ -272,6 +280,7 @@ Apropos Farbe, ich verwende für mein heutige Brot übrigens Möhren und ein St�
 - Frischhaltefolie
 - Geschirrtuch
 - kleine Pfanne
+- Brotbackform 
 - scharfes Messer
 - Backblech
 - Backofen
