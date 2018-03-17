@@ -214,11 +214,19 @@
                         "photo": null
                     },
                     {
+                        "text": "Wenn das Volumen des Teiges sich verdoppelt hat, wird er weiter verarbeitet.",
+                        "photo": null
+                    },
+                    {
                         "text": "Den Teig auf die bemehlte Arbeitsfl\u00e4che geben, von Hand durchkneten und und zu einem Brotlaib formen Tipp: Vorher die H\u00e4nde etwas bemehlen damit dies leichter geht.",
                         "photo": null
                     },
                     {
                         "text": "Den Brotlaib dann auf das Backblech geben und mit einem scharfen Messer anschneiden.",
+                        "photo": null
+                    },
+                    {
+                        "text": "Nun das Topping \u00fcber dem Brotlaib verteilen, das Backblech auf den mittleren Einschub des vorgeheizten Backofen geben und zun\u00e4chst 20 Minuten bei 200 Grad Ober- und Unterhitze backen.",
                         "photo": null
                     }
                 ]
