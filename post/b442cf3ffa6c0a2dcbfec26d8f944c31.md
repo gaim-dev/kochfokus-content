@@ -225,7 +225,7 @@
                         "photo": null
                     },
                     {
-                        "text": "Den fertigen Brotteig direkt in die eingefettete Brotbackform geben, die H\u00e4nde leicht bemehlen, den Brotlaib etwas nachformen und mit den H\u00e4nden die Luft ein wenig aus dem Teig klopfen. Nun den Brotlaib mit einem scharfen Messer einschneiden.",
+                        "text": "Den fertigen Brotteig direkt in die eingefettete Brotbackform geben, die H\u00e4nde leicht bemehlen, den Brotlaib etwas nachformen und mit den H\u00e4nden die Luft ein wenig aus dem Teig klopfen. Nun den Brotlaib mit Wasser bespr\u00fchen und mit einem scharfen Messer einschneiden.",
                         "photo": null
                     },
                     {
@@ -233,11 +233,11 @@
                         "photo": null
                     },
                     {
-                        "text": "Den Backofen auf 200 Grad Ober- und Unterhitze vorheizen und das Brot abgedeckt noch so lange ruhen lassen, bis der Backofen 220 Grad erreicht hat.",
+                        "text": "Den Backofen auf 200 Grad Ober- und Unterhitze vorheizen und das Brot abgedeckt noch so lange ruhen lassen, bis der Backofen 200 Grad erreicht hat.",
                         "photo": null
                     },
                     {
-                        "text": "Nun das Tuch entfernen und die Brotbackform auf den Backrost im mittleren Einschub in den Ofen schieben und zun\u00e4chst 10 Minuten bei 200 Grad Ober- und Unterhitze backen.",
+                        "text": "Nun das Tuch entfernen und die Brotbackform auf den Backrost im unteren Einschub in den Ofen schieben und zun\u00e4chst 10 Minuten bei 200 Grad Ober- und Unterhitze backen.",
                         "photo": null
                     },
                     {
