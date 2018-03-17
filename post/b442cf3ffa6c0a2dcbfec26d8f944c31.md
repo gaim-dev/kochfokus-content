@@ -229,15 +229,23 @@
                         "photo": null
                     },
                     {
-                        "text": "Den fertigen Brotteig direkt in die eingefettete Brotbackform geben, die H\u00e4nde leicht bemehlen, den Brotlaib etwas nachformen und mit den H\u00e4nden die Luft ein wenig aus dem Teig klopfen. Nun den Brotlaib mit Wasser bespr\u00fchen und mit einem scharfen Messer einschneiden.",
+                        "text": "Den fertigen Brotteig direkt in die eingefettete Brotbackform geben, die H\u00e4nde leicht bemehlen, den Brotlaib etwas nachformen und mit den H\u00e4nden die Luft ein wenig aus dem Teig klopfen. Nun den Brotlaib mit einem scharfen Messer einschneiden.",
                         "photo": null
                     },
                     {
-                        "text": "Nun das Topping \u00fcber dem Brotlaib verteilen, das Backblech auf den mittleren Einschub des vorgeheizten Backofen geben und zun\u00e4chst 20 Minuten bei 200 Grad Ober- und Unterhitze backen.",
+                        "text": "Das Topping \u00fcber dem Brotlaib verteilen und die Brotbackform erneut abdecken.",
                         "photo": null
                     },
                     {
-                        "text": "Nach 20 Minuten die Temperatur auf 180 Grad Ober- und Unterhitze reduzieren und weitere 25 bis 30 Minuten backen.",
+                        "text": "Den Backofen auf 220 Grad Ober- und Unterhitze vorheizen und den Teig abgedeckt noch so lange ruhen lassen, bis der Backofen 220 Grad erreicht hat.",
+                        "photo": null
+                    },
+                    {
+                        "text": "Nun das Tuch entfernen und die Brotbackform auf den Backrost im mittleren Einschub in den Ofen schieben und zun\u00e4chst 10 Minuten bei 220 Grad Ober- und Unterhitze backen.",
+                        "photo": null
+                    },
+                    {
+                        "text": "Das Brot anschlie\u00dfend bei 200 Grad Ober- und Unterhitze weitere 35 bis 40 Minuten ausbacken.",
                         "photo": null
                     },
                     {
