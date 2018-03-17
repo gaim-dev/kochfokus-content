@@ -228,6 +228,14 @@
                     {
                         "text": "Nun das Topping \u00fcber dem Brotlaib verteilen, das Backblech auf den mittleren Einschub des vorgeheizten Backofen geben und zun\u00e4chst 20 Minuten bei 200 Grad Ober- und Unterhitze backen.",
                         "photo": null
+                    },
+                    {
+                        "text": "Nach 20 Minuten die Temperatur auf 180 Grad Ober- und Unterhitze reduzieren und weitere 25 bis 30 Minuten backen.",
+                        "photo": null
+                    },
+                    {
+                        "text": "Lasst Euch das leckere Brot schmecken!",
+                        "photo": null
                     }
                 ]
             }
