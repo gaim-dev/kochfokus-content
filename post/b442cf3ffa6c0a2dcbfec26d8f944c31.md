@@ -88,10 +88,10 @@
                         "note": null
                     },
                     {
-                        "value": "100",
-                        "unit": "g",
+                        "value": "1",
+                        "unit": null,
                         "name": "M\u00f6hren",
-                        "note": null
+                        "note": "mittelgro\u00df"
                     },
                     {
                         "value": "1",
@@ -139,12 +139,6 @@
                         "unit": "Handvoll",
                         "name": "Waln\u00fcsse",
                         "note": null
-                    },
-                    {
-                        "value": "2",
-                        "unit": "TL",
-                        "name": "Sesamen",
-                        "note": null
                     }
                 ]
             }
@@ -190,6 +184,42 @@
                     {
                         "text": "Wenn die Hefe aufgegangen ist, wird sie zum Einkornmehl und zum Haferflockenmehl hinzugef\u00fcgt.",
                         "photo": null
+                    },
+                    {
+                        "text": "Die M\u00f6hre waschen, sch\u00e4len und raspeln. Ebenso die Zucchino waschen. Von ihr ein St\u00fcck (etwa 100 g) abschneiden, dieses halbieren und die Kerne mit Hilfe des Teel\u00f6ffels entfernen. Nun auch die Zucchino raspeln.",
+                        "photo": null
+                    },
+                    {
+                        "text": "Das geraspelt Gem\u00fcse zum Hefeteig hinzuf\u00fcgen und einarbeiten.",
+                        "photo": null
+                    },
+                    {
+                        "text": "Aus dem Teig eine Teigkugel formen.",
+                        "photo": null
+                    },
+                    {
+                        "text": "Nun die Sch\u00fcssel mit der Frischhaltefolie sowie dem trockenen K\u00fcchentuch gut abdecken und den Teig an einem warmen Ort gehen lassen.Tipp: Etwas Mehl auf den Boden der Sch\u00fcssel geben, bevor die Teigkugel hineingegeben wird.",
+                        "photo": null
+                    },
+                    {
+                        "text": "In der Zwischenzeit die Arbeitsfl\u00e4che bemehlen und das Backblech mit einem Bogen Backpapier auslegen.",
+                        "photo": null
+                    },
+                    {
+                        "text": "Au\u00dferdem das Topping zubereiten. Daf\u00fcr das Raps\u00f6l in die Pfanne geben und hei\u00df werden lassen. Die Hitze reduzieren,  die Gew\u00fcrze sowie die Waln\u00fcsse hingeben und alles durchziehen lassen.",
+                        "photo": null
+                    },
+                    {
+                        "text": "Bevor der Teig weiter verarbeitet wird, den Backofen auf 200 Grad Ober- und Unterhitze vorheizen.",
+                        "photo": null
+                    },
+                    {
+                        "text": "Den Teig auf die bemehlte Arbeitsfl\u00e4che geben, von Hand durchkneten und und zu einem Brotlaib formen Tipp: Vorher die H\u00e4nde etwas bemehlen damit dies leichter geht.",
+                        "photo": null
+                    },
+                    {
+                        "text": "Den Brotlaib dann auf das Backblech geben und mit einem scharfen Messer anschneiden.",
+                        "photo": null
                     }
                 ]
             }
@@ -218,13 +248,15 @@ Apropos Farbe, ich verwende für mein heutige Brot übrigens Möhren und ein St�
 - Küchenmesser
 - Schneidbrett
 - Reibe
+- Schüssel
 - ev. Sparschäler (s. Zucchino)
 - Teelöffel
 - Esslöffel
 - Mörser mit Stößel
 - Frischhaltefolie
 - Geschirrtuch
-- Sprühflasche mit Wasser
+- kleine Pfanne
+- scharfes Messer
 - Backblech
 - Backofen
 - Kurzzeitmesser
