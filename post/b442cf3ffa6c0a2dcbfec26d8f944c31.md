@@ -217,11 +217,7 @@
                         "photo": null
                     },
                     {
-                        "text": "Au\u00dferdem das Topping zubereiten. Daf\u00fcr das Raps\u00f6l in die Pfanne geben und hei\u00df werden lassen. Die Hitze reduzieren,  die Gew\u00fcrze sowie die Waln\u00fcsse hingeben und alles durchziehen lassen.",
-                        "photo": null
-                    },
-                    {
-                        "text": "Bevor der Teig weiter verarbeitet wird, den Backofen auf 200 Grad Ober- und Unterhitze vorheizen.",
+                        "text": "Au\u00dferdem das Topping zubereiten. Daf\u00fcr das Raps\u00f6l in die Pfanne geben und hei\u00df werden lassen. Die Hitze reduzieren, die Gew\u00fcrze sowie die Waln\u00fcsse hingeben und alles durchziehen lassen.",
                         "photo": null
                     },
                     {
@@ -237,15 +233,15 @@
                         "photo": null
                     },
                     {
-                        "text": "Den Backofen auf 220 Grad Ober- und Unterhitze vorheizen und den Teig abgedeckt noch so lange ruhen lassen, bis der Backofen 220 Grad erreicht hat.",
+                        "text": "Den Backofen auf 200 Grad Ober- und Unterhitze vorheizen und das Brot abgedeckt noch so lange ruhen lassen, bis der Backofen 220 Grad erreicht hat.",
                         "photo": null
                     },
                     {
-                        "text": "Nun das Tuch entfernen und die Brotbackform auf den Backrost im mittleren Einschub in den Ofen schieben und zun\u00e4chst 10 Minuten bei 220 Grad Ober- und Unterhitze backen.",
+                        "text": "Nun das Tuch entfernen und die Brotbackform auf den Backrost im mittleren Einschub in den Ofen schieben und zun\u00e4chst 10 Minuten bei 200 Grad Ober- und Unterhitze backen.",
                         "photo": null
                     },
                     {
-                        "text": "Das Brot anschlie\u00dfend bei 200 Grad Ober- und Unterhitze weitere 35 bis 40 Minuten ausbacken.",
+                        "text": "Das Brot anschlie\u00dfend bei 180 Grad Ober- und Unterhitze weitere 35 bis 40 Minuten ausbacken.",
                         "photo": null
                     },
                     {
