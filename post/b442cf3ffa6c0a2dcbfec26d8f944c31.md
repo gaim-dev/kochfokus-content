@@ -284,7 +284,8 @@ Apropos Farbe, ich verwende für mein heutige Brot übrigens Möhren und ein St�
 - Frischhaltefolie
 - Geschirrtuch
 - kleine Pfanne
-- Brotbackform 
+- Brotbackform
+- Sprühflasche mit Wasser
 - scharfes Messer
 - Backblech
 - Backofen
