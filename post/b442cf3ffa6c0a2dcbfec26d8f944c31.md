@@ -26,7 +26,7 @@
                     {
                         "value": "50",
                         "unit": "g",
-                        "name": "Waln\u00fcsse",
+                        "name": "Walnusskerne",
                         "note": null
                     },
                     {
@@ -85,13 +85,13 @@
                         "value": "100",
                         "unit": "g",
                         "name": "Zucchini",
-                        "note": null
+                        "note": "geraspelt"
                     },
                     {
-                        "value": "1",
-                        "unit": null,
-                        "name": "M\u00f6hren",
-                        "note": "mittelgro\u00df"
+                        "value": "100",
+                        "unit": "g",
+                        "name": "M\u00f6hre",
+                        "note": "geraspelt"
                     },
                     {
                         "value": "1",
@@ -135,9 +135,9 @@
                         "note": null
                     },
                     {
-                        "value": "1",
-                        "unit": "Handvoll",
-                        "name": "Waln\u00fcsse",
+                        "value": "150",
+                        "unit": "g",
+                        "name": "Walnusskerne",
                         "note": null
                     }
                 ]
