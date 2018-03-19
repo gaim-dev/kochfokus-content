@@ -237,8 +237,8 @@
                         "photo": null
                     },
                     {
-                        "text": "Nun das Tuch entfernen und die Brotbackform auf den Backrost im unteren Einschub in den Ofen schieben und zun\u00e4chst 10 Minuten bei 200 Grad Ober- und Unterhitze backen.",
-                        "photo": "rezept-sehr-saftiges-gemuesebrot-mit-chia-samen_5aafae3eec704.jpg"
+                        "text": "Das Tuch entfernen und die Brotbackform auf den Backrost im unteren Einschub in den Ofen schieben und zun\u00e4chst 10 Minuten bei 200 Grad Ober- und Unterhitze backen.",
+                        "photo": null
                     },
                     {
                         "text": "Das Brot anschlie\u00dfend bei 180 Grad Ober- und Unterhitze weitere 35 bis 40 Minuten ausbacken.",
