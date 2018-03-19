@@ -271,6 +271,10 @@
         "vegetarisch",
         "vollkorn ",
         "einkornmehl"
+    ],
+    "Kategorien": [
+        "Rezepte ",
+        "Brot"
     ]
 }
 
