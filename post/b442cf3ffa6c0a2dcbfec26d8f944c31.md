@@ -277,31 +277,29 @@ Ich hoffe, Du hast Lust, dieses köstliche Brot nachzubacken.
 
 
 ## Küchengeräte und -utensilien
-- Küchenwaage
-- Messbecher
-- Küchenmaschine mit Knetaufsatz oder Handmixgerät mit Knethaken und Schüssel
-- Standmixer
-- Schälchen
-- Küchenmesser
-- Schneidbrett
-- Reibe
+- {{< amazon title="Küchenwaage" asin="B00DZPM41U" >}}
+- {{< amazon title="Messbecher" asin="B004NSL61M" >}}
+-{{< amazon title="Küchenmaschine mit Knetaufsatz" asin="B0148AE760" >}} oder Handmixgerät mit Knethaken und Schüssel
+{{< amazon title="- Standmixer" asin="B00VTNOKPS" >}}- Schälchen
+- {{< amazon title="Küchenmesser" asin="B0772WN76C" >}}
+- {{< amazon title="Schneidbrett" asin="B00MVB6OSS" >}}
+- {{< amazon title="Reibe" asin="B003GISD20" >}}
 - Schüssel
-- Teigschaber
+- {{< amazon title="Teigschaber" asin="B00WJPCUA2" >}}
 - ev. Sparschäler (s. Zucchino)
-- Teelöffel
-- Esslöffel
-- Mörser mit Stößel
+- {{< amazon_search title="Teelöffel" query="Teelöffel" >}}
+- {{< amazon title="Mörser mit Stößel" asin="B01M2Y5TFQ" >}}
 - Frischhaltefolie
-- Geschirrtuch
-- kleine Pfanne
-- Brotbackform
+- {{< amazon title="Geschirrtuch" asin="B014FOBIVG" >}}
+- {{< amazon_search title="kleine Pfanne" query="Pfannen" >}}
+- {{< amazon title="Brotbackform" asin="B00MGTEPJA" >}}
 - Sprühflasche mit Wasser
-- scharfes Messer
+- scharfes {{< amazon title="Küchenmesser" asin="B0772WN76C" >}}
 - Backblech
 - Backofen
 - Kurzzeitmesser
-- Topflappen oder Backhandschuhe
-- Brett für das fertige Brot
+- Topflappen oder {{< amazon title="Backhandschuhe" asin="B074LCTCF8" >}}
+- {{< amazon title="Brett" asin="B01E04R9FU" >}} für das fertige Brot
 
 
 Ich wünsche Dir viel Spaß beim Nachbacken!
