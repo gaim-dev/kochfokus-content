@@ -253,7 +253,7 @@
         ],
         "notes": {
             "text": "Der Brotteig ist etwas klebrig. Deshalb verwende ich hier zum Backen eine Brotbackform und forme keinen Brotlaib.",
-            "photo": null
+            "photo": "rezept-sehr-saftiges-gemuesebrot-mit-chia-samen_5aafa9c934a30.jpg"
         }
     }
 }
