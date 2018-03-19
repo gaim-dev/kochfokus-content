@@ -230,7 +230,7 @@
                     },
                     {
                         "text": "Das Topping \u00fcber dem Brotlaib verteilen und die Brotbackform erneut abdecken.",
-                        "photo": null
+                        "photo": "rezept-sehr-saftiges-gemuesebrot-mit-chia-samen_5aaf93c976d5f.jpg"
                     },
                     {
                         "text": "Den Backofen auf 200 Grad Ober- und Unterhitze vorheizen und das Brot abgedeckt noch so lange ruhen lassen, bis der Backofen 200 Grad erreicht hat.",
