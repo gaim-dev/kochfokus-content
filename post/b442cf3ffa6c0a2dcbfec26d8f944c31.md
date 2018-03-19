@@ -251,7 +251,10 @@
                 ]
             }
         ],
-        "notes": null
+        "notes": {
+            "text": "Der Brotteig ist etwas klebrig. Deshalb verwende ich hier zum Backen eine Brotbackform und forme keinen Brotlaib.",
+            "photo": null
+        }
     }
 }
 
@@ -259,11 +262,18 @@ Liebst Du frisches Brot auch so sehr? Heute habe ich mal wieder so richtig Lust,
 
 Man sagt ja, dass Vorfreude die schönste Freude ist. Ich muss sagen, es stimmt. Während ich hier sitze und darüber nachdenke, wie ich mein Brot haben will, steigt bei mir die gute Laune. Die Vorfreude auf ein leckeres Brot mag einen großen Anteil an dieser guten Laune haben. Das Wetter lässt mich jedenfalls im Moment gar nicht frohlocken.
 
-Sei es wie es ist. Am Wetter kann ich nichts ändern, aber das muss nicht automatisch zu einer schlechten Laune führen, denn mit etwas Farbe in der Küche und Musik im Hintergrund sieht die Welt doch gleich viel besser aus.
+Sei es wie es ist. Am Wetter kann ich nicht ändern, aber das muss nicht automatisch zu einer schlechten Laune führen, denn mit etwas Farbe in der Küche und Musik im Hintergrund sieht die Welt doch gleich viel besser aus.
 
 ## Vorüberlegungen zum Rezept
 
-Apropos Farbe, ich verwende für mein heutige Brot übrigens Möhren und ein Stück Zucchino
+Apropos Farbe, ich verwende für mein Brot übrigens Möhren und ein Stück [Zucchino](https://kochfokus.de/artikel/die-zucchini/ "Zucchino"). Des weiteren verwende ich wieder mein [Einkornmehl](https://kochfokus.de/artikel/weihnachtliche-mueslimuffins/ "Einkornmehl"). Wenn dieses Mehl Dir nicht zur Verfügung steht, kannst du auch sehr gut Dinkelvollkornmehl verwenden.
+
+Zu dem Quellstück möchte ich noch kurz anmerken, dass man es auch am Vorabend ansetzten und dann über Nacht quellen lassen kann. Für das Quellstück habe ich die Walnusskerne etwas im Mörser zerstoßen.
+
+Für das Topping werden auch Walnüsse verwendet. Diese werden zu Gewürznüssen in der Pfanne verarbeitet. Ich weiß, dass in den meisten Rezepten Nüsse ohne Fett geröstet werden. Ich möchte Dir aber trotzdem empfehlen, die Nüsse in Fett zu rösten.Du wirst den geschmacklichen Unterschied merken. Außerdem kann man die Nüsse so auch viel besser würzen.
+
+Ich hoffe, Du hast Lust, dieses köstliche Brot nachzubacken.
+
 
 
 ## Küchengeräte und -utensilien
