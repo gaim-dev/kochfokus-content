@@ -305,6 +305,6 @@ Ich hoffe, Du hast Lust, dieses köstliche Brot nachzubacken.
 
 Ich wünsche Dir viel Spaß beim Nachbacken!
 
-{{< photo filename="rezept-sehr-saftiges-gemuesebrot-mit-chia-samen_5aaf9ca6bcbb1.jpg" caption="Rezept sehr saftiges Gemüsebrot mit Chia Samen" >}}
+{{< photo filename="rezept-sehr-saftiges-gemuesebrot-mit-chia-samen_5aaf9ca6bcbb1.jpg"  >}}
 
 Welches Brot isst Du am liebsten?
