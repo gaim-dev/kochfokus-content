@@ -3,7 +3,7 @@
     "draft": true,
     "date": "2018-03-16T08:08:00+00:00",
     "title": "Rezept sehr saftiges Gem\u00fcsebrot mit Chia Samen",
-    "description": "Vorfreude ist die sch\u00f6nste Freude. Bei dem Gem\u00fcsebrot mit Chia Samen kommt zu der Freude auch noch der Hochgenuss.",
+    "description": "Vorfreude ist die sch\u00f6nste Freude. Bei dem Gem\u00fcsebrot mit Chia Samen kommt zu der Freude auch noch der Hochgenuss hinzu.",
     "featuredImage": "rezept-sehr-saftiges-gemuesebrot-mit-chia-samen_5aaf9b3497fc6.jpg",
     "author": "Gabi",
     "recipe": {
