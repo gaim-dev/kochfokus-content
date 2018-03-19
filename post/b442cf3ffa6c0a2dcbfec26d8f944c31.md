@@ -275,7 +275,6 @@ Für das Topping werden auch Walnüsse verwendet. Diese werden zu Gewürznüssen
 Ich hoffe, Du hast Lust, dieses köstliche Brot nachzubacken.
 
 
-
 ## Küchengeräte und -utensilien
 - {{< amazon title="Küchenwaage" asin="B00DZPM41U" >}}
 - {{< amazon title="Messbecher" asin="B004NSL61M" >}}
@@ -304,5 +303,7 @@ Ich hoffe, Du hast Lust, dieses köstliche Brot nachzubacken.
 
 
 Ich wünsche Dir viel Spaß beim Nachbacken!
+
+{{< photo filename="rezept-sehr-saftiges-gemuesebrot-mit-chia-samen_5aaf9ca6bcbb1.jpg" caption="Rezept sehr saftiges Gemüsebrot mit Chia Samen" >}}
 
 Welches Brot isst Du am liebsten?
