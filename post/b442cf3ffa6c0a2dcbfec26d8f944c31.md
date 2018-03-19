@@ -4,7 +4,7 @@
     "date": "2018-03-16T08:08:00+00:00",
     "title": "Rezept sehr saftiges Gem\u00fcsebrot mit Chia Samen",
     "description": null,
-    "featuredImage": null,
+    "featuredImage": "rezept-sehr-saftiges-gemuesebrot-mit-chia-samen_5aaf9a165e1f5.jpg",
     "author": "Gabi",
     "recipe": {
         "ingredients": [
