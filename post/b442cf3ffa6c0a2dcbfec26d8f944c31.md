@@ -246,7 +246,7 @@
                     },
                     {
                         "text": "Lasst Euch das leckere Brot schmecken!",
-                        "photo": null
+                        "photo": "zum-einfetten-der-brotbackform_5aafa6d7cafad.jpg"
                     }
                 ]
             }
