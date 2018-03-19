@@ -285,9 +285,9 @@ Ich hoffe, Du hast Lust, dieses köstliche Brot nachzubacken.
 - {{< amazon title="Küchenmesser" asin="B0772WN76C" >}}
 - {{< amazon title="Schneidbrett" asin="B00MVB6OSS" >}}
 - {{< amazon title="Reibe" asin="B003GISD20" >}}
-- Schüssel
+- {{< amazon title="Schüssel" asin="B0744KKNHL" >}}
 - {{< amazon title="Teigschaber" asin="B00WJPCUA2" >}}
-- ev. Sparschäler (s. Zucchino)
+- Sparschäler
 - {{< amazon_search title="Teelöffel" query="Teelöffel" >}}
 - {{< amazon title="Mörser mit Stößel" asin="B01M2Y5TFQ" >}}
 - Frischhaltefolie
