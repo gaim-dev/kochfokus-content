@@ -148,8 +148,8 @@
                     {
                         "value": "N. B.",
                         "unit": null,
-                        "name": "\u00d6l oder  Backtrennspray  zum Einfetten der Brotbackform",
-                        "note": null
+                        "name": "\u00d6l oder  Backtrennspray",
+                        "note": "zum Einfetten der Brotbackform"
                     }
                 ]
             }
@@ -202,7 +202,7 @@
                     },
                     {
                         "text": "Das geraspelt Gem\u00fcse zum Hefeteig hinzuf\u00fcgen und einarbeiten.",
-                        "photo": null
+                        "photo": "rezept-sehr-saftiges-gemuesebrot-mit-chia-samen_5aafa08070acb.jpg"
                     },
                     {
                         "text": "Den Teig zu einer Teigkugel formen. Tipp: Der Teig ist etwas klebrig. Deshalb einen Teigschaber zu Hilfe nehmen.",
