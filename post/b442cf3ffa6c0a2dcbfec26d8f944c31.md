@@ -202,7 +202,7 @@
                     },
                     {
                         "text": "Das geraspelt Gem\u00fcse zum Hefeteig hinzuf\u00fcgen und einarbeiten.",
-                        "photo": "rezept-sehr-saftiges-gemuesebrot-mit-chia-samen_5aafa08070acb.jpg"
+                        "photo": "rezept-sehr-saftiges-gemuesebrot-mit-chia-samen_5aafa11d2177e.jpg"
                     },
                     {
                         "text": "Den Teig zu einer Teigkugel formen. Tipp: Der Teig ist etwas klebrig. Deshalb einen Teigschaber zu Hilfe nehmen.",
