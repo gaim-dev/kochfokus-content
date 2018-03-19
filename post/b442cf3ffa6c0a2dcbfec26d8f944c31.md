@@ -84,7 +84,7 @@
                     {
                         "value": "100",
                         "unit": "g",
-                        "name": "Zucchini",
+                        "name": "Zucchino",
                         "note": "geraspelt"
                     },
                     {
@@ -135,7 +135,7 @@
                         "note": null
                     },
                     {
-                        "value": "150",
+                        "value": "100",
                         "unit": "g",
                         "name": "Walnusskerne",
                         "note": null
@@ -205,7 +205,7 @@
                         "photo": "rezept-sehr-saftiges-gemuesebrot-mit-chia-samen_5aafa11d2177e.jpg"
                     },
                     {
-                        "text": "Den Teig zu einer Teigkugel formen. Tipp: Der Teig ist etwas klebrig. Deshalb einen Teigschaber zu Hilfe nehmen.",
+                        "text": "Den Teig zu einer Teigkugel formen.",
                         "photo": null
                     },
                     {
@@ -246,14 +246,14 @@
                     },
                     {
                         "text": "Lasst Euch das leckere Brot schmecken!",
-                        "photo": "zum-einfetten-der-brotbackform_5aafa6d7cafad.jpg"
+                        "photo": "rezept-sehr-saftiges-gemuesebrot-mit-chia-samen_5aafa9c934a30.jpg"
                     }
                 ]
             }
         ],
         "notes": {
             "text": "Der Brotteig ist etwas klebrig. Deshalb verwende ich bei diesem Rezept einmal mehr eine Brotbackform zum Backen.",
-            "photo": "rezept-sehr-saftiges-gemuesebrot-mit-chia-samen_5aafa9c934a30.jpg"
+            "photo": "zum-einfetten-der-brotbackform_5aafa6d7cafad.jpg"
         }
     },
     "Tags": [
@@ -278,7 +278,7 @@ Liebst Du frisches Brot auch so sehr? Heute habe ich mal wieder so richtig Lust,
 
 Man sagt ja, dass Vorfreude die schönste Freude ist. Ich muss sagen, es stimmt. Während ich hier sitze und darüber nachdenke, wie ich mein Brot haben will, steigt bei mir die gute Laune. Die Vorfreude auf ein leckeres Brot mag einen großen Anteil an dieser guten Laune haben. Das Wetter lässt mich jedenfalls im Moment gar nicht frohlocken.
 
-Sei es wie es ist. Am Wetter kann ich nicht ändern, aber das muss nicht automatisch zu einer schlechten Laune führen, denn mit etwas Farbe in der Küche und Musik im Hintergrund sieht die Welt doch gleich viel besser aus.
+Sei es, wie es ist. Das Wetter kann ich nicht ändern, aber das muss nicht automatisch zu einer schlechten Laune führen, denn mit etwas Farbe in der Küche und Musik im Hintergrund sieht die Welt doch gleich viel besser aus.
 
 ## Vorüberlegungen zum Rezept
 
