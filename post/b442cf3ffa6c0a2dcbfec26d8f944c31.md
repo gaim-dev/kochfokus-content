@@ -279,8 +279,7 @@ Ich hoffe, Du hast Lust, dieses köstliche Brot nachzubacken.
 ## Küchengeräte und -utensilien
 - {{< amazon title="Küchenwaage" asin="B00DZPM41U" >}}
 - {{< amazon title="Messbecher" asin="B004NSL61M" >}}
--{{< amazon title="Küchenmaschine mit Knetaufsatz" asin="B0148AE760" >}} oder Handmixgerät mit Knethaken und Schüssel
-
+- {{< amazon title="Küchenmaschine mit Knetaufsatz" asin="B0148AE760" >}} oder Handrührgerät mit Knethaken
 {{< amazon title="- Standmixer" asin="B00VTNOKPS" >}}
 - Schälchen
 - {{< amazon title="Küchenmesser" asin="B0772WN76C" >}}
