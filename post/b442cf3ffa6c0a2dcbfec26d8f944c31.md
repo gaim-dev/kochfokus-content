@@ -274,6 +274,7 @@ Für das Topping werden auch Walnüsse verwendet. Diese werden zu Gewürznüssen
 
 Ich hoffe, Du hast Lust, dieses köstliche Brot nachzubacken.
 
+{{< photo filename="rezept-sehr-saftiges-gemuesebrot-mit-chia-samen_5aaf9a165e1f5.jpg" >}}
 
 ## Küchengeräte und -utensilien
 - {{< amazon title="Küchenwaage" asin="B00DZPM41U" >}}
