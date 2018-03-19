@@ -205,7 +205,7 @@
                         "photo": null
                     },
                     {
-                        "text": "Aus dem Teig eine Teigkugel formen. Tipp: Der Teig ist etwas klebrig. Deshalb einen Teigschaber zu Hilfe nehmen.",
+                        "text": "Den Teig zu einer Teigkugel formen. Tipp: Der Teig ist etwas klebrig. Deshalb einen Teigschaber zu Hilfe nehmen.",
                         "photo": null
                     },
                     {
@@ -222,7 +222,7 @@
                     },
                     {
                         "text": "Wenn das Volumen des Teiges sich verdoppelt hat, wird er in die vorbereitete Backform gegeben.",
-                        "photo": null
+                        "photo": "rezept-sehr-saftiges-gemuesebrot-mit-chia-samen_5aaf968c4f3e4.jpg"
                     },
                     {
                         "text": "Den fertigen Brotteig direkt in die eingefettete Brotbackform geben, die H\u00e4nde leicht bemehlen, den Brotlaib etwas nachformen und mit den H\u00e4nden die Luft ein wenig aus dem Teig klopfen. Nun den Brotlaib mit Wasser bespr\u00fchen und mit einem scharfen Messer einschneiden.",
@@ -230,7 +230,7 @@
                     },
                     {
                         "text": "Das Topping \u00fcber dem Brotlaib verteilen und die Brotbackform erneut abdecken.",
-                        "photo": "rezept-sehr-saftiges-gemuesebrot-mit-chia-samen_5aaf93c976d5f.jpg"
+                        "photo": "rezept-sehr-saftiges-gemuesebrot-mit-chia-samen_5aaf970c1a50b.jpg"
                     },
                     {
                         "text": "Den Backofen auf 200 Grad Ober- und Unterhitze vorheizen und das Brot abgedeckt noch so lange ruhen lassen, bis der Backofen 200 Grad erreicht hat.",
