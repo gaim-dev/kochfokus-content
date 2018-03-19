@@ -280,6 +280,7 @@ Ich hoffe, Du hast Lust, dieses köstliche Brot nachzubacken.
 - {{< amazon title="Küchenwaage" asin="B00DZPM41U" >}}
 - {{< amazon title="Messbecher" asin="B004NSL61M" >}}
 -{{< amazon title="Küchenmaschine mit Knetaufsatz" asin="B0148AE760" >}} oder Handmixgerät mit Knethaken und Schüssel
+
 {{< amazon title="- Standmixer" asin="B00VTNOKPS" >}}
 - Schälchen
 - {{< amazon title="Küchenmesser" asin="B0772WN76C" >}}
