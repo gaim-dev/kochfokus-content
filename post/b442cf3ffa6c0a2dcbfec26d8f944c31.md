@@ -186,7 +186,7 @@
                     },
                     {
                         "text": "Die Haferflocken in den Standmixer geben und zu Mehl mahlen.",
-                        "photo": null
+                        "photo": "rezept-sehr-saftiges-gemuesebrot-mit-chia-samen_5aaf9f72799fd.jpg"
                     },
                     {
                         "text": "Das Haferflockenmehl zum Einkornmehl geben.",
