@@ -293,7 +293,7 @@ Ich hoffe, Du hast Lust, dieses köstliche Brot nachzubacken.
 - Frischhaltefolie
 - {{< amazon title="Geschirrtuch" asin="B014FOBIVG" >}}
 - {{< amazon_search title="kleine Pfanne" query="Pfannen" >}}
-- {{< amazon title="Brotbackform" asin="B00MGTEPJA" >}}
+- {{< amazon title="Kastenbrotbackform" asin="B00MGTEPJA" >}}
 - Sprühflasche mit Wasser
 - scharfes {{< amazon title="Küchenmesser" asin="B0772WN76C" >}}
 - Backblech
