@@ -3,7 +3,7 @@
     "draft": true,
     "date": "2018-03-16T08:08:00+00:00",
     "title": "Rezept sehr saftiges Gem\u00fcsebrot mit Chia Samen",
-    "description": null,
+    "description": "Vorfreude ist die sch\u00f6nste Freude. Bei dem Gem\u00fcsebrot mit Chia Samen kommt zu der Freude auch noch der Hochgenuss.",
     "featuredImage": "rezept-sehr-saftiges-gemuesebrot-mit-chia-samen_5aaf9b3497fc6.jpg",
     "author": "Gabi",
     "recipe": {
@@ -252,10 +252,26 @@
             }
         ],
         "notes": {
-            "text": "Der Brotteig ist etwas klebrig. Deshalb verwende ich hier zum Backen eine Brotbackform und forme keinen Brotlaib.",
+            "text": "Der Brotteig ist etwas klebrig. Deshalb verwende ich bei diesem Rezept einmal mehr eine Brotbackform zum Backen.",
             "photo": "rezept-sehr-saftiges-gemuesebrot-mit-chia-samen_5aafa9c934a30.jpg"
         }
-    }
+    },
+    "Tags": [
+        "brot",
+        "backen",
+        "gem\u00fcsebrot",
+        "hefeteig",
+        "trockenhefe",
+        "chia samen",
+        "selbst gemacht",
+        "gem\u00fcse",
+        "leinsamen",
+        "brotteig",
+        "brotzeit",
+        "vegetarisch",
+        "vollkorn ",
+        "einkornmehl"
+    ]
 }
 
 Liebst Du frisches Brot auch so sehr? Heute habe ich mal wieder so richtig Lust, mir ein schönes saftiges Brot zu backen.
