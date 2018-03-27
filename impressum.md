@@ -25,7 +25,7 @@ _*reguläre Festnetzgebühren gemäß Ihres Telefonvertrages können anfallen_
 
 Umsatzsteuer-Identifikationsnummer gemäß § 27 a Umsatzsteuergesetz: DE306746612
 
-Plattform der EU-Kommission zur Online-Streitbeilegung: <http://ec.europa.eu/consumers/odr>  
+Plattform der EU-Kommission zur Online-Streitbeilegung: <https://ec.europa.eu/consumers/odr>  
 Wir sind zur Teilnahme an einem Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle weder verpflichtet noch bereit.
 
 **Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:**  
