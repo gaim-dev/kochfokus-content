@@ -6,7 +6,105 @@
     "description": null,
     "featuredImage": null,
     "author": "Gabi",
-    "recipe": null
+    "recipe": {
+        "ingredients": [
+            {
+                "name": "Hefe ansetzen",
+                "contents": [
+                    {
+                        "value": "1\/2",
+                        "unit": "W\u00fcrfel",
+                        "name": "Hefe",
+                        "note": "frisch"
+                    },
+                    {
+                        "value": "1",
+                        "unit": "TL",
+                        "name": "Rohrzucker",
+                        "note": null
+                    },
+                    {
+                        "value": "3",
+                        "unit": "EL",
+                        "name": "Milch",
+                        "note": "Zimmertemperatur"
+                    }
+                ]
+            },
+            {
+                "name": "Hefeteig",
+                "contents": [
+                    {
+                        "value": "350",
+                        "unit": "g",
+                        "name": "Dinkelmehl 630",
+                        "note": "plus etwas zum Bemehlen der Arbeitsfl\u00e4che und des Teigrollers"
+                    },
+                    {
+                        "value": "50",
+                        "unit": "g",
+                        "name": "Rohrzucker",
+                        "note": null
+                    },
+                    {
+                        "value": "1",
+                        "unit": "Prise",
+                        "name": "Salz",
+                        "note": null
+                    },
+                    {
+                        "value": "5",
+                        "unit": "g",
+                        "name": "Vanille Aroma",
+                        "note": null
+                    },
+                    {
+                        "value": "50",
+                        "unit": "g",
+                        "name": "Butter",
+                        "note": "Zimmertemperatur"
+                    },
+                    {
+                        "value": "1",
+                        "unit": null,
+                        "name": "Ei",
+                        "note": "Gr\u00f6\u00dfe M"
+                    },
+                    {
+                        "value": "100",
+                        "unit": "ml",
+                        "name": "Milch",
+                        "note": "Zimmertemperatur"
+                    }
+                ]
+            },
+            {
+                "name": "F\u00fcllung",
+                "contents": [
+                    {
+                        "value": "5",
+                        "unit": "g",
+                        "name": "Vanille Aroma",
+                        "note": null
+                    },
+                    {
+                        "value": "1",
+                        "unit": "EL",
+                        "name": "Zitronensaft",
+                        "note": null
+                    },
+                    {
+                        "value": "400",
+                        "unit": "g",
+                        "name": "Heidelbeeren",
+                        "note": "gefroren"
+                    }
+                ]
+            }
+        ],
+        "steps": [],
+        "notes": null
+    }
 }
 
 Nach der Fastenzeit gönne ich mir nun endlich wieder etwas ZUCKERSÜßES und diesmal wird das Fasten nicht mit einem [Osterbrot](https://kochfokus.de/artikel/suesses-no-knead-osterbrot/ "Osterbrot") gebrochen, sondern mit der süßen Versuchung schlechthin. Ich liebe ja Heidelbeeren fast über alles. Ich glaube, noch mehr liebe ich eigentlich nur meine 3 Männer, aber das ist natürlich etwas Anderes.
@@ -19,7 +117,7 @@ Der Hefeteig wird diesmal mit frischer Hefe zubereitet. Bitte verlass jetzt dies
 
 Ich mache bei der Verwendung von frischer Hefe sonst immer einen sogenannten *Vorteig*. Diesmal möchte ich mal etwas Anderes versuchen. Ich werde  die frische Hefe einfach nur ansetzen, das heißt ich werde sie mit einer Prise Zucker und etwas in ein Gefäß geben und ihr Zeit geben etwas zu gehen oder anzusetzen. Sie bekommt also im Gegensatz zu sonst nicht schon etwas Mehl als Futter, sondern wird so angestzt wie ich es auch beim ober erwähnten Herzkuchen mit der Trockenhefe gemacht habe.
 
-Außerdem  verwende ich für den Teig Vanillearoma, das es fertig zu kaufen gibt. Du findest in der Regel im Supermarkt dort, wo es die Backzutaten und Backaromen gibt. Es it meist als 2er Pack zu erwerben. Du brauchst ein Päckchen à 5 g davon. Ich finde es gibt dem Teig ein feines Vanillearoma. Wenn Du dies nicht verwenden möchtest, kannst Du es natürlich weglassen.
+Außerdem  verwende ich für den Teig Vanillearoma, das es fertig zu kaufen gibt. Du findest in der Regel im Supermarkt dort, wo es die Backzutaten und Backaromen gibt. Es it meist als 2er Pack zu erwerben. Du brauchst beide Päckchen à 5 g. Ich finde es gibt dem Teig ein feines Vanillearoma. Wenn Du dies nicht verwenden möchtest, kannst Du es natürlich weglassen.
 
 Bist Du auch so gespannt auf den Kuchen wie ich? Dann sollten wir jetzt aber loslegen, denn ich freue mich schon riesig auf meinen Kuchen und natürlich auch auf das Fastenbrechen.
 
@@ -35,6 +133,8 @@ Solltest Du irgendwelche Fragen zum Rezept oder zur Hefe haben, dann schreib mir
 - Teigroller
 - Frischhaltefolie
 - Geschirrtuch
+- Kochtopf
+- Kochlöffel
 - Backofenrost
 - Springbackform
 - Backofen
