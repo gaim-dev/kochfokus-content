@@ -238,7 +238,7 @@ Ich weiß nicht, ob Du schon meinen [verführerischen Herzkuchen](https://kochfo
 
 ## Vorbemerkungen zum Rezept
 
-Der Hefeteig wird diesmal mit frischer Hefe zubereitet. Bitte verlass jetzt diese Seite nicht, denn Du brauchst Dir in Bezug auf die Zubereitung des Hefeteigs** keine Sorgen zu machen****. Ich habe zum einen **die wichtigsten Tipps zur Hefe** [hier](https://kochfokus.de/artikel/hefe/ "hier") für Dich zusammengefasst und außerdem führe ich **Dich Schritt für Schritt** durch dieses Rezept, versprochen! 😉
+Der Hefeteig wird diesmal mit frischer Hefe zubereitet. Bitte verlass jetzt diese Seite nicht, denn Du brauchst Dir in Bezug auf die Zubereitung des Hefeteigs** keine Sorgen zu machen**. Ich habe zum einen **die wichtigsten Tipps zur Hefe** [hier](https://kochfokus.de/artikel/hefe/ "hier") für Dich zusammengefasst und außerdem führe ich **Dich Schritt für Schritt** durch dieses Rezept, versprochen! 😉
 
 Ich mache bei der Verwendung von frischer Hefe sonst immer einen sogenannten *Vorteig*. Diesmal möchte ich mal etwas Anderes versuchen. Ich werde  die frische Hefe einfach nur ansetzen, das heißt ich werde sie mit einer Prise Zucker und etwas in ein Gefäß geben und ihr Zeit geben etwas zu gehen oder anzusetzen. Sie bekommt also im Gegensatz zu sonst nicht schon etwas Mehl als Futter, sondern wird so angestzt wie ich es auch beim ober erwähnten Herzkuchen mit der Trockenhefe gemacht habe.
 
