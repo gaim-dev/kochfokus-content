@@ -116,6 +116,12 @@
                         "unit": "g",
                         "name": "Vanillearoma",
                         "note": null
+                    },
+                    {
+                        "value": "1",
+                        "unit": "EL",
+                        "name": "Vanillezucker",
+                        "note": null
                     }
                 ]
             },
@@ -138,6 +144,17 @@
                         "value": "50",
                         "unit": "g",
                         "name": "Puderzucker",
+                        "note": null
+                    }
+                ]
+            },
+            {
+                "name": "Topping",
+                "contents": [
+                    {
+                        "value": "N.B.",
+                        "unit": null,
+                        "name": "Mandelbl\u00e4ttchen",
                         "note": null
                     }
                 ]
@@ -207,6 +224,26 @@
                     {
                         "text": "Die Teigkugel zu einem Rechteck ausrollen. Mein Rechteck war 20 x 35, 5 cm gro\u00df.????",
                         "photo": null
+                    },
+                    {
+                        "text": "Zuerst die Schmandmischung auf das Rechteck streichen.",
+                        "photo": null
+                    },
+                    {
+                        "text": "Danach die Heidelbeersauce noch einmal durchr\u00fchren und \u00fcber das Rechteck verteilen. Tipp: Einen kleinen Streifen an den R\u00e4ndern jeweils freilassen.",
+                        "photo": null
+                    },
+                    {
+                        "text": "Danach den Teig von der L\u00e4ngsseite locker aufrollen.",
+                        "photo": null
+                    },
+                    {
+                        "text": "Mit dem Messer die Rolle in m\u00f6glichst gleich gro\u00dfe Schnecken teilen. Tipp: Mit dem Messer schon vorab die Abst\u00e4nde markieren, damit es gleich gro\u00dfe St\u00fccke werden.",
+                        "photo": null
+                    },
+                    {
+                        "text": "Die Schnecken mit der Schnitteseite nach oben und leichtem Abstand zu einander in die Springbackform legen. Tipp: Das ist eine klebrige Angelegenheit, die leichter zu bew\u00e4ltigen ist, wenn man die Teigschnecken mit Hilfe einer Teigkarte in die Backform legt.",
+                        "photo": null
                     }
                 ]
             },
@@ -218,11 +255,40 @@
                         "photo": null
                     },
                     {
-                        "text": "Dann einen Essl\u00f6ffel Kokosmehl hinzuf\u00fcgen und alles die Fruchtsauce anbinden.",
+                        "text": "Dann einen Essl\u00f6ffel Kokosmehl hinzuf\u00fcgen und alles die Fruchtsauce anbinden. Beiseite stellen und etwas ausk\u00fchlen lassen.",
                         "photo": null
                     },
                     {
-                        "text": "Den Schmand",
+                        "text": "Den Schmand, den Vanillezucker sowie das Vanillearoma in eine Sch\u00fcssel geben und miteinander verr\u00fchren.",
+                        "photo": null
+                    },
+                    {
+                        "text": "Die Springbackform dann nochmals mit der Frischhaltefolie abdecken und an einem warmen Ort 30 Minuten gehen lassen. Tipp: Die Frischhaltefolie nun entweder mit Backtrennspray bespr\u00fchen oder aber etwas mit \u00d6l einpinseln, damit die Teigschnecken nicht daran haften bleiben.",
+                        "photo": null
+                    },
+                    {
+                        "text": "Kurz vor Ende der 30 Minuten den Backofen auf 180 Grad Ober-\/Unterhitze vorheizen.",
+                        "photo": null
+                    },
+                    {
+                        "text": "Die Springbackform auf den mittleren Einschub des Backofens geben und den Herzschneckenkuchen 25 Minuten backen. Tipp: Je nach Backofen kann die Backzeit l\u00e4nger oder aber auch k\u00fcrzer sein.",
+                        "photo": null
+                    },
+                    {
+                        "text": "Den fertig gebackenen Kuchen dann aus dem Backofen nehmen, auf ein Kuchengitter geben und etwas ausk\u00fchlen lassen und in der Zwischenzeit die Glasur zubereiten.",
+                        "photo": null
+                    }
+                ]
+            },
+            {
+                "name": "Glasur",
+                "contents": [
+                    {
+                        "text": "F\u00fcr die Glasur den Schmand sowie den Puderzucker, in die kleine Sch\u00fcssel geben, den Saft hinzuf\u00fcgen und alles mit der Gabel gut verr\u00fchren.",
+                        "photo": null
+                    },
+                    {
+                        "text": "Danach den Kuchen mit dem Guss besprenkeln und die Mandelbl\u00e4ttchen dar\u00fcber streuen.",
                         "photo": null
                     }
                 ]
