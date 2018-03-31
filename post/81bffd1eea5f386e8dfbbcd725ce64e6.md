@@ -20,7 +20,7 @@
                     {
                         "value": "1",
                         "unit": "TL",
-                        "name": "Rohrzucker",
+                        "name": "Zucker",
                         "note": null
                     },
                     {
@@ -43,7 +43,7 @@
                     {
                         "value": "50",
                         "unit": "g",
-                        "name": "Rohrzucker",
+                        "name": "Zucker",
                         "note": null
                     },
                     {
@@ -331,7 +331,7 @@ Solltest Du irgendwelche Fragen zum Rezept oder zur Hefe haben, dann schreib mir
 - 4 kleine Schüsseln
 - Sieb
 - Backofenrost
-- Springbackform
+- Springbackform ø 26 cm
 - Backofen
 - Teigkarte
 - Kurzzeitmesser
