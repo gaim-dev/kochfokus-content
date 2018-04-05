@@ -49,7 +49,7 @@
     }
 }
 
-Ich verrate Dir mal etwas. Manchmal bin ich sehr skeptisch, ob ein Rezept mir gelingt oder nicht. Ein ist jedes Mal ein Risiko, wenn man in der Küche experimentiert und etwas Eigenes kreieren will. Da ich mit Lebensmitteln grundsätzlich sorgsam umgehe, bin ich manchmal in Sorge, ob meine Ideen funktionieren. So ging es mir auch bei diesen zum Glück am Ende gelungenen Muffins.
+Ich verrate Dir mal etwas. Manchmal bin ich sehr skeptisch, ob ein Rezept mir gelingt oder nicht. Es ist jedes Mal ein Risiko, wenn man in der Küche experimentiert und etwas Eigenes kreieren will. Da ich mit Lebensmitteln grundsätzlich sorgsam umgehe, bin ich manchmal in Sorge, ob meine Ideen funktionieren. So ging es mir auch bei diesen zum Glück am Ende gelungenen Muffins.
 
 
 ## Die Grundidee
