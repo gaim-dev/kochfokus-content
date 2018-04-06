@@ -97,7 +97,43 @@
                 "name": null,
                 "contents": [
                     {
-                        "text": "Vorbereitend die Muffin Backform mit den Papier Backformen auslegen und den Backofen auf 180 Grad Ober-\/Unterhitze vorheizen.",
+                        "text": "Vorbereitend die Mangost\u00fccke auftauen und au\u00dferdem die Eier sowie den Kefir aus dem K\u00fchlschrank nehmen, damit sie auf Zimmertemperatur kommen.",
+                        "photo": null
+                    },
+                    {
+                        "text": "Wenn die Mangost\u00fccke angetaut sind, die Papier Backformen in die Muffin Backform geben, den Backofenrost auf den mittleren Einschub des Backofens schieben. Dann den Backofen auf 180 Grad Ober-\/Unterhitze vorheizen.",
+                        "photo": null
+                    },
+                    {
+                        "text": "Zuerst das Dinkelmehl, das Kokosmehl, das Backpulver, das Natron und und die Prise Salz in eine R\u00fchrsch\u00fcssel geben und miteinander vermengen. Tipp: Dabei ist die Verwendung der K\u00fcchenwaage ganz hilfreich.",
+                        "photo": null
+                    },
+                    {
+                        "text": "Eine H\u00e4lfte dieser Mischung in eine zweite Sch\u00fcssel geben.",
+                        "photo": null
+                    },
+                    {
+                        "text": "In die erste Sch\u00fcssel das Kurkuma und den wei\u00dfen Zucker hinzuf\u00fcgen und unterr\u00fchren.",
+                        "photo": null
+                    },
+                    {
+                        "text": "Nun den Kokosbl\u00fctenzucker zu den Zutaten in die zweite Sch\u00fcssel hinzugeben und alles miteinander vermengen.",
+                        "photo": null
+                    },
+                    {
+                        "text": "In eine dritte Sch\u00fcssel die Eier geben und diese mit Hilfe des Handr\u00fchrger\u00e4tes kurz aufschlagen.",
+                        "photo": null
+                    },
+                    {
+                        "text": "Das Raps\u00f6l sowie den Kefir hinzuf\u00fcgen und alles miteinander verr\u00fchren.",
+                        "photo": null
+                    },
+                    {
+                        "text": "Die fl\u00fcssigen Zutaten nun auf die beiden Sch\u00fcsseln mit den trockenen Zutaten gleichm\u00e4\u00dfig verteilen. Tipp: Auch hierbei eine K\u00fcchenwaage verwenden.",
+                        "photo": null
+                    },
+                    {
+                        "text": "Den hellen wie auch den dunklen Teig jeweils nur so lange verr\u00fchrt werden, bis das Mehl nicht mehr zu sehen ist.",
                         "photo": null
                     }
                 ]
@@ -124,7 +160,7 @@ Konnte ich Deine Neugier wecken?
 ## Küchengeräte und -utensilien
 
 - Küchenwaage
-- Handmixgerät mit Rührbesenaufsatz
+- Handrührgerät mit Rührbesenaufsatz
 - 3 Schüsseln
 - Muffin Backform
 - 12 Papier Backformen für die Muffin Backform
