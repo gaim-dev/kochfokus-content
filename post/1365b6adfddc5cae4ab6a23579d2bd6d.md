@@ -140,7 +140,7 @@
                     },
                     {
                         "text": "Den hellen wie auch den dunklen Teig jeweils nur so lange verr\u00fchrt werden, bis das Mehl nicht mehr zu sehen ist.",
-                        "photo": null
+                        "photo": "exotische-kokos-muffins-mit-schokolade-und-kurkuma_5ac73fb051d73.jpg"
                     },
                     {
                         "text": "Den hellen Teig zuerst m\u00f6glichst gleichm\u00e4\u00dfig in die Papier Backformen verteilen und dann den dunklen Teig jeweils darauf geben.",
