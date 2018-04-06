@@ -213,18 +213,18 @@ Konnte ich Deine Neugier wecken?
 
 ## Küchengeräte und -utensilien
 
-- Küchenwaage
+- {{< amazon title="Küchenwaage" asin="B00DZPM41U" >}}
 - Handrührgerät mit Rührbesenaufsatz
-- 3 Schüsseln
-- Muffin Backform
-- 12 Papier Backformen für die Muffin Backform
-- Teigschaber
-- Teelöffel
-- Esslöffel
+- 3 {{< amazon_search title="Rührschüsseln" query="Rührschüsseln" >}}
+- {{< amazon title="Muffin Backform" asin="B004YIUJ46" >}}
+{{< amazon_search title="- 12 Papier Backformen für die Muffin Backform" query="Papierbackförmchen" >}}
+- {{< amazon title="Teigschaber" asin="B00WJPCUA2" >}}
+- {{< amazon_search title="Teelöffel" query="Teelöffel" >}}
+- {{< amazon_search title="Esslöffel" query="Esslöffel" >}}
 - Eisportionierer
 - Backrost
 - Backofen
-- Backhandschuhe
+- {{< amazon title="Backhandschuhe" asin="B074LCTCF8" >}}
 - Kurzzeitmesser
 - Holzspieß für die Garprobe
 
