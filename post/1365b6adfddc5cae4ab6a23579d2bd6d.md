@@ -171,7 +171,7 @@
         ],
         "notes": {
             "text": "Beide Teige sind etwas z\u00e4her als man es sonst vom Muffinteig kennt. Das liegt daran, dass Kokosmehl Fl\u00fcssigkeiten gut aufnimmt. Der Teig eignet sich so dennoch gut zum Backen von Muffins. Wenn er Dir zu fest ist, dann f\u00fcge einfach noch etwas Fl\u00fcssigkeit hinzu.",
-            "photo": null
+            "photo": "exotische-kokos-schokoladen-muffins-mit-kurkuma_5ac74f8d46c93.jpg"
         }
     },
     "Tags": [
