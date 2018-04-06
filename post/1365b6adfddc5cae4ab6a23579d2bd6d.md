@@ -214,7 +214,7 @@ Konnte ich Deine Neugier wecken?
 ## Küchengeräte und -utensilien
 
 - {{< amazon title="Küchenwaage" asin="B00DZPM41U" >}}
-- Handrührgerät mit Rührbesenaufsatz
+- {{< amazon title="Handrührgerät" asin="B000IYGH28" >}} mit Rührbesenaufsatz
 - 3 {{< amazon_search title="Rührschüsseln" query="Rührschüsseln" >}}
 - {{< amazon title="Muffin Backform" asin="B004YIUJ46" >}}
 - 12 {{< amazon_search title="Papier Backformen für die Muffin Backform" query="Papierbackförmchen" >}}
