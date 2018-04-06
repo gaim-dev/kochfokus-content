@@ -120,7 +120,7 @@
                     },
                     {
                         "text": "In die erste Sch\u00fcssel das Kurkuma und den wei\u00dfen Zucker hinzuf\u00fcgen und unterr\u00fchren.",
-                        "photo": null
+                        "photo": "exotische-kokos-muffins-mit-schokolade-und-kurkuma_5ac73ef04a205.jpg"
                     },
                     {
                         "text": "Nun den Kokosbl\u00fctenzucker und den Backkakao zu den Zutaten in die zweite Sch\u00fcssel hinzugeben und alles miteinander vermengen.",
@@ -170,7 +170,7 @@
             }
         ],
         "notes": {
-            "text": "Beide Teige sind etwas z\u00e4her als man es sonst vom Muffinteig kennt. Das liegt daran, dass Kokosmehl Fl\u00fcssigkeit gut aufnimmt. Der Teig eignet sich so dennoch gut zum Backen von Muffins. Wenn er Dir zu fest ist, dann f\u00fcg einfach noch etwas Fl\u00fcssigkeit hinzu.",
+            "text": "Beide Teige sind etwas z\u00e4her als man es sonst vom Muffinteig kennt. Das liegt daran, dass Kokosmehl Fl\u00fcssigkeiten gut aufnimmt. Der Teig eignet sich so dennoch gut zum Backen von Muffins. Wenn er Dir zu fest ist, dann f\u00fcg einfach noch etwas Fl\u00fcssigkeit hinzu.",
             "photo": null
         }
     }
