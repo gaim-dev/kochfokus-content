@@ -1,8 +1,8 @@
 {
-    "slug": "exotische-kokos-muffins-mit-schokolade-und-kurkuma",
+    "slug": "exotische-kokos-schokoladen- muffins-mit-kurkuma",
     "draft": true,
     "date": "2018-04-05T13:25:00+00:00",
-    "title": "Exotische Kokos Muffins mit Schokolade und Kurkuma",
+    "title": "Exotische Kokos Schokoladen Muffins mit Kurkuma",
     "description": null,
     "featuredImage": "exotische-kokos-muffins-mit-schokolade-und-kurkuma_5ac7456692d09.jpg",
     "author": "Gabi",
