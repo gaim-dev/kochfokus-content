@@ -15,7 +15,7 @@
                         "value": "200",
                         "unit": "g",
                         "name": "Dinkelmehl",
-                        "note": null
+                        "note": "630"
                     },
                     {
                         "value": "50",
@@ -27,7 +27,7 @@
                         "value": "1",
                         "unit": "TL",
                         "name": "Backpulver",
-                        "note": "ohne Zucker"
+                        "note": null
                     },
                     {
                         "value": "1",
@@ -63,7 +63,7 @@
                         "value": "2",
                         "unit": "EL",
                         "name": "Backkakao",
-                        "note": null
+                        "note": "ohne Zucker"
                     },
                     {
                         "value": "2",
@@ -139,11 +139,11 @@
                         "photo": null
                     },
                     {
-                        "text": "Den hellen wie auch den dunklen Teig jeweils nur so lange verr\u00fchrt werden, bis das Mehl nicht mehr zu sehen ist.",
+                        "text": "Der hellen wie auch der dunkle Teig soll jeweils nur so lange verr\u00fchrt werden, bis das Mehl nicht mehr zu sehen ist.",
                         "photo": "exotische-kokos-muffins-mit-schokolade-und-kurkuma_5ac73fb051d73.jpg"
                     },
                     {
-                        "text": "Den hellen Teig zuerst m\u00f6glichst gleichm\u00e4\u00dfig in die Papier Backformen verteilen und dann den dunklen Teig jeweils darauf geben.",
+                        "text": "Den hellen Teig zuerst m\u00f6glichst gleichm\u00e4\u00dfig in die Papier Backformen verteilen und dann den dunklen Teig jeweils darauf geben. Tipp: Das geht mit einem Eisportionierer ganz einfach.",
                         "photo": null
                     },
                     {
@@ -192,7 +192,7 @@
     ]
 }
 
-Heute verrate ich Dir mal etwas. Manchmal bin ich sehr skeptisch, ob ein Rezept mir gelingt oder nicht. Es ist jedes Mal ein Risiko, wenn man in der Küche experimentiert und etwas Eigenes kreieren will. Da ich mit Lebensmitteln grundsätzlich sorgsam umgehe, bin ich manchmal in Sorge, ob meine Ideen funktionieren. So ging es mir auch bei diesen zum Glück am Ende gelungenen Muffins.
+Heute verrate ich Dir mal etwas. Manchmal bin ich sehr skeptisch, ob ein Rezept mir gelingt oder nicht. Es ist jedes Mal ein Risiko, wenn man in der Küche experimentiert und etwas Eigenes kreieren will. Da ich mit Lebensmitteln grundsätzlich sorgsam umgehe, bin ich manchmal in Sorge, ob meine Ideen funktionieren. So ging es mir auch bei diesen zum Glück gelungenen Muffins.
 
 
 ## Die Grundidee
@@ -201,7 +201,7 @@ Ich habe mir überlegt, dass ich etwas Mehl durch Kokosmehl ersetze. Was Du beim
 
 Außerdem wollte ich Muffins haben, die zweifarbig sind. Also habe ich mir überlegt, dass einer Teighälfte etwas Kurkuma zugesetzt wird, um eine schön intensive Farbe zu erhalten. Genau hierbei war ich mir nicht ganz sicher, ob das geschmacklich gut gehen kann. Ich habe ich ja schon einige Male Kurkuma im [Porridge](https://kochfokus.de/artikel/goldener-herbst-porridge/ "Porridge") und im [grünen Tee Latte](https://kochfokus.de/artikel/der-perfekte-vegane-gruene-tee-latte/ "grünen Tee Latte") verwendet, aber noch nie in süßem Gebäck. Also war ich doch ein wenig in Sorge. Glücklicherweise sind die Muffins gelungen und haben den Geschmackstest bestanden, so dass sie auch den Weg auf meinen Blog gefunden haben.
 
-Wenn Du Kurkuma absolut nicht magst, kannst Du dieses Gewürz auch einfach weglassen. Der Teig ist dann ja trotzdem heller als der Teig mit dem Backkakao.
+Wenn Du Kurkuma absolut nicht magst, kannst Du dieses Gewürz einfach weglassen. Der Teig ist dann ja trotzdem heller als der Teig mit dem Backkakao.
 
 Um etwas Zucker einzusparen, verwende ich beim Backen ungesüßten Backkakao. Die Muffins sind dennoch süß genug und man nimmt nicht unnötig viel Zucker zu sich.
 
