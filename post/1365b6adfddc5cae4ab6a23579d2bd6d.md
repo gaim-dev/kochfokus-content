@@ -4,7 +4,7 @@
     "date": "2018-04-05T13:25:00+00:00",
     "title": "Exotische Kokos Muffins mit Schokolade und Kurkuma",
     "description": null,
-    "featuredImage": null,
+    "featuredImage": "exotische-kokos-muffins-mit-schokolade-und-kurkuma_5ac7456692d09.jpg",
     "author": "Gabi",
     "recipe": {
         "ingredients": [
