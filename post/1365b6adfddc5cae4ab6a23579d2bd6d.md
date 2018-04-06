@@ -3,7 +3,7 @@
     "draft": false,
     "date": "2018-04-05T13:25:00+00:00",
     "title": "Exotische Kokos Schokoladen Muffins mit Kurkuma",
-    "description": "Die Exotische Kokos Schokoladen Muffins mit Kurkuma bestechen nicht nur durch ihre tolle Farbe, sondern sind geschmacklich ein Volltreffer, Diese k\u00f6stlichen Muffins kann man ohne Reue genie\u00dfen.",
+    "description": "Die Exotischen Kokos Schokoladen Muffins mit Kurkuma bestechen nicht nur durch ihre tolle Farbe, sondern sind geschmacklich ein Volltreffer, sondern sind auch gesund. Diese k\u00f6stlichen Muffins kann man ohne Reue genie\u00dfen.",
     "featuredImage": "exotische-kokos-muffins-mit-schokolade-und-kurkuma_5ac7456692d09.jpg",
     "author": "Gabi",
     "recipe": {
@@ -183,7 +183,16 @@
         "muffin",
         "backen",
         "kurkuma",
-        "kokosmehl,"
+        "kokosmehl",
+        "geb\u00e4ck",
+        "s\u00fc\u00dfes geb\u00e4ck",
+        "kleine kuchen",
+        "exotisches geb\u00e4ck",
+        "kokosnuss",
+        "schokolade",
+        "kakao",
+        "selbst gemacht",
+        "selbst gebacken"
     ],
     "Kategorien": [
         "Rezepte",
