@@ -27,7 +27,7 @@
                         "value": "1",
                         "unit": "TL",
                         "name": "Backpulver",
-                        "note": null
+                        "note": "ohne Zucker"
                     },
                     {
                         "value": "1",
@@ -103,7 +103,7 @@
                 "name": null,
                 "contents": [
                     {
-                        "text": "Vorbereitend die Mangost\u00fccke auftauen und au\u00dferdem die Eier sowie den Kefir aus dem K\u00fchlschrank nehmen, damit sie auf Zimmertemperatur kommen.",
+                        "text": "Vorbereitend die Mangost\u00fccke antauen und au\u00dferdem die Eier sowie den Kefir aus dem K\u00fchlschrank nehmen, damit sie auf Zimmertemperatur kommen.",
                         "photo": null
                     },
                     {
@@ -111,11 +111,11 @@
                         "photo": null
                     },
                     {
-                        "text": "Zuerst das Dinkelmehl, das Kokosmehl, das Backpulver, das Natron und und die Prise Salz in eine R\u00fchrsch\u00fcssel geben und miteinander vermengen. Tipp: Dabei ist die Verwendung der K\u00fcchenwaage ganz hilfreich.",
+                        "text": "Zuerst das Dinkelmehl, das Kokosmehl, das Backpulver, das Natron und und die Prise Salz in eine R\u00fchrsch\u00fcssel geben und miteinander vermengen.",
                         "photo": null
                     },
                     {
-                        "text": "Eine H\u00e4lfte dieser Mischung in eine zweite Sch\u00fcssel geben.",
+                        "text": "Genau die H\u00e4lfte dieser Mischung in eine zweite Sch\u00fcssel geben. Tipp: Dabei ist die Verwendung der K\u00fcchenwaage ganz hilfreich.",
                         "photo": null
                     },
                     {
@@ -123,7 +123,7 @@
                         "photo": null
                     },
                     {
-                        "text": "Nun den Kokosbl\u00fctenzucker zu den Zutaten in die zweite Sch\u00fcssel hinzugeben und alles miteinander vermengen.",
+                        "text": "Nun den Kokosbl\u00fctenzucker und den Backkakao zu den Zutaten in die zweite Sch\u00fcssel hinzugeben und alles miteinander vermengen.",
                         "photo": null
                     },
                     {
@@ -147,7 +147,7 @@
                         "photo": null
                     },
                     {
-                        "text": "Nun jeweils ein Mangost\u00fcck als Topping darauf geben.",
+                        "text": "Nun jeweils ein Mangost\u00fcck als Topping auf die Muffins geben.",
                         "photo": null
                     },
                     {
@@ -183,7 +183,11 @@ Heute verrate ich Dir mal etwas. Manchmal bin ich sehr skeptisch, ob ein Rezept 
 
 Ich habe mir überlegt, dass ich etwas Mehl durch Kokosmehl ersetze. Was Du beim Backen mit Kokosmehl beachten solltest, findest Du [hier](https://kochfokus.de/artikel/ist-kokosmehl-wirklich-gesund/ "hier").
 
-Außerdem wollte ich Muffins haben, die zweifarbig sind. Also habe ich mir überlegt, dass einer Teighälfte etwas Kurkuma zugesetzt wird. Genau hierbei war ich mir nicht ganz sicher, ob das geschmacklich gut gehen kann. Ich habe ich ja schon einige Male Kurkuma bei [Porridge](https://kochfokus.de/artikel/goldener-herbst-porridge/ "Porridge") und im [grünen Tee Latte](https://kochfokus.de/artikel/der-perfekte-vegane-gruene-tee-latte/ "grünen Tee Latte") verwendet, aber noch nie in süßem Gebäck. Also war ich doch ein wenig in Sorge. Glücklicherweise haben die Muffins den Geschmackstest bestanden, so dass sie auch den Weg auf meinen Blog gefunden haben.
+Außerdem wollte ich Muffins haben, die zweifarbig sind. Also habe ich mir überlegt, dass einer Teighälfte etwas Kurkuma zugesetzt wird, um eine schön intensive Farbe zu erhalten. Genau hierbei war ich mir nicht ganz sicher, ob das geschmacklich gut gehen kann. Ich habe ich ja schon einige Male Kurkuma bei [Porridge](https://kochfokus.de/artikel/goldener-herbst-porridge/ "Porridge") und im [grünen Tee Latte](https://kochfokus.de/artikel/der-perfekte-vegane-gruene-tee-latte/ "grünen Tee Latte") verwendet, aber noch nie in süßem Gebäck. Also war ich doch ein wenig in Sorge. Glücklicherweise sind die Muffins gelungen und haben den Geschmackstest bestanden, so dass sie auch den Weg auf meinen Blog gefunden haben.
+
+Wenn Du Kurkuma absolut nicht magst, kannst Du dieses Gewürz auch einfach weglassen. Der Teig ist dann ja trotzdem heller als der Teig mit dem Backkakao.
+
+Um etwas Zucker einzusparen, verwende ich beim Backen ungesüßten Backkakao. Die Muffins sind dennoch süß genug und man nimmt nicht unnötig viel Zucker zu sich.
 
 Wenn Du wissen möchtest, was Du beim Backen von Muffins beachten solltest, dann schau Dir gerne die Beschreibung dazu [hier](https://kochfokus.de/artikel/frischkaese-muffins-mit-himbeeren-und-zitrone/ "hier") an.
 
