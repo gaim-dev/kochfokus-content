@@ -217,7 +217,8 @@ Konnte ich Deine Neugier wecken?
 - Handrührgerät mit Rührbesenaufsatz
 - 3 {{< amazon_search title="Rührschüsseln" query="Rührschüsseln" >}}
 - {{< amazon title="Muffin Backform" asin="B004YIUJ46" >}}
-{{< amazon_search title="- 12 Papier Backformen für die Muffin Backform" query="Papierbackförmchen" >}}
+{{< amazon_search title="
+- 12 Papier Backformen für die Muffin Backform" query="Papierbackförmchen" >}}
 - {{< amazon title="Teigschaber" asin="B00WJPCUA2" >}}
 - {{< amazon_search title="Teelöffel" query="Teelöffel" >}}
 - {{< amazon_search title="Esslöffel" query="Esslöffel" >}}
