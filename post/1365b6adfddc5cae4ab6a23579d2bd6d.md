@@ -1,6 +1,6 @@
 {
     "slug": "exotische-kokos-schokoladen-muffins-mit-kurkuma",
-    "draft": true,
+    "draft": false,
     "date": "2018-04-05T13:25:00+00:00",
     "title": "Exotische Kokos Schokoladen Muffins mit Kurkuma",
     "description": null,
