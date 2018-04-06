@@ -200,6 +200,7 @@ Wenn Du wissen möchtest, was Du beim Backen von Muffins beachten solltest, dann
 
 Konnte ich Deine Neugier wecken?
 
+{{< photo filename="exotische-kokos-schokoladen-muffins-mit-kurkuma_5ac74d4656bad.jpg">}}
 
 ## Küchengeräte und -utensilien
 
