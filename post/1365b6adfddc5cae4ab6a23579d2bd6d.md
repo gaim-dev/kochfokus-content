@@ -152,7 +152,7 @@
                     },
                     {
                         "text": "Die Muffin Backform auf den mittleren Einschub in den vorgeheizten Backofen geben sowie den Kurzzeitmesser auf 20 Minuten stellen.",
-                        "photo": null
+                        "photo": "exotische-kokos-muffins-mit-schokolade-und-kurkuma_5ac7415f044cf.jpg"
                     },
                     {
                         "text": "Nach 20 Minuten mit dem Holzst\u00e4bchen pr\u00fcfen, ob die Muffins fertig sind und gegebenenfalls die Backzeit etwas verl\u00e4ngern.",
