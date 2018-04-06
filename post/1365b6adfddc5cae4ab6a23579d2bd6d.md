@@ -159,11 +159,11 @@
                         "photo": null
                     },
                     {
-                        "text": "Die Muffins aus dem Backofen holen und abk\u00fchlen lassen, bevor sie serviert werden.",
+                        "text": "Die Muffins aus dem Backofen holen und abk\u00fchlen lassen, bevor sie serviert werden. Wer mag, best\u00e4ubt sie noch mit etwas Puderzucker.",
                         "photo": null
                     },
                     {
-                        "text": "Guten Appetit!",
+                        "text": "Lass Dir die leckeren Muffins schmecken!",
                         "photo": "exotische-kokos-schokoladen-muffins-mit-kurkuma_5ac74b2fa4786.jpg"
                     }
                 ]
