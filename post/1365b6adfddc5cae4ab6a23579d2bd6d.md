@@ -164,7 +164,7 @@
                     },
                     {
                         "text": "Lass Dir die leckeren Muffins schmecken!",
-                        "photo": "exotische-kokos-schokoladen-muffins-mit-kurkuma_5ac74b2fa4786.jpg"
+                        "photo": "exotische-kokos-schokoladen-muffins-mit-kurkuma_5ac74f072dea8.jpg"
                     }
                 ]
             }
