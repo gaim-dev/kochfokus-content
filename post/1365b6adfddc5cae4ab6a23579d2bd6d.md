@@ -221,7 +221,7 @@ Konnte ich Deine Neugier wecken?
 - {{< amazon title="Teigschaber" asin="B00WJPCUA2" >}}
 - {{< amazon_search title="Teelöffel" query="Teelöffel" >}}
 - {{< amazon_search title="Esslöffel" query="Esslöffel" >}}
-- Eisportionierer
+- {{< amazon title="Eisportionierer" asin="B06WLGPNPL" >}}
 - Backrost
 - Backofen
 - {{< amazon title="Backhandschuhe" asin="B074LCTCF8" >}}
