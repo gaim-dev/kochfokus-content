@@ -88,6 +88,12 @@
                         "unit": "Stck.",
                         "name": "Mango",
                         "note": "tiefgefroren"
+                    },
+                    {
+                        "value": "N. B.",
+                        "unit": null,
+                        "name": "Puderzucker",
+                        "note": "zum Best\u00e4uben"
                     }
                 ]
             }
@@ -135,15 +141,42 @@
                     {
                         "text": "Den hellen wie auch den dunklen Teig jeweils nur so lange verr\u00fchrt werden, bis das Mehl nicht mehr zu sehen ist.",
                         "photo": null
+                    },
+                    {
+                        "text": "Den hellen Teig zuerst m\u00f6glichst gleichm\u00e4\u00dfig in die Papier Backformen verteilen und dann den dunklen Teig jeweils darauf geben.",
+                        "photo": null
+                    },
+                    {
+                        "text": "Nun jeweils ein Mangost\u00fcck als Topping darauf geben.",
+                        "photo": null
+                    },
+                    {
+                        "text": "Die Muffin Backform auf den mittleren Einschub in den vorgeheizten Backofen geben sowie den Kurzzeitmesser auf 20 Minuten stellen.",
+                        "photo": null
+                    },
+                    {
+                        "text": "Nach 20 Minuten mit dem Holzst\u00e4bchen pr\u00fcfen, ob die Muffins fertig sind und gegebenenfalls die Backzeit etwas verl\u00e4ngern.",
+                        "photo": null
+                    },
+                    {
+                        "text": "Die Muffins aus dem Backofen holen und abk\u00fchlen lassen, bevor sie serviert werden.",
+                        "photo": null
+                    },
+                    {
+                        "text": "Guten Appetit!",
+                        "photo": null
                     }
                 ]
             }
         ],
-        "notes": null
+        "notes": {
+            "text": "Beide Teige sind etwas z\u00e4her als man es sonst vom Muffinteig kennt. Das liegt daran, dass Kokosmehl Fl\u00fcssigkeit gut aufnimmt. Der Teig eignet sich so dennoch gut zum Backen von Muffins. Wenn er Dir zu fest ist, dann f\u00fcg einfach noch etwas Fl\u00fcssigkeit hinzu.",
+            "photo": null
+        }
     }
 }
 
-Heute verrate ich Dir mal etwas. Manchmal bin ich sehr skeptisch, ob ein Rezept mir gelingt oder nicht. Es ist jedes Mal ein Risiko, wenn man in der Küche experimentiert und etwas Eigenes kreieren will. Da ich mit Lebensmitteln grundsätzlich sorgsam umgehe, bin ich manchmal in Sorge, ob meine Ideen funktionieren. So ging es mir auch bei diesen zum Glück am Ende gelungenen Muffins.
+****Heute verrate ich Dir mal etwas. Manchmal bin ich sehr skeptisch, ob ein Rezept mir gelingt oder nicht. Es ist jedes Mal ein Risiko, wenn man in der Küche experimentiert und etwas Eigenes kreieren will. Da ich mit Lebensmitteln grundsätzlich sorgsam umgehe, bin ich manchmal in Sorge, ob meine Ideen funktionieren. So ging es mir auch bei diesen zum Glück am Ende gelungenen Muffins.
 
 
 ## Die Grundidee
