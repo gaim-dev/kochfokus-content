@@ -226,4 +226,6 @@ Konnte ich Deine Neugier wecken?
 
 Viel Freude beim Nachbacken!
 
+{{< photo filename="exotische-kokos-schokoladen-muffins-mit-kurkuma_5ac74e6e1a938.jpg">}}
+
 Welche Muffins magst du am liebsten?
