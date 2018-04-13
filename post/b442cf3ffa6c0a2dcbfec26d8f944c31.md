@@ -148,7 +148,7 @@
                     {
                         "value": "N. B.",
                         "unit": null,
-                        "name": "\u00d6l oder  Backtrennspray",
+                        "name": "\u00d6l oder Backtrennspray",
                         "note": "zum Einfetten der Brotbackform"
                     }
                 ]
@@ -163,7 +163,7 @@
                         "photo": null
                     },
                     {
-                        "text": "F\u00fcr das Quellst\u00fcck die Chia Samen, die Leinsamen und die zersto\u00dfenen Waln\u00fcsse in das Sch\u00e4lchen geben. Das Wasser hinzuf\u00fcgen , alles miteinander verr\u00fchren und abgedeckt mindestens eine Stunde lang quellen lassen. Tipp: Man kann dies auch am Vorabend machen und das Quellst\u00fcck \u00fcber Nacht quellen lassen.",
+                        "text": "F\u00fcr das Quellst\u00fcck die Chia Samen, die Leinsamen und die zersto\u00dfenen Walnusskerne in das Sch\u00e4lchen geben. Das Wasser hinzuf\u00fcgen, alles miteinander verr\u00fchren und abgedeckt mindestens eine Stunde lang quellen lassen. Tipp: Man kann dies auch am Vorabend machen und das Quellst\u00fcck \u00fcber Nacht quellen lassen.",
                         "photo": null
                     }
                 ]
@@ -197,7 +197,7 @@
                         "photo": null
                     },
                     {
-                        "text": "Die M\u00f6hre waschen, sch\u00e4len und raspeln. Ebenso die Zucchino waschen. Von ihr ein St\u00fcck (etwa 100 g) abschneiden, dieses halbieren und die Kerne mit Hilfe des Teel\u00f6ffels entfernen. Nun auch die Zucchino raspeln.",
+                        "text": "Die M\u00f6hre waschen, sch\u00e4len und raspeln. Ebenso die Zucchini waschen. Von ihr ein St\u00fcck (etwa 100 g) abschneiden, dieses halbieren und die Kerne mit Hilfe des Teel\u00f6ffels entfernen. Nun auch die Zucchini raspeln.",
                         "photo": null
                     },
                     {
@@ -209,7 +209,7 @@
                         "photo": null
                     },
                     {
-                        "text": "Nun die Sch\u00fcssel mit der Frischhaltefolie sowie dem trockenen K\u00fcchentuch gut abdecken und den Teig an einem warmen Ort gehen lassen.Tipp: Etwas Mehl auf den Boden der Sch\u00fcssel geben, bevor die Teigkugel hineingegeben wird.",
+                        "text": "Nun die Sch\u00fcssel mit der Frischhaltefolie sowie dem trockenen K\u00fcchentuch gut abdecken und den Teig an einem warmen Ort gehen lassen. Tipp: Etwas Mehl auf den Boden der Sch\u00fcssel geben, bevor die Teigkugel hineingegeben wird.",
                         "photo": null
                     },
                     {
