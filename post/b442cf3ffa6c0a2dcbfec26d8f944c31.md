@@ -273,8 +273,8 @@
         "einkornmehl"
     ],
     "Kategorien": [
-        "Rezepte ",
-        "Brot"
+        "Rezepte",
+        "Brote"
     ]
 }
 
