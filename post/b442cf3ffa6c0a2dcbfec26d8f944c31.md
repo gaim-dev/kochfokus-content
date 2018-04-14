@@ -316,7 +316,7 @@ Ich hoffe, Du hast Lust, dieses köstliche Brot nachzubacken.
 - {{< amazon title="Kastenbrotbackform" asin="B00MGTEPJA" >}}
 - Sprühflasche mit Wasser
 - scharfes {{< amazon title="Küchenmesser" asin="B0772WN76C" >}}
-- Backblech
+- Backofenrost
 - Backofen
 - Kurzzeitmesser
 - Topflappen oder {{< amazon title="Backhandschuhe" asin="B074LCTCF8" >}}
