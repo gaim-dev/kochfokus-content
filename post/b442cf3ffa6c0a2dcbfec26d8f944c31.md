@@ -221,11 +221,11 @@
                         "photo": "rezept-sehr-saftiges-gemuesebrot-mit-chia-samen_5aaf968c4f3e4.jpg"
                     },
                     {
-                        "text": "Wenn das Volumen des Teiges sich verdoppelt hat, wird er in die vorbereitete Backform gegeben.",
+                        "text": "Wenn das Volumen des Teiges sich verdoppelt hat, wird er direkt in die vorbereitete Backform gegeben, die H\u00e4nde leicht bemehlen, den Brotlaib etwas nachformen und mit den H\u00e4nden die Luft ein wenig aus dem Teig klopfen.",
                         "photo": null
                     },
                     {
-                        "text": "Den fertigen Brotteig direkt in die eingefettete Brotbackform geben, die H\u00e4nde leicht bemehlen, den Brotlaib etwas nachformen und mit den H\u00e4nden die Luft ein wenig aus dem Teig klopfen. Nun den Brotlaib mit Wasser bespr\u00fchen und mit einem scharfen Messer einschneiden.",
+                        "text": "Nun den Brotlaib mit Wasser bespr\u00fchen und mit einem scharfen Messer einschneiden.",
                         "photo": null
                     },
                     {
