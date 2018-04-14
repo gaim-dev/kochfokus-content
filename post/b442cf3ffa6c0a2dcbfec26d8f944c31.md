@@ -241,7 +241,7 @@
                         "photo": null
                     },
                     {
-                        "text": "Das Brot anschlie\u00dfend bei 180 Grad Ober- und Unterhitze weitere 35 bis 40 Minuten ausbacken.",
+                        "text": "Das Brot anschlie\u00dfend bei 180 Grad Ober- und Unterhitze weitere 40 bis 45 Minuten ausbacken.",
                         "photo": null
                     },
                     {
