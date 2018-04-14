@@ -205,7 +205,7 @@
                         "photo": "rezept-sehr-saftiges-gemuesebrot-mit-chia-samen_5aafa11d2177e.jpg"
                     },
                     {
-                        "text": "Den Teig zu einer Teigkugel formen.",
+                        "text": "Den Teig kneten und zu einer Teigkugel formen.",
                         "photo": null
                     },
                     {
