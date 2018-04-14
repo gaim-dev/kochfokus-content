@@ -218,11 +218,11 @@
                     },
                     {
                         "text": "Au\u00dferdem das Topping zubereiten. Daf\u00fcr das Raps\u00f6l in die Pfanne geben und hei\u00df werden lassen. Die Hitze reduzieren, die Gew\u00fcrze sowie die Waln\u00fcsse hingeben und alles durchziehen lassen.",
-                        "photo": null
+                        "photo": "rezept-sehr-saftiges-gemuesebrot-mit-chia-samen_5aaf968c4f3e4.jpg"
                     },
                     {
                         "text": "Wenn das Volumen des Teiges sich verdoppelt hat, wird er in die vorbereitete Backform gegeben.",
-                        "photo": "rezept-sehr-saftiges-gemuesebrot-mit-chia-samen_5aaf968c4f3e4.jpg"
+                        "photo": null
                     },
                     {
                         "text": "Den fertigen Brotteig direkt in die eingefettete Brotbackform geben, die H\u00e4nde leicht bemehlen, den Brotlaib etwas nachformen und mit den H\u00e4nden die Luft ein wenig aus dem Teig klopfen. Nun den Brotlaib mit Wasser bespr\u00fchen und mit einem scharfen Messer einschneiden.",
