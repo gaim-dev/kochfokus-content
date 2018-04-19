@@ -298,7 +298,7 @@
     }
 }
 
-Nach der Fastenzeit gönne ich mir ja jedes Jahr etwas ZUCKERSÜßES. Diesmal wurde das Fasten nicht mit einem [Osterbrot](https://kochfokus.de/artikel/suesses-no-knead-osterbrot/ "Osterbrot") gebrochen, sondern mit der süßen Versuchung schlechthin. Ich liebe ja Heidelbeeren fast über alles. Ich glaube, noch mehr liebe ich eigentlich nur meine 3 Männer, aber das ist natürlich etwas Anderes.
+Nach der Fastenzeit gönne ich mir ja jedes Jahr etwas ZUCKERSÜßES. Diesmal wurde das Fasten nicht mit einem [Osterbrot](https://kochfokus.de/artikel/suesses-no-knead-osterbrot/ "Osterbrot") gebrochen, sondern mit der süßen Versuchung schlechthin. Jetzt wird es aber höchste Zeit, dass ich diese tolle Versuchung endlich auf den Blog bringe. Ich liebe ja Heidelbeeren fast über alles. Ich glaube, noch mehr liebe ich eigentlich nur meine 3 Männer, aber das ist natürlich etwas Anderes.
 
 Ich weiß nicht, ob Du schon meinen [verführerischen Herzkuchen](https://kochfokus.de/artikel/verfuehrerischer-herzschneckenkuchen/ "verführerischen Herzkuchen") gesehen hast. Das war das letzte Rezept vor der Fastenzeit, in dem ich noch mit Zucker gearbeitet habe. Nun gibt es einen sehr ähnlichen Kuchen, aber nicht als Herz, sondern diesen bereite ich in einer Springform zu und er wird sich auch sonst noch ein klein wenig vom Herzkuchen unterscheiden, aber das siehst Du dann ja im Rezept.
 
