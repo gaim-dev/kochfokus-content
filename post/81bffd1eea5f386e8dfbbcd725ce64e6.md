@@ -1,7 +1,7 @@
 {
     "slug": "heidelbeer-schneckenkuchen-eine-su-e-ss-e-versuchung",
     "draft": true,
-    "date": "2018-03-30T19:23:00+00:00",
+    "date": "2018-05-06T15:23:00+00:00",
     "title": "Heidelbeer Schneckenkuchen - eine s\u00fc\u00dfe Versuchung",
     "description": null,
     "featuredImage": null,
@@ -288,13 +288,13 @@ Ich weiß nicht, ob Du schon meinen [verführerischen Herzkuchen](https://kochfo
 
 Der Hefeteig wird diesmal mit frischer Hefe zubereitet. Bitte verlass jetzt diese Seite nicht, denn Du brauchst Dir in Bezug auf die Zubereitung des Hefeteigs **keine Sorgen** zu machen. Ich habe zum einen **die wichtigsten Tipps zur Hefe** [hier](https://kochfokus.de/artikel/hefe/ "hier") für Dich zusammengefasst und außerdem führe ich **Dich Schritt für Schritt** durch dieses Rezept, versprochen! 😉
 
-Ich mache bei der Verwendung von frischer Hefe sonst immer einen sogenannten *Vorteig*. Diesmal möchte ich mal etwas Anderes versuchen. Ich werde  die frische Hefe einfach nur ansetzen, das heißt ich werde sie mit einer Prise Zucker und etwas in ein Gefäß geben und ihr Zeit geben etwas zu gehen oder anzusetzen. Sie bekommt also im Gegensatz zu sonst nicht schon etwas Mehl als Futter, sondern wird so angestzt wie ich es auch beim ober erwähnten Herzkuchen mit der Trockenhefe gemacht habe.
+Ich mache bei der Verwendung von frischer Hefe sonst immer einen sogenannten *Vorteig*. Diesmal möchte ich mal etwas Anderes versuchen. Ich werde  die frische Hefe einfach nur ansetzen, das heißt ich werde sie mit einer Prise Zucker und etwas in ein Gefäß geben und ihr Zeit geben etwas zu gehen oder anzusetzen. Sie bekommt also im Gegensatz zu sonst nicht schon etwas Mehl als Futter, sondern wird so angestzt wie ich es auch beim oben erwähnten Herzkuchen mit der Trockenhefe gemacht habe.
 
-Außerdem  verwende ich für den Teig Vanillearoma, das es fertig zu kaufen gibt. Du findest in der Regel im Supermarkt dort, wo es die Backzutaten und Backaromen gibt. Es it meist als 2er Pack zu erwerben. Du brauchst beide Päckchen à 5 g. Ich finde es gibt dem Teig ein feines Vanillearoma. Wenn Du dies nicht verwenden möchtest, kannst Du es natürlich einfach weglassen.
+Außerdem  verwende ich für den Teig Vanillearoma, das es fertig zu kaufen gibt. Du findest in der Regel im Supermarkt dort, wo es die Backzutaten und Backaromen gibt. Es ist meist als 2er Pack zu erwerben. Du brauchst jedoch nur ein Päckchen à 5 g. Ich finde, es gibt dem Teig ein feines Vanillearoma. Wenn Du dies nicht verwenden möchtest, kannst Du es natürlich einfach weglassen.
 
-Für die Füllung verwende ich etwas [Kokosmehl](https://kochfokus.de/artikel/ist-kokosmehl-wirklich-gesund/ "Kokosmehl") zum Andicken der Heidelbeeren. Das kannst Du durch Speisestärke ersetzen. Dabei musst Du aber gegebenenfalls etwas weniger Speisestärke verwenden, weil die anders bindet als Kokosmehl.
+Für die Füllung verwende ich Heidelbeeren aus dem Glas, also keine frischen, sondern eingekochte Früchte. Das hat den Vorteil, dass der Saft sowohl der Füllung als auch der Glasur eine schöne Farbe und ein schönes Aroma verleiht.
 
-Bist Du auch so gespannt auf den Kuchen wie ich? Dann sollten wir jetzt aber loslegen, denn ich freue mich schon riesig auf meinen Kuchen und natürlich auch auf das Fastenbrechen.
+Bist Du auch so gespannt auf den Kuchen wie ich? Dann sollten wir jetzt aber loslegen, denn ich freue mich schon riesig auf meinen Kuchen.
 
 Solltest Du irgendwelche Fragen zum Rezept oder zur Hefe haben, dann schreib mir gerne. Ich freue mich auf Deine Fragen, Anmerkungen oder Kommentare.
 
