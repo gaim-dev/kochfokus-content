@@ -146,6 +146,17 @@
                         "note": null
                     }
                 ]
+            },
+            {
+                "name": "Backform",
+                "contents": [
+                    {
+                        "value": "etwas",
+                        "unit": null,
+                        "name": "Fett oder Backtrennspray",
+                        "note": "zum Einfetten der Springbackform"
+                    }
+                ]
             }
         ],
         "steps": [
@@ -182,7 +193,7 @@
                         "photo": null
                     },
                     {
-                        "text": "Au\u00dferdem 150 ml lauwarme Milch, die Butter, das Ei sowie den das Vanillearoma hinzuf\u00fcgen und alles verkneten.",
+                        "text": "Au\u00dferdem 100 ml lauwarme Milch, die Butter, das Ei sowie den das Vanillearoma hinzuf\u00fcgen und alles verkneten.",
                         "photo": null
                     },
                     {
@@ -214,15 +225,15 @@
                         "photo": null
                     },
                     {
-                        "text": "Zuerst die Frischk\u00e4semischung auf das Rechteck streichen.",
+                        "text": "Zuerst die Frischk\u00e4semischung so auf das Rechteck streichen, dass an den Seiten ein freier Rand bleibt.",
                         "photo": null
                     },
                     {
-                        "text": "Danach die abgetropftenHeidelbeeren \u00fcber das Rechteck verteilen. Tipp: Einen kleinen Streifen an den R\u00e4ndern jeweils freilassen.",
+                        "text": "Danach die abgetropften Heidelbeeren \u00fcber das Rechteck verteilen. Tipp: Einen kleinen Streifen an den R\u00e4ndern jeweils freilassen.",
                         "photo": null
                     },
                     {
-                        "text": "Danach den Teig von der L\u00e4ngsseite locker aufrollen.",
+                        "text": "Danach den Teig von der L\u00e4ngsseite locker aufrollen. Tipp: Siehe dazu auch die Fotos zum verf\u00fchrerischen Herzschneckenkuchen.",
                         "photo": null
                     },
                     {
@@ -255,11 +266,7 @@
                 "name": "Arbeitsschritte F\u00fcllung",
                 "contents": [
                     {
-                        "text": "Dann einen Essl\u00f6ffel Kokosmehl hinzuf\u00fcgen und alles die Fruchtsauce anbinden. Beiseite stellen und etwas ausk\u00fchlen lassen.",
-                        "photo": null
-                    },
-                    {
-                        "text": "Den Frischk\u00e4se, den Heidelbeersaft sowie den Vanillezucker in eine Sch\u00fcssel geben und miteinander verr\u00fchren.",
+                        "text": "F\u00fcr die F\u00fcllung den Frischk\u00e4se, den Heidelbeersaft sowie den Vanillezucker in eine Sch\u00fcssel geben und miteinander verr\u00fchren.",
                         "photo": null
                     }
                 ]
@@ -310,9 +317,7 @@ Solltest Du irgendwelche Fragen zum Rezept oder zur Hefe haben, dann schreib mir
 - Teigroller
 - Frischhaltefolie
 - Geschirrtuch
-- Kochtopf
-- Kochlöffel
-- 4 kleine Schüsseln
+- 3 kleine Schüsseln
 - Sieb
 - Backofenrost
 - Springbackform ø 26 cm
