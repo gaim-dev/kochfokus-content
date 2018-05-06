@@ -82,39 +82,21 @@
                 "name": "F\u00fcllung",
                 "contents": [
                     {
-                        "value": "2",
-                        "unit": "TL",
-                        "name": "Zitronensaft",
-                        "note": null
-                    },
-                    {
                         "value": "1",
                         "unit": "Glas",
                         "name": "Heidelbeeren",
-                        "note": "Abtropfgewicht"
-                    },
-                    {
-                        "value": "100",
-                        "unit": "ml",
-                        "name": "Heidelbeersaft",
-                        "note": null
+                        "note": "Abtropfgewicht 205 g"
                     },
                     {
                         "value": "1",
                         "unit": "EL",
-                        "name": "Kokosmehl",
-                        "note": null
+                        "name": "Heidelbeersaft",
+                        "note": "aus dem Heidelbeerglas"
                     },
                     {
                         "value": "200",
                         "unit": "g",
-                        "name": "Schmand",
-                        "note": null
-                    },
-                    {
-                        "value": "5",
-                        "unit": "g",
-                        "name": "Vanillearoma",
+                        "name": "Frischk\u00e4se",
                         "note": null
                     },
                     {
@@ -138,7 +120,7 @@
                         "value": "1",
                         "unit": "EL",
                         "name": "Heidelbeersaft",
-                        "note": null
+                        "note": "aus dem Heidelbeerglas"
                     },
                     {
                         "value": "50",
