@@ -91,7 +91,7 @@
                         "value": "3",
                         "unit": "EL",
                         "name": "Heidelbeersaft",
-                        "note": "aus dem Heidelbeerglas"
+                        "note": null
                     },
                     {
                         "value": "200",
@@ -120,7 +120,7 @@
                         "value": "1",
                         "unit": "EL",
                         "name": "Heidelbeersaft",
-                        "note": "aus dem Heidelbeerglas"
+                        "note": null
                     },
                     {
                         "value": "50",
@@ -134,9 +134,15 @@
                 "name": "Topping",
                 "contents": [
                     {
-                        "value": "N.B.",
+                        "value": "N. B.",
                         "unit": null,
                         "name": "Mandelbl\u00e4ttchen",
+                        "note": null
+                    },
+                    {
+                        "value": "N. B.",
+                        "unit": null,
+                        "name": "Pistazien",
                         "note": null
                     }
                 ]
@@ -266,7 +272,7 @@
                         "photo": null
                     },
                     {
-                        "text": "Danach den Kuchen mit dem Guss besprenkeln und die Mandelbl\u00e4ttchen dar\u00fcber streuen.",
+                        "text": "Danach den Kuchen mit dem Guss besprenkeln und die Pistazien sowie die Mandelbl\u00e4ttchen dar\u00fcber streuen.",
                         "photo": null
                     }
                 ]
