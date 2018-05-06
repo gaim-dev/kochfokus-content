@@ -85,10 +85,10 @@
                         "value": "1",
                         "unit": "Glas",
                         "name": "Heidelbeeren",
-                        "note": "Abtropfgewicht 205 g"
+                        "note": "Abtropfgewicht 205 g, davon"
                     },
                     {
-                        "value": "1",
+                        "value": "3",
                         "unit": "EL",
                         "name": "Heidelbeersaft",
                         "note": "aus dem Heidelbeerglas"
@@ -100,7 +100,7 @@
                         "note": null
                     },
                     {
-                        "value": "1",
+                        "value": "2",
                         "unit": "EL",
                         "name": "Vanillezucker",
                         "note": null
@@ -204,15 +204,15 @@
                         "photo": null
                     },
                     {
-                        "text": "Die Teigkugel zu einem Rechteck ausrollen. Mein Rechteck war 20 x 35, 5 cm gro\u00df.????",
+                        "text": "Die Teigkugel zu einem Rechteck ausrollen. Mein Rechteck war 24 x 39, 5 cm gro\u00df.",
                         "photo": null
                     },
                     {
-                        "text": "Zuerst die Schmandmischung auf das Rechteck streichen.",
+                        "text": "Zuerst die Frischk\u00e4semischung auf das Rechteck streichen.",
                         "photo": null
                     },
                     {
-                        "text": "Danach die Heidelbeersauce noch einmal durchr\u00fchren und \u00fcber das Rechteck verteilen. Tipp: Einen kleinen Streifen an den R\u00e4ndern jeweils freilassen.",
+                        "text": "Danach die abgetropftenHeidelbeeren \u00fcber das Rechteck verteilen. Tipp: Einen kleinen Streifen an den R\u00e4ndern jeweils freilassen.",
                         "photo": null
                     },
                     {
@@ -220,28 +220,11 @@
                         "photo": null
                     },
                     {
-                        "text": "Mit dem Messer die Rolle in m\u00f6glichst gleich gro\u00dfe Schnecken teilen. Tipp: Mit dem Messer schon vorab die Abst\u00e4nde markieren, damit es gleich gro\u00dfe St\u00fccke werden.",
+                        "text": "Mit dem Messer die Rolle in m\u00f6glichst gleich gro\u00dfe Rosen teilen. Tipp: Mit dem Messer schon vorab die Abst\u00e4nde markieren, damit es gleich gro\u00dfe St\u00fccke werden.",
                         "photo": null
                     },
                     {
-                        "text": "Die Schnecken mit der Schnitteseite nach oben und leichtem Abstand zu einander in die Springbackform legen. Tipp: Das ist eine klebrige Angelegenheit, die leichter zu bew\u00e4ltigen ist, wenn man die Teigschnecken mit Hilfe einer Teigkarte in die Backform legt.",
-                        "photo": null
-                    }
-                ]
-            },
-            {
-                "name": "Arbeitsschritte F\u00fcllung",
-                "contents": [
-                    {
-                        "text": "Die abgetropften Heidelbeeren mit 100 ml Heidelbeersaft in den Kochtopf geben und kurz erhitzen.",
-                        "photo": null
-                    },
-                    {
-                        "text": "Dann einen Essl\u00f6ffel Kokosmehl hinzuf\u00fcgen und alles die Fruchtsauce anbinden. Beiseite stellen und etwas ausk\u00fchlen lassen.",
-                        "photo": null
-                    },
-                    {
-                        "text": "Den Schmand, den Vanillezucker sowie das Vanillearoma in eine Sch\u00fcssel geben und miteinander verr\u00fchren.",
+                        "text": "Die Rosen mit der Schnitteseite nach oben und leichtem Abstand zu einander in die Springbackform legen. Tipp: Das ist eine klebrige Angelegenheit, die leichter zu bew\u00e4ltigen ist, wenn man die Teigrosen mit Hilfe einer Teigkarte in die Backform legt.",
                         "photo": null
                     },
                     {
@@ -258,6 +241,19 @@
                     },
                     {
                         "text": "Den fertig gebackenen Kuchen dann aus dem Backofen nehmen, auf ein Kuchengitter geben und etwas ausk\u00fchlen lassen und in der Zwischenzeit die Glasur zubereiten.",
+                        "photo": null
+                    }
+                ]
+            },
+            {
+                "name": "Arbeitsschritte F\u00fcllung",
+                "contents": [
+                    {
+                        "text": "Dann einen Essl\u00f6ffel Kokosmehl hinzuf\u00fcgen und alles die Fruchtsauce anbinden. Beiseite stellen und etwas ausk\u00fchlen lassen.",
+                        "photo": null
+                    },
+                    {
+                        "text": "Den Frischk\u00e4se, den Heidelbeersaft sowie den Vanillezucker in eine Sch\u00fcssel geben und miteinander verr\u00fchren.",
                         "photo": null
                     }
                 ]
