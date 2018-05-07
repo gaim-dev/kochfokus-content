@@ -4,7 +4,7 @@
     "date": "2018-05-06T15:23:00+00:00",
     "title": "Heidelbeer Rosenkuchen - eine s\u00fc\u00dfe Versuchung",
     "description": "Der Heidelbeer Rosenkuchen ist nicht nur die s\u00fc\u00dfe Versuchung schlechthin, sondern er ist auch das optische Highlight einer jeden Kaffeetafel.",
-    "featuredImage": null,
+    "featuredImage": "heidelbeer-rosenkuchen---eine-suesse-versuchung_5aeff8c3465ac.jpg",
     "author": "Gabi",
     "recipe": {
         "ingredients": [
@@ -312,6 +312,9 @@ Außerdem  verwende ich für den Teig Vanillearoma, das es fertig zu kaufen gibt
 Für die Füllung verwende ich Heidelbeeren aus dem Glas, also keine frischen, sondern eingekochte Früchte. Das hat den Vorteil, dass der Saft sowohl der Füllung als auch der Glasur eine schöne Farbe und ein schönes Aroma verleiht.
 
 Bist Du auch so gespannt auf den Kuchen wie ich? Dann sollten wir jetzt aber loslegen, denn ich freue mich schon riesig auf meinen Kuchen.
+
+{{< photo filename="heidelbeer-rosenkuchen---eine-suesse-versuchung_5aeff90de6792.jpg" >}}
+
 
 Solltest Du irgendwelche Fragen zum Rezept oder zur Hefe haben, dann schreib mir gerne. Ich freue mich auf Deine Fragen, Anmerkungen oder Kommentare.
 
