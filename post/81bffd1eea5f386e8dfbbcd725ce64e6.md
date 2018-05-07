@@ -267,6 +267,10 @@
                     {
                         "text": "Schlie\u00dflich die Pistazien dar\u00fcber streuen.",
                         "photo": null
+                    },
+                    {
+                        "text": "Guten Appetit!",
+                        "photo": "heidelbeer-rosenkuchen---eine-suesse-versuchung_5aefe1f64c99e.jpg"
                     }
                 ]
             },
