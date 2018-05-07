@@ -218,7 +218,7 @@
                     },
                     {
                         "text": "Jetzt den Teigroller sowie die Teigkugel etwas bemehlen.",
-                        "photo": null
+                        "photo": "heidelbeer-rosenkuchen---eine-suesse-versuchung_5aefe2ad340d6.jpg"
                     },
                     {
                         "text": "Die Teigkugel zu einem Rechteck ausrollen. Mein Rechteck war 24 x 39, 5 cm gro\u00df.",
