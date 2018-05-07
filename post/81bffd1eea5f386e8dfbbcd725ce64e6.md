@@ -294,7 +294,25 @@
             }
         ],
         "notes": null
-    }
+    },
+    "Tags": [
+        "rosenkuchen",
+        "kuchen",
+        "schneckenkuchen",
+        "hefeteig",
+        "hefekuchen",
+        "heidelbeeren",
+        "pistazien",
+        "geb\u00e4ck",
+        "s\u00fc\u00dfes geb\u00e4ck",
+        "backen",
+        " muttertag"
+    ],
+    "Kategorien": [
+        "Rezepte",
+        "Geb\u00e4ck",
+        "s\u00fc\u00dfes Geb\u00e4ck"
+    ]
 }
 
 Nach der Fastenzeit gönne ich mir ja jedes Jahr etwas ZUCKERSÜßES. Diesmal wurde das Fasten nicht mit einem [Osterbrot](https://kochfokus.de/artikel/suesses-no-knead-osterbrot/ "Osterbrot") gebrochen, sondern mit der süßen Versuchung schlechthin. Jetzt wird es aber höchste Zeit, dass ich diese tolle Versuchung endlich auf den Blog bringe. Ich liebe ja Heidelbeeren fast über alles. Ich glaube, noch mehr liebe ich eigentlich nur meine 3 Männer, aber das ist natürlich etwas Anderes.
