@@ -340,3 +340,5 @@ Solltest Du irgendwelche Fragen zum Rezept oder zur Hefe haben, dann schreib mir
 - Kuchengitter
 
 Viel Spaß beim Nachbacken!
+
+{{< photo filename="heidelbeer-rosenkuchen---eine-suesse-versuchung_5aeff94de4c67.jpg">}}
