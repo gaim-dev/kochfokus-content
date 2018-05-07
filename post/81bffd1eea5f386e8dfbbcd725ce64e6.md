@@ -339,20 +339,20 @@ Solltest Du irgendwelche Fragen zum Rezept oder zur Hefe haben, dann schreib mir
 - {{< amazon title="Küchenwaage" asin="B00DZPM41U" >}}
 - {{< amazon title="Messbecher" asin="B004NSL61M" >}}
 - {{< amazon title="Küchenmaschine mit Knetaufsatz" asin="B0148AE760" >}} oder {{< amazon title="Handmixgerät" asin="B000IYGH28" >}} mit Knethaken und Schüssel
-- Küchenmesser
-- Teelöffel
-- Esslöffel
+- {{< amazon title="Küchenmesser" asin="B0772WN76C" >}}
+- {{< amazon_search title="Teelöffel" query="Teelöffel" >}}
+- {{< amazon_search title="Esslöffel" query="Esslöffel" >}}
 - {{< amazon title="Teigroller" asin="B000UVLLES" >}}
 - Frischhaltefolie
 - Geschirrtuch
 - 3 kleine Schüsseln
 - Sieb
 - Backofenrost
-- Springbackform ø 26 cm
+- {{< amazon title="Springbackform" asin="B004YIUMNE" >}} ø 26 cm
 - Backofen
 - Teigkarte
 - Kurzzeitmesser
-- Topflappen oder Backhandschuhe
+- Topflappen oder {{< amazon title="Backhandschuhe" asin="B074LCTCF8" >}}
 - {{< amazon title="Glasurpalette" asin="B077XHPN8S" >}}
 - {{< amazon title="Kuchengitter" asin="B003KOB8FE" >}}
 
