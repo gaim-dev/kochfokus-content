@@ -241,8 +241,8 @@
                         "photo": "heidelbeer-rosenkuchen---eine-suesse-versuchung_5aeff525ec6f4.jpg"
                     },
                     {
-                        "text": "Die Rosen mit der Schnitteseite nach oben und leichtem Abstand zu einander in die Springbackform legen. Tipp: Das ist eine klebrige Angelegenheit, die leichter zu bew\u00e4ltigen ist, wenn man die Teigrosen mit Hilfe einer Teigkarte in die Backform legt.",
-                        "photo": null
+                        "text": "Die Rosen mit der Schnitteseite nach oben und leichtem Abstand zu einander in die eingefettete Springbackform legen. Tipp: Das ist eine klebrige Angelegenheit, die leichter zu bew\u00e4ltigen ist, wenn man die Teigrosen mit Hilfe einer Teigkarte in die Backform legt.",
+                        "photo": "heidelbeer-rosenkuchen---eine-suesse-versuchung_5aeff5c8812fc.jpg"
                     },
                     {
                         "text": "Die Springbackform dann nochmals mit der Frischhaltefolie abdecken und an einem warmen Ort 30 Minuten gehen lassen. Tipp: Die Frischhaltefolie nun entweder mit Backtrennspray bespr\u00fchen oder aber etwas mit \u00d6l einpinseln, damit die Teigschnecken nicht daran haften bleiben.",
@@ -258,15 +258,15 @@
                     },
                     {
                         "text": "Den fertig gebackenen Kuchen dann aus dem Backofen nehmen, auf ein Kuchengitter geben und etwas ausk\u00fchlen lassen und in der Zwischenzeit die Glasur zubereiten. (Siehe dazu Arbeitsschritte Glasur.)",
-                        "photo": null
+                        "photo": "heidelbeer-rosenkuchen---eine-suesse-versuchung_5aeff65f2dd28.jpg"
                     },
                     {
                         "text": "Den Kuchen mit dem Guss besprenkeln.",
-                        "photo": null
+                        "photo": "heidelbeer-rosenkuchen---eine-suesse-versuchung_5aeff6b3aeeb7.jpg"
                     },
                     {
                         "text": "Schlie\u00dflich die Pistazien dar\u00fcber streuen.",
-                        "photo": null
+                        "photo": "heidelbeer-rosenkuchen---eine-suesse-versuchung_5aeff6fb0a0ce.jpg"
                     },
                     {
                         "text": "Guten Appetit!",
