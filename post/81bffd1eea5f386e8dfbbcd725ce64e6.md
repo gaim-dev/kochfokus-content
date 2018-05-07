@@ -257,7 +257,15 @@
                         "photo": null
                     },
                     {
-                        "text": "Den fertig gebackenen Kuchen dann aus dem Backofen nehmen, auf ein Kuchengitter geben und etwas ausk\u00fchlen lassen und in der Zwischenzeit die Glasur zubereiten.",
+                        "text": "Den fertig gebackenen Kuchen dann aus dem Backofen nehmen, auf ein Kuchengitter geben und etwas ausk\u00fchlen lassen und in der Zwischenzeit die Glasur zubereiten. (Siehe dazu Arbeitsschritte Glasur.)",
+                        "photo": null
+                    },
+                    {
+                        "text": "Den Kuchen mit dem Guss besprenkeln.",
+                        "photo": null
+                    },
+                    {
+                        "text": "Schlie\u00dflich die Pistazien dar\u00fcber streuen.",
                         "photo": null
                     }
                 ]
@@ -276,10 +284,6 @@
                 "contents": [
                     {
                         "text": "F\u00fcr die Glasur den Schmand sowie den Puderzucker, in die kleine Sch\u00fcssel geben, den Saft hinzuf\u00fcgen und alles mit der Gabel gut verr\u00fchren.",
-                        "photo": null
-                    },
-                    {
-                        "text": "Danach den Kuchen mit dem Guss besprenkeln und die Pistazien sowie die Mandelbl\u00e4ttchen dar\u00fcber streuen.",
                         "photo": null
                     }
                 ]
