@@ -226,11 +226,11 @@
                     },
                     {
                         "text": "Zuerst die Frischk\u00e4semischung so auf das Rechteck streichen, dass an den Seiten ein freier Rand bleibt.",
-                        "photo": null
+                        "photo": "heidelbeer-rosenkuchen---eine-suesse-versuchung_5aeff45459486.jpg"
                     },
                     {
                         "text": "Danach die abgetropften Heidelbeeren \u00fcber das Rechteck verteilen. Tipp: Einen kleinen Streifen an den R\u00e4ndern jeweils freilassen.",
-                        "photo": null
+                        "photo": "heidelbeer-rosenkuchen---eine-suesse-versuchung_5aeff488749a2.jpg"
                     },
                     {
                         "text": "Danach den Teig von der L\u00e4ngsseite locker aufrollen. Tipp: Siehe dazu auch die Fotos zum verf\u00fchrerischen Herzschneckenkuchen.",
