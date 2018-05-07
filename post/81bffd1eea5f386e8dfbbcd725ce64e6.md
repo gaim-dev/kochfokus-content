@@ -234,11 +234,11 @@
                     },
                     {
                         "text": "Danach den Teig von der L\u00e4ngsseite locker aufrollen. Tipp: Siehe dazu auch die Fotos zum verf\u00fchrerischen Herzschneckenkuchen.",
-                        "photo": null
+                        "photo": "heidelbeer-rosenkuchen---eine-suesse-versuchung_5aeff4f064ba8.jpg"
                     },
                     {
                         "text": "Mit dem Messer die Rolle in m\u00f6glichst gleich gro\u00dfe Rosen teilen. Tipp: Mit dem Messer schon vorab die Abst\u00e4nde markieren, damit es gleich gro\u00dfe St\u00fccke werden.",
-                        "photo": null
+                        "photo": "heidelbeer-rosenkuchen---eine-suesse-versuchung_5aeff525ec6f4.jpg"
                     },
                     {
                         "text": "Die Rosen mit der Schnitteseite nach oben und leichtem Abstand zu einander in die Springbackform legen. Tipp: Das ist eine klebrige Angelegenheit, die leichter zu bew\u00e4ltigen ist, wenn man die Teigrosen mit Hilfe einer Teigkarte in die Backform legt.",
