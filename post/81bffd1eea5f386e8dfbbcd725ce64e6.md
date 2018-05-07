@@ -336,13 +336,13 @@ Bist Du auch so gespannt auf den Kuchen wie ich? Dann sollten wir jetzt aber los
 Solltest Du irgendwelche Fragen zum Rezept oder zur Hefe haben, dann schreib mir gerne. Ich freue mich auf Deine Fragen, Anmerkungen oder Kommentare.
 
 ## Küchengeräte und -utensilien
-- Küchenwaage
-- Messbecher
-- Küchenmaschine mit Knetaufsatz oder Handmixgerät mit Knethaken und Schüssel
+- {{< amazon title="Küchenwaage" asin="B00DZPM41U" >}}
+- {{< amazon title="Messbecher" asin="B004NSL61M" >}}
+- {{< amazon title="Küchenmaschine mit Knetaufsatz" asin="B0148AE760" >}} oder {{< amazon title="Handmixgerät" asin="B000IYGH28" >}} mit Knethaken und Schüssel
 - Küchenmesser
 - Teelöffel
 - Esslöffel
-- Teigroller
+- {{< amazon title="Teigroller" asin="B000UVLLES" >}}
 - Frischhaltefolie
 - Geschirrtuch
 - 3 kleine Schüsseln
@@ -353,8 +353,8 @@ Solltest Du irgendwelche Fragen zum Rezept oder zur Hefe haben, dann schreib mir
 - Teigkarte
 - Kurzzeitmesser
 - Topflappen oder Backhandschuhe
-- Glasurpalette
-- Kuchengitter
+- {{< amazon title="Glasurpalette" asin="B077XHPN8S" >}}
+- {{< amazon title="Kuchengitter" asin="B003KOB8FE" >}}
 
 Viel Spaß beim Nachbacken!
 {{< photo filename="heidelbeer-rosenkuchen---eine-suesse-versuchung_5af0053551da5.jpg" >}}
