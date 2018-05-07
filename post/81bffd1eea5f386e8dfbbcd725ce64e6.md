@@ -136,12 +136,6 @@
                     {
                         "value": "N. B.",
                         "unit": null,
-                        "name": "Mandelbl\u00e4ttchen",
-                        "note": null
-                    },
-                    {
-                        "value": "N. B.",
-                        "unit": null,
                         "name": "Pistazien",
                         "note": null
                     }
@@ -168,7 +162,7 @@
                         "photo": null
                     },
                     {
-                        "text": "Die Die Springbackform mit \u00d6l einfetten oder aber mit Backtrennspray einspr\u00fchen.",
+                        "text": "Die Springbackform mit \u00d6l einfetten oder aber mit Backtrennspray einspr\u00fchen.",
                         "photo": null
                     },
                     {
@@ -205,7 +199,7 @@
                         "photo": null
                     },
                     {
-                        "text": "Jetzt die F\u00fcllung (s. dazu Arbeitsschritte F\u00fcllung) zubereiten.",
+                        "text": "Jetzt die F\u00fcllung zubereiten. Siehe dazu weiter unten die Arbeitsschritte F\u00fcllung.",
                         "photo": null
                     },
                     {
@@ -253,15 +247,15 @@
                         "photo": null
                     },
                     {
-                        "text": "Die Springbackform auf den mittleren Einschub des Backofens geben und den Herzschneckenkuchen 25 Minuten backen. Tipp: Je nach Backofen kann die Backzeit l\u00e4nger oder aber auch k\u00fcrzer sein.",
+                        "text": "Die Springbackform auf den mittleren Einschub des Backofens geben und den Herzschneckenkuchen 30 - 35 Minuten backen. Tipp: Je nach Backofen kann die Backzeit l\u00e4nger oder aber auch k\u00fcrzer sein.",
                         "photo": null
                     },
                     {
-                        "text": "Den fertig gebackenen Kuchen dann aus dem Backofen nehmen, auf ein Kuchengitter geben und etwas ausk\u00fchlen lassen und in der Zwischenzeit die Glasur zubereiten. (Siehe dazu Arbeitsschritte Glasur.)",
+                        "text": "Den fertig gebackenen Kuchen dann aus dem Backofen nehmen, auf ein Kuchengitter geben und etwas ausk\u00fchlen lassen und in der Zwischenzeit die Glasur zubereiten. Siehe dazu Arbeitsschritte Glasur.",
                         "photo": "heidelbeer-rosenkuchen---eine-suesse-versuchung_5aeff65f2dd28.jpg"
                     },
                     {
-                        "text": "Den Kuchen mit dem Guss besprenkeln.",
+                        "text": "Den Kuchen mit der Glasur besprenkeln.",
                         "photo": "heidelbeer-rosenkuchen---eine-suesse-versuchung_5aeff6b3aeeb7.jpg"
                     },
                     {
@@ -284,7 +278,7 @@
                 ]
             },
             {
-                "name": "Glasur",
+                "name": "Arbeitsschritte Glasur",
                 "contents": [
                     {
                         "text": "F\u00fcr die Glasur den Schmand sowie den Puderzucker, in die kleine Sch\u00fcssel geben, den Saft hinzuf\u00fcgen und alles mit der Gabel gut verr\u00fchren.",
@@ -315,7 +309,7 @@
     ]
 }
 
-Nach der Fastenzeit gönne ich mir ja jedes Jahr etwas ZUCKERSÜßES. Diesmal wurde das Fasten nicht mit einem [Osterbrot](https://kochfokus.de/artikel/suesses-no-knead-osterbrot/ "Osterbrot") gebrochen, sondern mit der süßen Versuchung schlechthin. Jetzt wird es aber höchste Zeit, dass ich diese tolle Versuchung endlich auf den Blog bringe. Ich liebe ja Heidelbeeren fast über alles. Ich glaube, noch mehr liebe ich eigentlich nur meine 3 Männer, aber das ist natürlich etwas Anderes.
+Nach der Fastenzeit gönne ich mir jedes Jahr etwas ZUCKERSÜßES. Diesmal wurde das Fasten nicht mit einem [Osterbrot](https://kochfokus.de/artikel/suesses-no-knead-osterbrot/ "Osterbrot") gebrochen, sondern mit der süßen Versuchung schlechthin. Jetzt wird es aber höchste Zeit, dass ich diese tolle Versuchung endlich auf den Blog bringe. Ich liebe ja Heidelbeeren fast über alles. Ich glaube, noch mehr liebe ich eigentlich nur meine 3 Männer, aber das ist natürlich etwas Anderes.
 
 Ich weiß nicht, ob Du schon meinen [verführerischen Herzkuchen](https://kochfokus.de/artikel/verfuehrerischer-herzschneckenkuchen/ "verführerischen Herzkuchen") gesehen hast. Das war das letzte Rezept vor der Fastenzeit, in dem ich noch mit Zucker gearbeitet habe. Nun gibt es einen sehr ähnlichen Kuchen, aber nicht als Herz, sondern diesen bereite ich in einer Springform zu und er wird sich auch sonst noch ein klein wenig vom Herzkuchen unterscheiden. Inwiefern verrate ich Dir nun in den Vorbemerkungen.
 
