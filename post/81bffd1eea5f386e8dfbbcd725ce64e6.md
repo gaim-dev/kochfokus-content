@@ -313,8 +313,7 @@ Für die Füllung verwende ich Heidelbeeren aus dem Glas, also keine frischen, s
 
 Bist Du auch so gespannt auf den Kuchen wie ich? Dann sollten wir jetzt aber loslegen, denn ich freue mich schon riesig auf meinen Kuchen.
 
-{{< photo filename="heidelbeer-rosenkuchen---eine-suesse-versuchung_5aeff90de6792.jpg" >}}
-
+{{< photo filename="heidelbeer-rosenkuchen---eine-suesse-versuchung_5af003493d9d5.jpg" caption >}}
 
 Solltest Du irgendwelche Fragen zum Rezept oder zur Hefe haben, dann schreib mir gerne. Ich freue mich auf Deine Fragen, Anmerkungen oder Kommentare.
 
