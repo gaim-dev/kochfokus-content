@@ -1,6 +1,6 @@
 {
     "slug": "heidelbeer-rosenkuchen-eine-su-e-ss-e-versuchung",
-    "draft": true,
+    "draft": false,
     "date": "2018-05-06T15:23:00+00:00",
     "title": "Heidelbeer Rosenkuchen - eine s\u00fc\u00dfe Versuchung",
     "description": "Der Heidelbeer Rosenkuchen ist nicht nur die s\u00fc\u00dfe Versuchung schlechthin, sondern er ist auch das optische Highlight einer jeden Kaffeetafel.",
