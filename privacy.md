@@ -123,7 +123,7 @@ Wenn Du auf einen solchen Link klickst, erfährt Amazon, dass Du von unserer Web
 ## Deine Rechte
 
 Die DSGVO gewährt Dir umfassende Rechte im Bezug auf den Datenschutz. Wir sind stark überzeugt davon, dass das Recht auf Datenschutz ein Grundrecht ist und stehen daher voll hinter diesen Rechten. Du kannst sie uns gegenüber jederzeit formlos unter den im Abschnitt „Verantwortlicher“ angegebenen Kontaktdaten geltend machen.  
-Gerne kannst Du auch einen Generator wie den von [Datenanfragen.de](www.datenanfragen.de) verwenden, der Dir das Schreiben von Anfragen abnimmt.
+Gerne kannst Du auch einen Generator wie den von [Datenanfragen.de](https://www.datenanfragen.de) verwenden, der Dir das Schreiben von Anfragen abnimmt.
 
 ### Recht auf Auskunft
 
