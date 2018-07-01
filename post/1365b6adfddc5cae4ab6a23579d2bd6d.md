@@ -111,7 +111,7 @@
                         "photo": null
                     },
                     {
-                        "text": "Zuerst das Dinkelmehl, das Kokosmehl, das Backpulver, das Natron und und die Prise Salz in eine R\u00fchrsch\u00fcssel geben und miteinander vermengen.",
+                        "text": "Zuerst das Dinkelmehl, das Kokosmehl, das Backpulver, das Natron und die Prise Salz in eine R\u00fchrsch\u00fcssel geben und miteinander vermengen.",
                         "photo": null
                     },
                     {
