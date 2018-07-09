@@ -10,44 +10,50 @@
         "ingredients": [
             {
                 "name": null,
-                "contents": {
-                    "0": {
+                "contents": [
+                    {
                         "value": "1",
                         "unit": "EL",
                         "name": "Cashewkerne",
                         "note": null
                     },
-                    "1": {
+                    {
                         "value": "2",
                         "unit": "TL",
                         "name": "Honig",
-                        "note": null
+                        "note": "fl\u00fcssig"
                     },
-                    "2": {
+                    {
                         "value": "2",
                         "unit": "EL",
                         "name": "Haferflocken",
                         "note": "kernig"
                     },
-                    "4": {
+                    {
                         "value": "100",
                         "unit": "g",
                         "name": "Banane",
                         "note": "tiefgefroren"
                     },
-                    "5": {
-                        "value": "1",
-                        "unit": "EL",
-                        "name": null,
-                        "note": null
+                    {
+                        "value": "100",
+                        "unit": "g",
+                        "name": "Sauerkirschen",
+                        "note": "frisch"
                     },
-                    "6": {
+                    {
                         "value": "1",
                         "unit": "EL",
                         "name": "Naturjoghurt",
                         "note": null
+                    },
+                    {
+                        "value": "N.B.",
+                        "unit": null,
+                        "name": "Kakaonibs",
+                        "note": null
                     }
-                }
+                ]
             }
         ],
         "steps": [],
