@@ -61,3 +61,4 @@
     }
 }
 
+Bist du ein Fan von körnigem Käse? Mal ganz ehrlich ...  Ich esse ihn, aber nicht so gerne pur. Aus diesem Grund muss unbedingt etwas ganz Feines dazukommen, damit aus dem puren körnigen Käse etwas Feines wird. Wie der Zufall es so will, haben meine Eltern in diesem Jahr wieder reichlich Sauerkirschen an ihren Kirschbäumen hängen. Jetzt muss ich mich aber korrigieren. Bis Samstag hatten sie diese dort reichlich hängen.
