@@ -70,7 +70,7 @@
                     },
                     {
                         "text": "Nun die Sauerkirschen waschen, trocken tupfen und entkernen.",
-                        "photo": null
+                        "photo": "fitfood-koerniger-kaese-mit-sauerkirschen-und-banane_5b44cfa1c2e7c.jpg"
                     },
                     {
                         "text": "Die gefrorenen Bananenscheiben, die Sauerkirschen sowie den Joghurt in den Standmixer geben und p\u00fcrieren. Tipp: Je nachdem wie leistungsstark der Standmixer ist, kann es n\u00f6tig sein, die Bananenscheiben etwas antauen zu lassen.",
