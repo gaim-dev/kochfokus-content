@@ -99,13 +99,21 @@
     }
 }
 
-Bist du ein Fan von körnigem Käse? Mal ganz ehrlich ...  Ich esse ihn, aber nicht so gerne pur. Aus diesem Grund muss unbedingt etwas ganz Feines dazukommen, damit aus dem puren körnigen Käse etwas Feines wird. Wie der Zufall es so will, haben meine Eltern in diesem Jahr wieder reichlich Sauerkirschen an ihren Kirschbäumen hängen. Jetzt muss ich mich aber korrigieren. Bis Samstag hatten sie diese dort reichlich hängen, denn am Samstag durfte ich Sauerkirschen ernten. 
+Bist du ein Fan von körnigem Käse? Mal ganz ehrlich ...  Ich esse ihn, aber nicht so gerne pur. Aus diesem Grund muss unbedingt etwas ganz Feines dazukommen, damit aus dem puren körnigen Käse etwas Feines wird. Wie der Zufall es so will, haben meine Eltern in diesem Jahr wieder reichlich Sauerkirschen an ihren Kirschbäumen hängen. Jetzt muss ich mich aber korrigieren. Bis Samstag hatten sie diese dort reichlich hängen, denn am Samstag durfte ich Sauerkirschen ernten.
 
 Schau Dir diese köstlichen Früchte einmal an!
 
 {{< photo filename="fitfood-koerniger-kaese-mit-sauerkirschen-und-banane_5b4481cc61ab8.jpg" >}}
 
-Beim Anblick dieser köstlichen Früchte kam mir der Gedanke, dass ich sie nicht nur zu [Konftüre](https://kochfokus.de/artikel/beschwipste-sauerkirschkonfituere/ "Konftüre") verarbeite, sondern sie auch meinen körnigen Käse damit aufpeppen werde. Da die Sauerkirschen nicht ohne Grund die Vorsilbe "Sauer" im Namen tragen gesellt sich noch ein schön reife Banane zu ihnen und schon wird der körnige Käse richtig aufgewertet.
+Beim Anblick dieser köstlichen Sauerkirschen kam mir der Gedanke, dass ich sie nicht nur zu [Konftüre](https://kochfokus.de/artikel/beschwipste-sauerkirschkonfituere/ "Konftüre") verarbeite, sondern  auch meinen körnigen Käse damit aufpeppen werde. 
+
+## Vorbemerkungen zum Rezept
+
+Da die Sauerkirschen nicht ohne Grund die Vorsilbe "Sauer" im Namen tragen gesellen sich noch tiefgefrorene Bananenscheiben zu ihnen. Mit etwas Joghurt werden diese mit den Sauerkirschen im Standmixer püriert, so dass es ein schön cremiges Püree gibt, dass einer Nicecream sehr nahe kommt.
+
+Die Haferflocken werden mit den Cashewnüssen in Honig karamellisiert, so dass sie eine schöne crunchige Textur haben.
+
+Am Ende wird alles Schicht für Schicht in ein Glas gegeben und man hat von körnigem Käse bis crunchiger Schicht und von cremiger Schicht schön verschiedene Texturen beim Essen.
 
 Bei diesem Fitfood handelt es sich auch um einen tollen Snack, den Du nicht nur gut vorbereiten, sondern auch prima "to go" verwenden kannst. In einem Schraubglas kannst Du ihn mit zur Arbeit, Uni oder Schule nehmen.
 
