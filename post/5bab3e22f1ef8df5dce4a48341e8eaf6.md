@@ -128,7 +128,8 @@ Bist Du nun neugierig auf dieses köstliche Rezept?
 ## Küchengeräte und -utensilien
 
 - {{< amazon title="Küchenwaage" asin="B00DZPM41U" >}}
-- {{< amazon title="- Mörser und Sößel" asin="B01M2Y5TFQ" >}}- {{< amazon_search title="Teelöffel" query="Tellöffel" >}}
+- {{< amazon title="- Mörser und Sößel" asin="B01M2Y5TFQ" >}} 
+- {{< amazon_search title="Teelöffel" query="Tellöffel" >}}
 - {{< amazon_search title="- Esslöffel" query="Esslöffel" >}}
 - Pfanne
 - {{< amazon title="Kochlöffel" asin="B016FIVAYU" >}}
