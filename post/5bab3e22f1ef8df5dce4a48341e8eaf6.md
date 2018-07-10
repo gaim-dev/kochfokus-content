@@ -56,7 +56,17 @@
                 ]
             }
         ],
-        "steps": [],
+        "steps": [
+            {
+                "name": null,
+                "contents": [
+                    {
+                        "text": "Zuerst die Cashewkerne zerkleinern.",
+                        "photo": null
+                    }
+                ]
+            }
+        ],
         "notes": null
     }
 }
@@ -75,7 +85,7 @@ Bist Du nun neugierig auf diese Variante?
 
 ## Küchengeräte und -utensilien
 
-- Küchenwaage 
+- Küchenwaage
 - Mörser und Sößel
 - Teelöffel
 - Esslöffel
