@@ -125,7 +125,7 @@ Bei diesem Fitfood handelt es sich auch um einen tollen Snack, den Du nicht nur 
 
 Bist Du nun neugierig auf dieses köstliche Rezept?
 
-{{< photo filename="fitfood-koerniger-kaese-mit-sauerkirschen-und-banane_5b44ca3096b1b.jpg">}}
+{{< photo filename="fitfood-koerniger-kaese-mit-sauerkirschen-und-banane_5b44c86e00044.jpg" >}}
 
 ## Küchengeräte und -utensilien
 
@@ -142,4 +142,4 @@ Bist Du nun neugierig auf dieses köstliche Rezept?
 
 Ich wünsche Dir viel Freude beim Nachmachen!
 
-{{< photo filename="fitfood-koerniger-kaese-mit-sauerkirschen-und-banane_5b44c86e00044.jpg">}}
+{{< photo filename="fitfood-koerniger-kaese-mit-sauerkirschen-und-banane_5b44ca3096b1b.jpg">}}
