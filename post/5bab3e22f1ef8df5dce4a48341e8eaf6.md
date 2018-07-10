@@ -108,7 +108,13 @@
         "fr\u00fchst\u00fcck",
         "k\u00f6rniger k\u00e4se",
         "banane",
-        "sauerkirschen"
+        "sauerkirschen",
+        "schnell",
+        "einfach",
+        "einfach schnell",
+        "zwischenmahlzeit",
+        "proteinreich",
+        "quick and easy"
     ],
     "Kategorien": [
         "Fit Food",
