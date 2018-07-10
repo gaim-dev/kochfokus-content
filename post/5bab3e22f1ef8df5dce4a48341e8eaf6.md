@@ -90,12 +90,15 @@
                     },
                     {
                         "text": "Wer mag garniert zum Schluss alles noch mit einigen Sauerkirschen.",
-                        "photo": null
+                        "photo": "fitfood-koerniger-kaese-mit-sauerkirschen-und-banane_5b44cbc060e0e.jpg"
                     }
                 ]
             }
         ],
-        "notes": null
+        "notes": {
+            "text": "Hast Du Fragen, Kritik oder Anregungen zum Rezept oder das Rezept schon ausprobiert? Dann hinterlass mir in den Kommentaren doch gerne Deine Meinung, stell Deine Fragen oder mach gerne Verbesserungsvorschl\u00e4ge. Ich freue mich auf Deinen Kommentar!",
+            "photo": null
+        }
     },
     "Kategorien": [
         "Fit Food",
