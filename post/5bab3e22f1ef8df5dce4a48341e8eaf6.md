@@ -32,14 +32,14 @@
                     {
                         "value": "100",
                         "unit": "g",
-                        "name": "Banane",
+                        "name": "Bananenscheiben",
                         "note": "tiefgefroren"
                     },
                     {
                         "value": "100",
                         "unit": "g",
                         "name": "Sauerkirschen",
-                        "note": "frisch"
+                        "note": "frisch, plus einige f\u00fcr die Garnitur"
                     },
                     {
                         "value": "1",
@@ -51,7 +51,7 @@
                         "value": "N.B.",
                         "unit": null,
                         "name": "Kakaonibs",
-                        "note": null
+                        "note": "f\u00fcr das Topping"
                     }
                 ]
             }
@@ -61,7 +61,35 @@
                 "name": null,
                 "contents": [
                     {
-                        "text": "Zuerst die Cashewkerne zerkleinern.",
+                        "text": "Zuerst die Cashewkerne im M\u00f6rser zerkleinern.",
+                        "photo": null
+                    },
+                    {
+                        "text": "Dann den Honig in die Pfanne geben, bei mittlerer Hitze fl\u00fcssig werden lassen, die Haferflocken sowie die Cashewkerne dazugeben und darin karamellisieren.",
+                        "photo": null
+                    },
+                    {
+                        "text": "Nun die Sauerkirschen waschen, trocken tupfen und entkernen.",
+                        "photo": null
+                    },
+                    {
+                        "text": "Die gefrorenen Bananenscheiben, die Sauerkirschen sowie den Joghurt in den Standmixer geben und p\u00fcrieren. Tipp: Je nachdem wie leistungsstark der Standmixer ist, kann es n\u00f6tig sein, die Bananenscheiben etwas antauen zu lassen.",
+                        "photo": null
+                    },
+                    {
+                        "text": "Das Glas nun schichtweise bef\u00fcllen. Ich habe mit einer Schicht kakramellisierten Haferflocken und Cashewkernen begonnen. Gefolgt von H\u00fcttenk\u00e4se und dem P\u00fcree aus Sauerkirschen und Bananen und Joghurt.",
+                        "photo": null
+                    },
+                    {
+                        "text": "So weiter Schicht f\u00fcr Schicht in das Glas f\u00fcllen, bis es gef\u00fcllt ist.",
+                        "photo": null
+                    },
+                    {
+                        "text": "Als Topping dann noch Kakaonibs auf das Ganze streuen.",
+                        "photo": null
+                    },
+                    {
+                        "text": "Wer mag garniert zum Schluss alles noch mit einigen Sauerkirschen.",
                         "photo": null
                     }
                 ]
@@ -91,6 +119,8 @@ Bist Du nun neugierig auf diese Variante?
 - Esslöffel
 - Pfanne
 - Kochlöffel
+- Entkerner
+- Papierküchentücher
 - Standmixer
 - Dessertschälchen oder Schraubglas
 
