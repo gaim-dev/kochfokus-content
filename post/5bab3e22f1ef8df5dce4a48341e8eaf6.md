@@ -74,7 +74,7 @@
                     },
                     {
                         "text": "Die gefrorenen Bananenscheiben, die Sauerkirschen sowie den Joghurt in den Standmixer geben und p\u00fcrieren. Tipp: Je nachdem wie leistungsstark der Standmixer ist, kann es n\u00f6tig sein, die Bananenscheiben etwas antauen zu lassen.",
-                        "photo": null
+                        "photo": "tiefgefrorene-bananenscheiben_59dfe3d2e32ef.jpg"
                     },
                     {
                         "text": "Das Glas nun schichtweise bef\u00fcllen. Ich habe mit einer Schicht von karamellisierten Haferflocken und Cashewkernen begonnen. Gefolgt von H\u00fcttenk\u00e4se und dem P\u00fcree aus Sauerkirschen und Bananen und Joghurt.",
