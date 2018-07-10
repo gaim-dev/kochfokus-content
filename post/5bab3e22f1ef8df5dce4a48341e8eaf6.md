@@ -96,7 +96,13 @@
             }
         ],
         "notes": null
-    }
+    },
+    "Kategorien": [
+        "Fit Food",
+        "Fr\u00fchst\u00fcck",
+        "Quick and Easy",
+        "Rezepte"
+    ]
 }
 
 Bist du ein Fan von körnigem Käse? Mal ganz ehrlich ...  Ich esse ihn, aber nicht so gerne pur. Aus diesem Grund muss unbedingt etwas ganz Feines dazukommen, damit aus dem puren körnigen Käse etwas Feines wird. Wie der Zufall es so will, haben meine Eltern in diesem Jahr wieder reichlich Sauerkirschen an ihren Kirschbäumen hängen. Jetzt muss ich mich aber korrigieren. Bis Samstag hatten sie diese dort reichlich hängen, denn am Samstag durfte ich Sauerkirschen ernten.
@@ -113,7 +119,7 @@ Da die Sauerkirschen nicht ohne Grund die Vorsilbe "Sauer" im Namen tragen gesel
 
 Die Haferflocken werden mit den Cashewnüssen in Honig karamellisiert, so dass sie eine schöne crunchige Textur haben.
 
-Am Ende wird alles Schicht für Schicht in ein Glas gegeben und man hat von körnigem Käse bis crunchiger Schicht und von cremiger Schicht schön verschiedene Texturen beim Essen.
+Am Ende wird alles Schicht für Schicht in ein Glas gegeben und man hat von körnigem Käse bis crunchiger Schicht und  cremiger Schicht schön verschiedene Texturen beim Essen.
 
 Bei diesem Fitfood handelt es sich auch um einen tollen Snack, den Du nicht nur gut vorbereiten, sondern auch prima "to go" verwenden kannst. In einem Schraubglas kannst Du ihn mit zur Arbeit, zur Uni oder aber zur Schule nehmen.
 
@@ -121,15 +127,14 @@ Bist Du nun neugierig auf dieses köstliche Rezept?
 
 ## Küchengeräte und -utensilien
 
-- Küchenwaage
-- Mörser und Sößel
-- Teelöffel
-- Esslöffel
+- {{< amazon title="Küchenwaage" asin="B00DZPM41U" >}}
+- {{< amazon title="- Mörser und Sößel" asin="B01M2Y5TFQ" >}}- {{< amazon_search title="Teelöffel" query="Tellöffel" >}}
+- {{< amazon_search title="- Esslöffel" query="Esslöffel" >}}
 - Pfanne
-- Kochlöffel
-- Entkerner
+- {{< amazon title="Kochlöffel" asin="B016FIVAYU" >}}
+- {{< amazon title="Kirschentkerner" asin="B0002AE2MA" >}}
 - Papierküchentücher
-- Standmixer
-- Dessertschälchen oder Schraubglas
+- {{< amazon title="Standmixer" asin="B00VTNOKPS" >}}
+- {{< amazon title="Dessertschälchen" asin="B072JYFR8N" >}} oder {{< amazon title="Schraubglas" asin="B00LO4BIFM" >}}
 
 Ich wünsche Dir viel Freude beim Nachmachen!
