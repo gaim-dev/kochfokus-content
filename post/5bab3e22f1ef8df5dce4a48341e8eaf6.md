@@ -61,6 +61,10 @@
     }
 }
 
-Bist du ein Fan von körnigem Käse? Mal ganz ehrlich ...  Ich esse ihn, aber nicht so gerne pur. Aus diesem Grund muss unbedingt etwas ganz Feines dazukommen, damit aus dem puren körnigen Käse etwas Feines wird. Wie der Zufall es so will, haben meine Eltern in diesem Jahr wieder reichlich Sauerkirschen an ihren Kirschbäumen hängen. Jetzt muss ich mich aber korrigieren. Bis Samstag hatten sie diese dort reichlich hängen, denn am Samstag durfte ich Sauerkirschen ernten. Beim Anblick dieser köstlichen Früchte kam mir der Gedanke, dass ich sie nicht nur zu [Konftüre](https://kochfokus.de/artikel/beschwipste-sauerkirschkonfituere/ "Konftüre") verarbeite, sondern sie auc
+Bist du ein Fan von körnigem Käse? Mal ganz ehrlich ...  Ich esse ihn, aber nicht so gerne pur. Aus diesem Grund muss unbedingt etwas ganz Feines dazukommen, damit aus dem puren körnigen Käse etwas Feines wird. Wie der Zufall es so will, haben meine Eltern in diesem Jahr wieder reichlich Sauerkirschen an ihren Kirschbäumen hängen. Jetzt muss ich mich aber korrigieren. Bis Samstag hatten sie diese dort reichlich hängen, denn am Samstag durfte ich Sauerkirschen ernten. 
+
+Schau Dir diese köstlichen Früchte einmal an!
 
 {{< photo filename="fitfood-koerniger-kaese-mit-sauerkirschen-und-banane_5b4481cc61ab8.jpg" >}}
+
+Beim Anblick dieser köstlichen Früchte kam mir der Gedanke, dass ich sie nicht nur zu [Konftüre](https://kochfokus.de/artikel/beschwipste-sauerkirschkonfituere/ "Konftüre") verarbeite, sondern sie auch meinen körnigen Käse damit aufpeppen werde.
