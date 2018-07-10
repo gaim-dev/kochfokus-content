@@ -115,9 +115,9 @@ Die Haferflocken werden mit den Cashewnüssen in Honig karamellisiert, so dass s
 
 Am Ende wird alles Schicht für Schicht in ein Glas gegeben und man hat von körnigem Käse bis crunchiger Schicht und von cremiger Schicht schön verschiedene Texturen beim Essen.
 
-Bei diesem Fitfood handelt es sich auch um einen tollen Snack, den Du nicht nur gut vorbereiten, sondern auch prima "to go" verwenden kannst. In einem Schraubglas kannst Du ihn mit zur Arbeit, Uni oder Schule nehmen.
+Bei diesem Fitfood handelt es sich auch um einen tollen Snack, den Du nicht nur gut vorbereiten, sondern auch prima "to go" verwenden kannst. In einem Schraubglas kannst Du ihn mit zur Arbeit, zur Uni oder aber zur Schule nehmen.
 
-Bist Du nun neugierig auf diese Variante?
+Bist Du nun neugierig auf dieses köstliche Rezept?
 
 ## Küchengeräte und -utensilien
 
