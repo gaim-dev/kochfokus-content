@@ -86,7 +86,7 @@
                     },
                     {
                         "text": "Als Topping dann noch Kakaonibs auf das Ganze streuen.",
-                        "photo": null
+                        "photo": "fitfood-koerniger-kaese-mit-sauerkirschen-und-banane_5b44d28386a90.jpg"
                     },
                     {
                         "text": "Wer mag garniert zum Schluss alles noch mit einigen Sauerkirschen.",
