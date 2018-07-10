@@ -69,7 +69,7 @@ Schau Dir diese köstlichen Früchte einmal an!
 
 Beim Anblick dieser köstlichen Früchte kam mir der Gedanke, dass ich sie nicht nur zu [Konftüre](https://kochfokus.de/artikel/beschwipste-sauerkirschkonfituere/ "Konftüre") verarbeite, sondern sie auch meinen körnigen Käse damit aufpeppen werde. Da die Sauerkirschen nicht ohne Grund die Vorsilbe "Sauer" im Namen tragen gesellt sich noch ein schön reife Banane zu ihnen und schon wird der körnige Käse richtig aufgewertet.
 
-Bei diesem 
+Bei diesem Fitfood handelt es sich auch um einen tollen Snack, den Du nicht nur gut vorbereiten, sondern auch prima "to go" verwenden kannst. In einem Schraubglas kannst Du ihn mit zur Arbeit, Uni oder Schule nehmen.
 
 Bist Du nun neugierig auf diese Variante?
 
@@ -82,4 +82,6 @@ Bist Du nun neugierig auf diese Variante?
 - Pfanne
 - Kochlöffel
 - Standmixer
-- Dessertschälchen oder Bügelglas
+- Dessertschälchen oder Schraubglas
+
+Ich wünsche Dir viel Freude beim Nachmachen!
