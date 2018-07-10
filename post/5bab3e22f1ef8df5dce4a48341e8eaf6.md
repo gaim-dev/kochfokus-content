@@ -111,7 +111,7 @@ Schau Dir diese köstlichen Früchte einmal an!
 
 {{< photo filename="fitfood-koerniger-kaese-mit-sauerkirschen-und-banane_5b4481cc61ab8.jpg" >}}
 
-Beim Anblick dieser köstlichen Sauerkirschen kam mir der Gedanke, dass ich sie nicht nur zu [Konftüre](https://kochfokus.de/artikel/beschwipste-sauerkirschkonfituere/ "Konftüre") verarbeite, sondern  auch meinen körnigen Käse damit aufpeppen werde. 
+Beim Anblick dieser köstlichen Sauerkirschen kam mir der Gedanke, dass ich sie nicht nur zu [Konftüre](https://kochfokus.de/artikel/beschwipste-sauerkirschkonfituere/ "Konftüre") verarbeite, sondern  auch meinen körnigen Käse damit aufpeppen werde.
 
 ## Vorbemerkungen zum Rezept
 
@@ -124,6 +124,8 @@ Am Ende wird alles Schicht für Schicht in ein Glas gegeben und man hat von kör
 Bei diesem Fitfood handelt es sich auch um einen tollen Snack, den Du nicht nur gut vorbereiten, sondern auch prima "to go" verwenden kannst. In einem Schraubglas kannst Du ihn mit zur Arbeit, zur Uni oder aber zur Schule nehmen.
 
 Bist Du nun neugierig auf dieses köstliche Rezept?
+
+{{< photo filename="fitfood-koerniger-kaese-mit-sauerkirschen-und-banane_5b44ca3096b1b.jpg">}}
 
 ## Küchengeräte und -utensilien
 
