@@ -68,3 +68,18 @@ Schau Dir diese köstlichen Früchte einmal an!
 {{< photo filename="fitfood-koerniger-kaese-mit-sauerkirschen-und-banane_5b4481cc61ab8.jpg" >}}
 
 Beim Anblick dieser köstlichen Früchte kam mir der Gedanke, dass ich sie nicht nur zu [Konftüre](https://kochfokus.de/artikel/beschwipste-sauerkirschkonfituere/ "Konftüre") verarbeite, sondern sie auch meinen körnigen Käse damit aufpeppen werde. Da die Sauerkirschen nicht ohne Grund die Vorsilbe "Sauer" im Namen tragen gesellt sich noch ein schön reife Banane zu ihnen und schon wird der körnige Käse richtig aufgewertet.
+
+Bei diesem 
+
+Bist Du nun neugierig auf diese Variante?
+
+## Küchengeräte und -utensilien
+
+- Küchenwaage 
+- Mörser und Sößel
+- Teelöffel
+- Esslöffel
+- Pfanne
+- Kochlöffel
+- Standmixer
+- Dessertschälchen oder Bügelglas
