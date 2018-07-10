@@ -3,8 +3,8 @@
     "draft": true,
     "date": "2018-07-09T12:19:00+00:00",
     "title": "Fitfood K\u00f6rniger K\u00e4se mit Sauerkirschen und Banane",
-    "description": "Bist du ein Fan von k\u00f6rnigem K\u00e4se? Mal ganz ehrlich ... Wer k\u00f6rnigen K\u00e4sepur nicht so gerne mag, wird die Variante von k\u00f6rnigem K\u00e4se mit Sauerkirschen und Banane lieben.",
-    "featuredImage": "koerniger-kaese-mit-sauerkirschen-und-banane_5b44c73074b2d.jpg",
+    "description": "Bist du ein Fan von k\u00f6rnigem K\u00e4se? Mal ganz ehrlich ... Wer k\u00f6rnigen K\u00e4se pur nicht so gerne mag, wird die Variante von k\u00f6rnigem K\u00e4se mit Sauerkirschen und Banane lieben.",
+    "featuredImage": "fitfood-koerniger-kaese-mit-sauerkirschen-und-banane_5b44c578409ec.jpg",
     "author": "Gabi",
     "recipe": {
         "ingredients": [
@@ -139,3 +139,5 @@ Bist Du nun neugierig auf dieses köstliche Rezept?
 - {{< amazon title="Dessertschälchen" asin="B072JYFR8N" >}} oder {{< amazon title="Schraubglas" asin="B00LO4BIFM" >}}
 
 Ich wünsche Dir viel Freude beim Nachmachen!
+
+{{< photo filename="fitfood-koerniger-kaese-mit-sauerkirschen-und-banane_5b44c86e00044.jpg">}}
