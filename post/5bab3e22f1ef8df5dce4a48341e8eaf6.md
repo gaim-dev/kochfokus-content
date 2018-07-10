@@ -77,7 +77,7 @@
                         "photo": null
                     },
                     {
-                        "text": "Das Glas nun schichtweise bef\u00fcllen. Ich habe mit einer Schicht kakramellisierten Haferflocken und Cashewkernen begonnen. Gefolgt von H\u00fcttenk\u00e4se und dem P\u00fcree aus Sauerkirschen und Bananen und Joghurt.",
+                        "text": "Das Glas nun schichtweise bef\u00fcllen. Ich habe mit einer Schicht von karamellisierten Haferflocken und Cashewkernen begonnen. Gefolgt von H\u00fcttenk\u00e4se und dem P\u00fcree aus Sauerkirschen und Bananen und Joghurt.",
                         "photo": null
                     },
                     {
