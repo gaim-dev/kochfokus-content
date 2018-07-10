@@ -1,6 +1,6 @@
 {
     "slug": "fitfood-koerniger-kase-mit-sauerkirschen-und-banane",
-    "draft": false,
+    "draft": true,
     "date": "2018-07-09T12:19:00+00:00",
     "title": "Fitfood K\u00f6rniger K\u00e4se mit Sauerkirschen und Banane",
     "description": "Bist du ein Fan von k\u00f6rnigem K\u00e4se? Mal ganz ehrlich ... Wer k\u00f6rnigen K\u00e4sepur nicht so gerne mag, wird die Variante von k\u00f6rnigem K\u00e4se mit Sauerkirschen und Banane lieben.",
