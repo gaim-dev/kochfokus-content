@@ -65,7 +65,7 @@
                         "photo": null
                     },
                     {
-                        "text": "Dann den Honig in die Pfanne geben, bei mittlerer Hitze fl\u00fcssig werden lassen, die Haferflocken sowie die Cashewkerne dazugeben und darin karamellisieren.",
+                        "text": "Dann den fl\u00fcssigen Honig in die Pfanne geben, bei mittlerer Hitze fl\u00fcssig werden lassen, die Haferflocken sowie die Cashewkerne dazugeben und darin karamellisieren.",
                         "photo": null
                     },
                     {
@@ -81,11 +81,11 @@
                         "photo": null
                     },
                     {
-                        "text": "So weiter Schicht f\u00fcr Schicht in das Glas f\u00fcllen, bis es gef\u00fcllt ist.",
+                        "text": "So weiter Schicht f\u00fcr Schicht in das Glas f\u00fcllen, bis nichts mehr von den Zutaten \u00fcbrig ist.",
                         "photo": null
                     },
                     {
-                        "text": "Als Topping dann noch Kakaonibs auf das Ganze streuen.",
+                        "text": "Als Topping dann noch nach Belieben Kakaonibs auf das Ganze streuen.",
                         "photo": "fitfood-koerniger-kaese-mit-sauerkirschen-und-banane_5b44d28386a90.jpg"
                     },
                     {
@@ -130,7 +130,7 @@ Schau Dir diese köstlichen Früchte einmal an!
 
 {{< photo filename="fitfood-koerniger-kaese-mit-sauerkirschen-und-banane_5b4481cc61ab8.jpg" >}}
 
-Beim Anblick dieser köstlichen Sauerkirschen kam mir der Gedanke, dass ich sie nicht nur zu [Konftüre](https://kochfokus.de/artikel/beschwipste-sauerkirschkonfituere/ "Konftüre") verarbeite, sondern  auch meinen körnigen Käse damit aufpeppen werde.
+Beim Anblick dieser leckeren Sauerkirschen kam mir der Gedanke, dass ich sie nicht nur zu [Konftüre](https://kochfokus.de/artikel/beschwipste-sauerkirschkonfituere/ "Konftüre") verarbeite, sondern  auch meinen körnigen Käse damit aufpeppen werde.
 
 ## Vorbemerkungen zum Rezept
 
@@ -138,9 +138,9 @@ Da die Sauerkirschen nicht ohne Grund die Vorsilbe "Sauer" im Namen tragen gesel
 
 Die Haferflocken werden mit den Cashewnüssen in Honig karamellisiert, so dass sie eine schöne crunchige Textur haben.
 
-Am Ende wird alles Schicht für Schicht in ein Glas gegeben und man hat von körnigem Käse bis crunchiger Schicht und  cremiger Schicht schön verschiedene Texturen beim Essen.
+Am Ende wird alles Schicht für Schicht in ein Glas gegeben und man hat von körnigem Käse bis crunchiger Schicht und  cremiger Schicht verschiedene Texturen beim Essen.
 
-Bei diesem Fitfood handelt es sich auch um einen tollen Snack, den Du nicht nur gut vorbereiten, sondern auch prima "to go" verwenden kannst. In einem Schraubglas kannst Du ihn mit zur Arbeit, zur Uni oder aber zur Schule nehmen.
+Bei diesem Fitfood handelt es sich auch um eine tolle Mahlzeit, die Du nicht nur gut vorbereiten, sondern auch prima "to go" verwenden kannst. In einem Schraubglas kannst Du sie mit zur Arbeit, zur Uni oder aber mit zur Schule nehmen.
 
 Bist Du nun neugierig auf dieses köstliche Rezept?
 
