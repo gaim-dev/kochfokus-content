@@ -161,4 +161,4 @@ Bist Du nun neugierig auf dieses köstliche Rezept?
 
 Ich wünsche Dir viel Freude beim Nachmachen!
 
-{{< photo filename="fitfood-koerniger-kaese-mit-sauerkirschen-und-banane_5b44ca3096b1b.jpg">}}
+{{< photo filename="fitfood-koerniger-kaese-mit-sauerkirschen-und-banane_5b454c006ca2c.jpg" >}}
