@@ -23,3 +23,22 @@ Ich hoffe, Du bist neugierig auf dieses tolle Rezept.
 
 
 ## Küchengeräte und -utensilien
+
+- Küchenwaage
+- Messbecher
+- Gefäß
+- Küchenmaschine mit Knetaufsatz oder Handrührgerät mit Knethaken
+- Teigschaber
+- Teelöffel
+- Frischhaltefolie
+- Geschirrtuch
+- Backofenblech
+- Backpapier
+- Backofen
+- Fettpfanne
+- Kaffeetasse
+- Kurzzeitmesser
+- Topflappen oder Backhandschuhe
+- Brett für das fertige Brot
+
+Viel Freude beim Nachmachen!
