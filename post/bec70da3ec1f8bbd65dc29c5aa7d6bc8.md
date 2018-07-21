@@ -89,7 +89,39 @@
                 ]
             }
         ],
-        "steps": [],
+        "steps": [
+            {
+                "name": "Quellst\u00fcck",
+                "contents": [
+                    {
+                        "text": "F\u00fcr das Quellst\u00fcck die Leinsamen in das Sch\u00e4lchen geben. Das Wasser hinzuf\u00fcgen, alles miteinander verr\u00fchren und abgedeckt mindestens eine Stunde lang quellen lassen.",
+                        "photo": null
+                    }
+                ]
+            },
+            {
+                "name": "Die Hefe vorbereiten",
+                "contents": [
+                    {
+                        "text": "Die Trockenhefe, 50 ml lauwarmes Wasser sowie den Honig in eine gro\u00dfe Tasse oder ein anderes hohes Gef\u00e4\u00df geben, gut verr\u00fchren, mit einem Geschirrtuch abdecken und die Hefe gehen lassen.",
+                        "photo": null
+                    }
+                ]
+            },
+            {
+                "name": "Brotteig",
+                "contents": [
+                    {
+                        "text": "Das Mehl, die kernigen Haferfkocken sowie das Salz in die Sch\u00fcssel geben und alles miteinander vermengen.",
+                        "photo": null
+                    },
+                    {
+                        "text": "Nun das Wasser sowie das Quellst\u00fcck hinzuf\u00fcgen.",
+                        "photo": null
+                    }
+                ]
+            }
+        ],
         "notes": null
     }
 }
@@ -111,7 +143,8 @@ Ich hoffe, Du bist neugierig auf dieses tolle Rezept.
 
 - Küchenwaage
 - Messbecher
-- Gefäß
+- Schälchen
+- hohes Gefäß oder Tasse
 - Küchenmaschine mit Knetaufsatz oder Handrührgerät mit Knethaken
 - Teigschaber
 - Teelöffel
