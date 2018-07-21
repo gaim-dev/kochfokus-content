@@ -44,7 +44,49 @@
             },
             {
                 "name": "Brotteig",
-                "contents": []
+                "contents": [
+                    {
+                        "value": "300",
+                        "unit": "g",
+                        "name": "Dinkelvollkornmehl",
+                        "note": "plus Mehl f\u00fcr die Arbeitsfl\u00e4che"
+                    },
+                    {
+                        "value": "200",
+                        "unit": "g",
+                        "name": "Haferflocken",
+                        "note": "kernige"
+                    },
+                    {
+                        "value": "2",
+                        "unit": "TL",
+                        "name": "Salz",
+                        "note": null
+                    },
+                    {
+                        "value": "300",
+                        "unit": "ml",
+                        "name": "Wasser",
+                        "note": "lauwarm"
+                    }
+                ]
+            },
+            {
+                "name": "Topping",
+                "contents": [
+                    {
+                        "value": "etwas",
+                        "unit": null,
+                        "name": "Wasser",
+                        "note": "aus der Spr\u00fchflasche"
+                    },
+                    {
+                        "value": "N. B.",
+                        "unit": null,
+                        "name": "Haferflocken",
+                        "note": null
+                    }
+                ]
             }
         ],
         "steps": [],
