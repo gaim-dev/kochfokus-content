@@ -118,6 +118,14 @@
                     {
                         "text": "Nun das Wasser sowie das Quellst\u00fcck hinzuf\u00fcgen.",
                         "photo": null
+                    },
+                    {
+                        "text": "Wenn die Hefe aufgegangen ist, wird sie ebenso zu den anderen Zutaten hinzugef\u00fcgt.",
+                        "photo": null
+                    },
+                    {
+                        "text": "Nun den Teig kneten und zu einer Kugel formen.",
+                        "photo": null
                     }
                 ]
             }
