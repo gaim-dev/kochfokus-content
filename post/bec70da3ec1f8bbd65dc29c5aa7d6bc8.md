@@ -1,7 +1,7 @@
 {
     "slug": "haferflockenbrot-mit-knuspriger-kruste-und-fluffiger-krume",
     "draft": true,
-    "date": "2018-07-23T23:56:00+00:00",
+    "date": "2018-07-24T13:34:00+00:00",
     "title": "Haferflockenbrot mit knuspriger Kruste und fluffiger Krume",
     "description": "Haferflocken sind nicht nur f\u00fcr ein M\u00fcsli gut. Sie eignen sich auch hervorragend, um ein k\u00f6stliches Brot zu backen. Dieses Haferflockenbrot besticht durch seine knusprige Kruste und seine herrlich fluffige Krume.",
     "featuredImage": "haferflockenbrot-mit-knuspriger-kruste-und-fluffiger-krume_5b5708d0de8d1.jpg",
@@ -244,7 +244,7 @@ Ich hoffe, Du bist neugierig auf dieses tolle Rezept.
 - Teelöffel
 - scharfes {{< amazon title="Küchenmesser" asin="B0772WN76C" >}}
 - Frischhaltefolie
-- {{< amazon title="Geschirrtuch" asin=" B014FOBIVG" >}}
+- {{< amazon title="Geschirrtuch" asin="B074DWD11V" >}}
 - Backofenblech
 - Backpapier
 - Backofen
