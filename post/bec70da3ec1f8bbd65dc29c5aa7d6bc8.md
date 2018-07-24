@@ -124,7 +124,7 @@
                 "contents": [
                     {
                         "text": "Das Mehl, die kernigen Haferfkocken sowie das Salz in die Sch\u00fcssel geben und alles miteinander vermengen.",
-                        "photo": null
+                        "photo": "haferflockenbrot-mit-knuspriger-kruste-und-fluffiger-krume_5b56ff847d523.jpg"
                     },
                     {
                         "text": "Nun das Wasser sowie das Quellst\u00fcck hinzuf\u00fcgen.",
