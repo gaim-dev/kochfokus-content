@@ -4,7 +4,7 @@
     "date": "2018-07-23T23:56:00+00:00",
     "title": "Haferflockenbrot mit knuspriger Kruste und fluffiger Krume",
     "description": null,
-    "featuredImage": "haferflockenbrot-mit-knuspriger-kruste-und-fluffiger-krume_5b56f74330315.jpg",
+    "featuredImage": "haferflockenbrot-mit-knuspriger-kruste-und-fluffiger-krume_5b5708d0de8d1.jpg",
     "author": "Gabi",
     "recipe": {
         "ingredients": [
@@ -236,4 +236,4 @@ Ich hoffe, Du bist neugierig auf dieses tolle Rezept.
 
 Viel Freude beim Nachmachen!
 
-{{< photo filename="haferflockenbrot-mit-knuspriger-kruste-und-fluffiger-krume_5b5708d0de8d1.jpg">}}
+{{< photo filename="haferflockenbrot-mit-knuspriger-kruste-und-fluffiger-krume_5b56f74330315.jpg">}}
