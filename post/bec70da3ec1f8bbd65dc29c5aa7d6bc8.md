@@ -252,7 +252,7 @@ Ich hoffe, Du bist neugierig auf dieses tolle Rezept.
 - Kaffeetasse
 - Kurzzeitmesser
 - Topflappen oder {{< amazon title="Backhandschuhe" asin="B074LCTCF8" >}}
-- Brett für das fertige Brot
+- {{< amazon title="Brett" asin="B01IDA4QH6" >}} für das fertige Brot
 
 Viel Freude beim Nachmachen!
 
