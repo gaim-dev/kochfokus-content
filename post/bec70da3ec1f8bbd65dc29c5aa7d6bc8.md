@@ -106,7 +106,7 @@
                 "contents": [
                     {
                         "text": "F\u00fcr das Quellst\u00fcck die Leinsamen in das Sch\u00e4lchen geben. Das Wasser hinzuf\u00fcgen, alles miteinander verr\u00fchren und abgedeckt mindestens eine Stunde lang quellen lassen.",
-                        "photo": null
+                        "photo": "haferflockenbrot-mit-knuspriger-kruste-und-fluffiger-krume_5b56f8bf6ac29.jpg"
                     }
                 ]
             },
