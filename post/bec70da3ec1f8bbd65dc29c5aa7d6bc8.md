@@ -237,7 +237,7 @@ Ich hoffe, Du bist neugierig auf dieses tolle Rezept.
 
 - {{< amazon title="Küchenwaage" asin="B00DZPM41U" >}}
 - {{< amazon title="Messbecher" asin="B004NSL61M" >}}
-- Schälchen
+- {{< amazon title="Schälchen" asin="B00768VO4K" >}}
 - hohes Gefäß oder Tasse
 - Küchenmaschine mit Knetaufsatz oder{{< amazon title=" Handrührgerät" asin="B000IYGH28" >}} mit Knethaken
 - {{< amazon title="Teigschaber" asin="B00WJPCUA2" >}}
