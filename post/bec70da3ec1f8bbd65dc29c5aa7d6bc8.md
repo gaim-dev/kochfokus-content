@@ -235,3 +235,5 @@ Ich hoffe, Du bist neugierig auf dieses tolle Rezept.
 - Brett für das fertige Brot
 
 Viel Freude beim Nachmachen!
+
+{{< photo filename="haferflockenbrot-mit-knuspriger-kruste-und-fluffiger-krume_5b5708d0de8d1.jpg">}}
