@@ -207,11 +207,15 @@
         "haferflocken",
         "krume",
         "kruste",
-        "hee",
+        "hefe",
         "hefeteig",
         "trockenhefe",
         "quellst\u00fcck",
         "leinsamen"
+    ],
+    "Kategorien": [
+        "Rezepte",
+        "Brote"
     ]
 }
 
