@@ -139,8 +139,8 @@
                         "photo": null
                     },
                     {
-                        "text": "Die Sch\u00fcssel mit etwas Backtrennspray oder \u00d6l einfetten, damit der Hefeteig sich sp\u00e4ter problemlos aus der Sch\u00fcssel l\u00f6st.",
-                        "photo": null
+                        "text": "Die Sch\u00fcssel mit etwas Backtrennspray oder \u00d6l einfetten, damit der Hefeteig sich sp\u00e4ter problemlos aus der Sch\u00fcssel l\u00f6st. Tipp: Etwas Mehl zus\u00e4tzlich auf die Teigkugel geben, damit sie sich leichter von der Folie l\u00f6st.",
+                        "photo": "haferflockenbrot-mit-knuspriger-kruste-und-fluffiger-krume_5b57001d7850b.jpg"
                     },
                     {
                         "text": "Die Teigkugel in die Sch\u00fcssel geben und diese mit der Frischhaltefolie sowie dem trockenen K\u00fcchentuch gut abdecken und den Teig an einem warmen Ort gehen lassen.",
