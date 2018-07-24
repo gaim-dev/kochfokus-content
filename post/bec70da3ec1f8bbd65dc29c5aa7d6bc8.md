@@ -152,7 +152,7 @@
                     },
                     {
                         "text": "Wenn das Volumen des Teiges sich verdoppelt hat, wird er auf der bemehlten Arbeitsfl\u00e4che nochmals durchgeknetet und zu einem runden Brot geformt.",
-                        "photo": null
+                        "photo": "haferflockenbrot-mit-knuspriger-kruste-und-fluffiger-krume_5b5701584664c.jpg"
                     },
                     {
                         "text": "Dieses wird auf das vorbereitete Backblech gelegt und mit etwas Wasser bespr\u00fcht.",
@@ -160,7 +160,7 @@
                     },
                     {
                         "text": "Die Haferflocken auf dem Brotlaib verteilen, diesen dann mit einem scharfen Messer einschneiden und nochmals mit dem K\u00fcchentuch abdecken.",
-                        "photo": null
+                        "photo": "haferflockenbrot-mit-knuspriger-kruste-und-fluffiger-krume_5b5703057e5b9.jpg"
                     },
                     {
                         "text": "Die Fettpfanne auf den untersten Einschub des Backofens geben. Au\u00dferdem den Backofen auf 200 Grad Umluft vorheizen und das Brot abgedeckt noch so lange ruhen lassen, bis der Backofen 200 Grad erreicht hat.",
