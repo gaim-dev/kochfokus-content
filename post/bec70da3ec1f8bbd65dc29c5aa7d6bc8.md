@@ -139,11 +139,11 @@
                         "photo": null
                     },
                     {
-                        "text": "Die Sch\u00fcssel mit etwas Backtrennspray oder \u00d6l einfetten, damit der Hefeteig sich sp\u00e4ter problemlos aus der Sch\u00fcssel l\u00f6st. Tipp: Etwas Mehl zus\u00e4tzlich auf die Teigkugel geben, damit sie sich leichter von der Folie l\u00f6st.",
+                        "text": "Die Sch\u00fcssel mit etwas Backtrennspray oder \u00d6l einfetten, damit der Hefeteig sich sp\u00e4ter problemlos aus der Sch\u00fcssel l\u00f6st. Tipp: Zus\u00e4tzlich etwas Mehl auf die Teigkugel geben, damit sie sich leichter von der Folie l\u00f6st.",
                         "photo": "haferflockenbrot-mit-knuspriger-kruste-und-fluffiger-krume_5b57001d7850b.jpg"
                     },
                     {
-                        "text": "Die Teigkugel in die Sch\u00fcssel geben und diese mit der Frischhaltefolie sowie dem trockenen K\u00fcchentuch gut abdecken und den Teig an einem warmen Ort gehen lassen.",
+                        "text": "Die Teigkugel in die Sch\u00fcssel geben und diese mit der Frischhaltefolie sowie dem trockenen Geschirrtuch gut abdecken und den Teig an einem warmen Ort gehen lassen.",
                         "photo": null
                     },
                     {
@@ -219,12 +219,12 @@
     ]
 }
 
-Im Moment hat mein Mann Urlaub und wir genießen es, ausgiebig miteinander zu frühstücken. Das ist ja auch das Schöne am Urlaub. Einfach Zeit haben, in Ruhe essen und bewusst geneißen. Wie es so ist, liebt mein Liebster selbst mein gebackenes Brot und wie es nun auch einmal so ist, kriegt er dann und wann seine Wünsche erfüllt. So kam es, dass ich neulich einfach einmal so einige Zutaten genommen habe und ohne etwas zu notieren, drauf los gebacken habe. Herausgekommen ist dabei ein köstliches Haferflockenbrot. Einfach und wieder einmal einfach gut. Zum Glück habe ich mir gemerkt, was ich alles verwendet habe, so dass ich nun ein weiteres Brotrezept für Euch habe.
+Im Moment hat mein Mann Urlaub und wir genießen es, ausgiebig miteinander zu frühstücken. Das ist ja auch das Schöne am Urlaub. Einfach Zeit haben, in Ruhe essen und bewusst genießen. Wie es so ist, liebt mein Liebster mein selbst gebackenes Brot und wie es nun auch einmal so ist, kriegt er dann und wann seine Wünsche erfüllt. So kam es, dass ich neulich einfach einmal so einige Zutaten genommen habe und ohne etwas zu notieren, drauf los gebacken habe. Herausgekommen ist dabei ein köstliches Haferflockenbrot. Einfach und wieder einmal einfach gut. Zum Glück habe ich mir gemerkt, was ich alles verwendet habe, so dass ich nun ein weiteres Brotrezept für Euch habe.
 
 ## Vorbemerkungen zum Rezept
 
-Ich verwende für den Teig zum einen kernige Haferflocken und zum anderen Leinsamen. Beide Zutaten haben die Eigenschaft, dass sie Flüssigkeiten gut aufnehmen. Aus diesem Grund braucht man hier mit ausreichend Flüssigkeit für den Teig. Zudem setze ich wieder einmal ein sogenanntes Quellstück für den Teig an, damit das Brot am Ende nicht zu trocken ist. Was das genau ist und was dabei zu beachten ist, habe ich bei meinen [Superfoodbrötchen](https://kochfokus.de/artikel/superfoodbroetchen-chiasamen-protein/ "Superfoodbrötchen") einmal zusammengefasst.
-Damals habe ich das Quellstück am Vorabend zubereitet und es über Nacht quellen lassen. Mittlerweile habe ich diese Verfahrensweise etwas abgeändert und und lasse das Quellstück nur eine Stunde quellen. Es hat sich herausgetellt, dass diese Quellzeit ausreicht.
+Ich verwende für den Teig zum einen kernige Haferflocken und zum anderen Leinsamen. Beide Zutaten haben die Eigenschaft, dass sie Flüssigkeiten gut aufnehmen. Aus diesem Grund braucht man hier ausreichend Flüssigkeit für den Teig. Zudem setze ich wieder einmal ein sogenanntes Quellstück für den Teig an, damit das Brot am Ende nicht zu trocken ist. Was das genau ist und was dabei zu beachten ist, habe ich bei meinen [Superfoodbrötchen](https://kochfokus.de/artikel/superfoodbroetchen-chiasamen-protein/ "Superfoodbrötchen") einmal zusammengefasst.
+Damals habe ich das Quellstück am Vorabend zubereitet und es über Nacht quellen lassen. Mittlerweile habe ich diese Verfahrensweise etwas abgeändert und und lasse das Quellstück nur eine Stunde quellen. Es hat sich herausgestellt, dass diese Quellzeit ausreicht.
 
 Des weiteren arbeite ich wieder mit Dampf beim Backen. Was man dabei genau beachten muss, habe ich bei meinem[ herzhaften Avocadobrot](https://kochfokus.de/artikel/herzhaftes-avocadobrot-mit-nuessen-von-kochfokusde/ " herzhaften Avocadobrot") genau beschrieben.
 
