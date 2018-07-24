@@ -184,7 +184,7 @@
                     },
                     {
                         "text": "Lass das Brot noch abk\u00fchlen, bevor Du es anschneidest. So k\u00f6nnen die Aromen aus der Kruste in die Krume (also das Innere des Brotes) \u00fcbergehen und Deinem Brot einen k\u00f6stlichen Geschmack verleihen.",
-                        "photo": null
+                        "photo": "haferflockenbrot-mit-knuspriger-kruste-und-fluffiger-krume_5b570a8bf2537.jpg"
                     },
                     {
                         "text": "Guten Appetit!",
