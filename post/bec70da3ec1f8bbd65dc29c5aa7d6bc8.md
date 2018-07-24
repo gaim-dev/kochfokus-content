@@ -188,7 +188,7 @@
                     },
                     {
                         "text": "Guten Appetit!",
-                        "photo": null
+                        "photo": "haferflockenbrot-mit-knuspriger-kruste-und-fluffiger-krume_5b5703b8e3176.jpg"
                     }
                 ]
             }
@@ -212,6 +212,7 @@ Des weiteren arbeite ich wieder mit Dampf beim Backen. Was man dabei genau beach
 
 Ich hoffe, Du bist neugierig auf dieses tolle Rezept.
 
+{{< photo filename="haferflockenbrot-mit-knuspriger-kruste-und-fluffiger-krume_5b57046c9a7f6.jpg" >}}
 
 ## Küchengeräte und -utensilien
 
