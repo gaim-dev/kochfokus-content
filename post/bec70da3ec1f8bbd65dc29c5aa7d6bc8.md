@@ -3,7 +3,7 @@
     "draft": true,
     "date": "2018-07-23T23:56:00+00:00",
     "title": "Haferflockenbrot mit knuspriger Kruste und fluffiger Krume",
-    "description": null,
+    "description": "Haferflocken sind nicht nur f\u00fcr ein M\u00fcsli gut. Sie eignen sich auch hervorragend, um ein k\u00f6stliches Brot zu backen. Dieses Haferflockenbrot besticht durch seine knusprige Kruste und seine herrlich fluffige Krume.",
     "featuredImage": "haferflockenbrot-mit-knuspriger-kruste-und-fluffiger-krume_5b5708d0de8d1.jpg",
     "author": "Gabi",
     "recipe": {
@@ -197,7 +197,22 @@
             "text": "Hast Du Fragen, Kritik oder Anregungen zum Rezept oder das Rezept schon ausprobiert? Dann hinterlass mir in den Kommentaren doch gerne Deine Meinung, stell Deine Fragen oder mach gerne Verbesserungsvorschl\u00e4ge. Ich freue mich auf Deinen Kommentar!",
             "photo": null
         }
-    }
+    },
+    "Tags": [
+        "brot",
+        "backen",
+        "selbstgemacht",
+        "rezept",
+        "selbstgebacken",
+        "haferflocken",
+        "krume",
+        "kruste",
+        "hee",
+        "hefeteig",
+        "trockenhefe",
+        "quellst\u00fcck",
+        "leinsamen"
+    ]
 }
 
 Im Moment hat mein Mann Urlaub und wir genießen es, ausgiebig miteinander zu frühstücken. Das ist ja auch das Schöne am Urlaub. Einfach Zeit haben, in Ruhe essen und bewusst geneißen. Wie es so ist, liebt mein Liebster selbst mein gebackenes Brot und wie es nun auch einmal so ist, kriegt er dann und wann seine Wünsche erfüllt. So kam es, dass ich neulich einfach einmal so einige Zutaten genommen habe und ohne etwas zu notieren, drauf los gebacken habe. Herausgekommen ist dabei ein köstliches Haferflockenbrot. Einfach und wieder einmal einfach gut. Zum Glück habe ich mir gemerkt, was ich alles verwendet habe, so dass ich nun ein weiteres Brotrezept für Euch habe.
