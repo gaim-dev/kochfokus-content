@@ -188,7 +188,7 @@
                     },
                     {
                         "text": "Guten Appetit!",
-                        "photo": "haferflockenbrot-mit-knuspriger-kruste-und-fluffiger-krume_5b5703b8e3176.jpg"
+                        "photo": "haferflockenbrot-mit-knuspriger-kruste-und-fluffiger-krume_5b5705910de62.jpg"
                     }
                 ]
             }
