@@ -183,7 +183,7 @@
                         "photo": null
                     },
                     {
-                        "text": "Lass das Brot noch abk\u00fchlen, bevor Du es anschneidest. So k\u00f6nnen die Aromen aus der Kruste in die Krume (also das Innere des Brotes) \u00fcbergehen und Deinem Brot einen k\u00f6stlichen Geschmack verleihen.",
+                        "text": "Lass das Brot noch abk\u00fchlen, bevor Du es anschneidest. So k\u00f6nnen die Aromen aus der Kruste in die Krume (das ist das Innere des Brotes) \u00fcbergehen und Deinem Brot einen k\u00f6stlichen Geschmack verleihen.",
                         "photo": "haferflockenbrot-mit-knuspriger-kruste-und-fluffiger-krume_5b570a8bf2537.jpg"
                     },
                     {
@@ -235,22 +235,23 @@ Ich hoffe, Du bist neugierig auf dieses tolle Rezept.
 
 ## Küchengeräte und -utensilien
 
-- Küchenwaage
-- Messbecher
+- {{< amazon title="Küchenwaage" asin="B00DZPM41U" >}}
+- {{< amazon title="Messbecher" asin="B004NSL61M" >}}
 - Schälchen
 - hohes Gefäß oder Tasse
-- Küchenmaschine mit Knetaufsatz oder Handrührgerät mit Knethaken
-- Teigschaber
+- Küchenmaschine mit Knetaufsatz oder{{< amazon title=" Handrührgerät" asin="B000IYGH28" >}} mit Knethaken
+- {{< amazon title="Teigschaber" asin="B00WJPCUA2" >}}
 - Teelöffel
+- scharfes {{< amazon title="Küchenmesser" asin="B0772WN76C" >}}
 - Frischhaltefolie
-- Geschirrtuch
+- {{< amazon title="Geschirrtuch" asin=" B014FOBIVG" >}}
 - Backofenblech
 - Backpapier
 - Backofen
 - Fettpfanne
 - Kaffeetasse
 - Kurzzeitmesser
-- Topflappen oder Backhandschuhe
+- Topflappen oder {{< amazon title="Backhandschuhe" asin="B074LCTCF8" >}}
 - Brett für das fertige Brot
 
 Viel Freude beim Nachmachen!
