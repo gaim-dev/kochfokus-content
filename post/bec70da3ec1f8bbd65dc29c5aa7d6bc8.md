@@ -223,7 +223,7 @@ Im Moment hat mein Mann Urlaub und wir genießen es, ausgiebig miteinander zu fr
 
 ## Vorbemerkungen zum Rezept
 
-Ich verwende für den Teig zum einen kernige Haferflocken und zum anderen Leinsamen. Beide Zutaten haben die Eigenschaft, dass sie Flüssigkeiten gut aufnehmen. Aus diesem Grund braucht man hier ausreichend Flüssigkeit für den Teig. Zudem setze ich wieder einmal ein sogenanntes Quellstück für den Teig an, damit das Brot am Ende nicht zu trocken ist. Was das genau ist und was dabei zu beachten ist, habe ich bei meinen [Superfoodbrötchen](https://kochfokus.de/artikel/superfoodbroetchen-chiasamen-protein/ "Superfoodbrötchen") einmal zusammengefasst.
+Ich verwende für den Teig zum einen kernige Haferflocken und zum anderen Leinsamen. Beide Zutaten haben die Eigenschaft, dass sie Flüssigkeiten gut aufnehmen. Aus diesem Grund braucht man hier ausreichend Flüssigkeit für diesen Teig. Zudem setze ich wieder einmal ein sogenanntes Quellstück für den Teig an, damit das Brot am Ende nicht zu trocken ist. Was das genau ist und was dabei zu beachten ist, habe ich bei meinen [Superfoodbrötchen](https://kochfokus.de/artikel/superfoodbroetchen-chiasamen-protein/ "Superfoodbrötchen") einmal zusammengefasst.
 Damals habe ich das Quellstück am Vorabend zubereitet und es über Nacht quellen lassen. Mittlerweile habe ich diese Verfahrensweise etwas abgeändert und und lasse das Quellstück nur eine Stunde quellen. Es hat sich herausgestellt, dass diese Quellzeit ausreicht.
 
 Des weiteren arbeite ich wieder mit Dampf beim Backen. Was man dabei genau beachten muss, habe ich bei meinem[ herzhaften Avocadobrot](https://kochfokus.de/artikel/herzhaftes-avocadobrot-mit-nuessen-von-kochfokusde/ " herzhaften Avocadobrot") genau beschrieben.
