@@ -154,8 +154,6 @@
     "Kategorien": [
         "Rezepte",
         "Brote",
-        "Geb\u00e4ck",
-        "s\u00fc\u00dfes Geb\u00e4ck",
         "Fit Food",
         "Fr\u00fchst\u00fcck"
     ]
