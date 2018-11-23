@@ -39,6 +39,12 @@
                         "unit": "ml",
                         "name": "Wasser",
                         "note": "lauwarm"
+                    },
+                    {
+                        "value": "1",
+                        "unit": "TL",
+                        "name": "Honig",
+                        "note": null
                     }
                 ]
             },
