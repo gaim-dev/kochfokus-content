@@ -86,6 +86,7 @@
         "vegan"
     ],
     "Kategorien": [
+        "Vegan",
         "Getr\u00e4nke"
     ],
     "aliases": [
