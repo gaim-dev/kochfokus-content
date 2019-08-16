@@ -155,6 +155,19 @@
                         "photo": null
                     }
                 ]
+            },
+            {
+                "name": "Biskuitteig",
+                "contents": [
+                    {
+                        "text": "Zuerst die Eier, das hei\u00dfe Wasser und den Zucker in eine R\u00fchrsch\u00fcssel geben.",
+                        "photo": null
+                    },
+                    {
+                        "text": "Danach die Speisest\u00e4rke, das Mehl, das Backpulver sowie den Backkakao in die Ei-, Zucker-, Wassermasse sieben und alles gut unterr\u00fchren.",
+                        "photo": null
+                    }
+                ]
             }
         ],
         "notes": null
