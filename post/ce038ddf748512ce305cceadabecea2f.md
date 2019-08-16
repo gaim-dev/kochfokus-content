@@ -102,7 +102,7 @@
 
 - Gefrierbeutel
 - Teigrolle
-- Sprinbackform (26 cm)
+- Springbackform (26 cm)
 - Handrührgerät mit Rührbesenaufsatz
 - Esslöffel
 - Teelöffel
