@@ -9,58 +9,6 @@
     "recipe": {
         "ingredients": [
             {
-                "name": "Keksteig",
-                "contents": [
-                    {
-                        "value": "200",
-                        "unit": "g",
-                        "name": "Vollkornbutterkekse",
-                        "note": null
-                    },
-                    {
-                        "value": "150",
-                        "unit": "g",
-                        "name": "Butter",
-                        "note": null
-                    }
-                ]
-            },
-            {
-                "name": "Biskuitteig",
-                "contents": [
-                    {
-                        "value": "3",
-                        "unit": null,
-                        "name": "Eier",
-                        "note": "Gr\u00f6\u00dfe M"
-                    },
-                    {
-                        "value": "200",
-                        "unit": "g",
-                        "name": "Mehl",
-                        "note": null
-                    },
-                    {
-                        "value": "2",
-                        "unit": "gestrichene Teel\u00f6ffel",
-                        "name": "Backpulver",
-                        "note": null
-                    },
-                    {
-                        "value": "120",
-                        "unit": "g",
-                        "name": "Zucker",
-                        "note": null
-                    },
-                    {
-                        "value": "4",
-                        "unit": "EL",
-                        "name": "Wasser",
-                        "note": "hei\u00df"
-                    }
-                ]
-            },
-            {
                 "name": "Puddingcreme",
                 "contents": [
                     {
@@ -82,20 +30,39 @@
                         "note": null
                     }
                 ]
-            },
-            {
-                "name": "Belag",
-                "contents": [
-                    {
-                        "value": null,
-                        "unit": null,
-                        "name": "fertige rote Gr\u00fctze",
-                        "note": null
-                    }
-                ]
             }
         ],
-        "steps": [],
+        "steps": [
+            {
+                "name": "Puddingcreme",
+                "contents": {
+                    "0": {
+                        "text": "Den Vanillepudding nach der Anleitung auf der Packung kochen, aber nur 350 ml Milch verwenden.",
+                        "photo": null
+                    },
+                    "1": {
+                        "text": "Den Pudding etwas abk\u00fchlen lassen und dann den Schmand unterr\u00fchren.",
+                        "photo": null
+                    },
+                    "4": {
+                        "text": "Die Butterkekse in den Gefrierbeutel geben und mit der Teigrolle fein zerbr\u00f6seln und in eine R\u00fchrsch\u00fcssel geben.",
+                        "photo": null
+                    },
+                    "5": {
+                        "text": "Die Butter im Kochtopf schmelzen.",
+                        "photo": null
+                    },
+                    "6": {
+                        "text": "Die Butter zu den Keksbr\u00f6seln geben und alles miteinander vermengen.",
+                        "photo": null
+                    },
+                    "7": {
+                        "text": "Diesen Teig in die Springform geben",
+                        "photo": null
+                    }
+                }
+            }
+        ],
         "notes": null
     }
 }
@@ -104,6 +71,7 @@
 - Teigrolle
 - Springbackform (26 cm)
 - Handrührgerät mit Rührbesenaufsatz
+- Rührschüssel
 - Esslöffel
 - Teelöffel
 - Backofen
