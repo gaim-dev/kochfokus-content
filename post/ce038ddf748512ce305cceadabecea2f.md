@@ -7,8 +7,8 @@
     "featuredImage": null,
     "author": "Gabi",
     "recipe": {
-        "ingredients": [
-            {
+        "ingredients": {
+            "0": {
                 "name": "Puddingcreme",
                 "contents": [
                     {
@@ -30,8 +30,60 @@
                         "note": null
                     }
                 ]
+            },
+            "2": {
+                "name": "Keksteig",
+                "contents": [
+                    {
+                        "value": "200",
+                        "unit": "g",
+                        "name": "Vollkornbutterkekse",
+                        "note": null
+                    },
+                    {
+                        "value": "150",
+                        "unit": "g",
+                        "name": "Butter",
+                        "note": null
+                    }
+                ]
+            },
+            "3": {
+                "name": "Biskuitteig",
+                "contents": [
+                    {
+                        "value": "2",
+                        "unit": null,
+                        "name": "Eier",
+                        "note": "Gr\u00f6\u00dfe M"
+                    },
+                    {
+                        "value": "100",
+                        "unit": "g",
+                        "name": "Mehl",
+                        "note": null
+                    },
+                    {
+                        "value": "1",
+                        "unit": "TL",
+                        "name": "Backpulver",
+                        "note": null
+                    },
+                    {
+                        "value": "100",
+                        "unit": "g",
+                        "name": "Zucker",
+                        "note": null
+                    },
+                    {
+                        "value": "2",
+                        "unit": "EL",
+                        "name": "Wasser",
+                        "note": "hei\u00df"
+                    }
+                ]
             }
-        ],
+        },
         "steps": [
             {
                 "name": "Puddingcreme",
@@ -85,3 +137,4 @@
 - Kochtopf
 - Messbecher
 - Kochlöffel
+- Sieb
