@@ -164,7 +164,32 @@
                         "photo": null
                     },
                     {
-                        "text": "Danach die Speisest\u00e4rke, das Mehl, das Backpulver sowie den Backkakao in die Ei-, Zucker-, Wassermasse sieben und alles gut unterr\u00fchren. mmmm",
+                        "text": "Danach das Mehl und das Backpulver in die Ei-, Zucker-, Wassermasse sieben und alles gut unterr\u00fchren.",
+                        "photo": null
+                    },
+                    {
+                        "text": "Jetzt den Biskuitteig gleichm\u00e4\u00dfig auf dem Keksteig verteilen.",
+                        "photo": null
+                    },
+                    {
+                        "text": "Die Springform auf den mittleren Einschub des vorgeheizten Backofens geben, den Zeitmesser auf 10 Minuten stellen und den Kuchen zun\u00e4chst so lange backen.",
+                        "photo": null
+                    }
+                ]
+            },
+            {
+                "name": "Belag",
+                "contents": [
+                    {
+                        "text": "Nach den 10 Minuten die Springbackform aus dem Backofen holen und die Puddingcreme gleichm\u00e4\u00dfig auf dem Kuchen verteilen.",
+                        "photo": null
+                    },
+                    {
+                        "text": "Nun noch die rote Gr\u00fctze \"tupfenweise\" auf der Puddingcreme verteilen und den Kuchen erneut bei 180 Grad Ober-\/Unterhitze f\u00fcr weitere 25 Minuten fertig backen.",
+                        "photo": null
+                    },
+                    {
+                        "text": "Lasst Euch den Kuchen munden!",
                         "photo": null
                     }
                 ]
@@ -185,6 +210,7 @@
 - Backofen
 - Backofenrost
 - Topflappen oder Backofenhandschuhe
+- Zeitmesser
 - Kochtopf
 - Messbecher
 - Kochlöffel
