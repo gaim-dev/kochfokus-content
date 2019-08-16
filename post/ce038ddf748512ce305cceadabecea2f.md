@@ -7,8 +7,8 @@
     "featuredImage": null,
     "author": "Gabi",
     "recipe": {
-        "ingredients": {
-            "0": {
+        "ingredients": [
+            {
                 "name": "Puddingcreme",
                 "contents": [
                     {
@@ -31,7 +31,7 @@
                     }
                 ]
             },
-            "2": {
+            {
                 "name": "Keksteig",
                 "contents": [
                     {
@@ -48,7 +48,7 @@
                     }
                 ]
             },
-            "3": {
+            {
                 "name": "Biskuitteig",
                 "contents": [
                     {
@@ -82,8 +82,36 @@
                         "note": "hei\u00df"
                     }
                 ]
+            },
+            {
+                "name": "Belag",
+                "contents": [
+                    {
+                        "value": null,
+                        "unit": null,
+                        "name": "Rote Beerengr\u00fctze",
+                        "note": "Fertigprodukt"
+                    }
+                ]
+            },
+            {
+                "name": "Backform",
+                "contents": [
+                    {
+                        "value": "etwas",
+                        "unit": null,
+                        "name": "Fett",
+                        "note": "zum Einfetten der Springbackform"
+                    },
+                    {
+                        "value": "nach Belieben",
+                        "unit": null,
+                        "name": "Semmelbr\u00f6sel",
+                        "note": "zum Ausstreuen in die Springbackform"
+                    }
+                ]
             }
-        },
+        ],
         "steps": [
             {
                 "name": "Puddingcreme",
@@ -94,6 +122,15 @@
                     },
                     {
                         "text": "Den Pudding etwas abk\u00fchlen lassen, dann den Schmand unterr\u00fchren und die Puddingcreme zun\u00e4chst beiseitestellen.",
+                        "photo": null
+                    }
+                ]
+            },
+            {
+                "name": "Backofen vorbereiten",
+                "contents": [
+                    {
+                        "text": "Den Backofen vorbereitend auf 180 Grad Ober-\/Unterhitze vorheizen.",
                         "photo": null
                     }
                 ]
@@ -118,6 +155,15 @@
                         "photo": null
                     }
                 ]
+            },
+            {
+                "name": "Biskuitteig",
+                "contents": [
+                    {
+                        "text": "Zuerst die Eier, das hei\u00dfe Wasser und den Zucker in eine R\u00fchrsch\u00fcssel geben.",
+                        "photo": null
+                    }
+                ]
             }
         ],
         "notes": null
@@ -133,6 +179,7 @@
 - Teelöffel
 - Glas
 - Backofen
+- Backofenrost
 - Topflappen oder Backofenhandschuhe
 - Kochtopf
 - Messbecher
