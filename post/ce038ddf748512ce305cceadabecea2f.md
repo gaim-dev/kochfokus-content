@@ -155,15 +155,6 @@
                         "photo": null
                     }
                 ]
-            },
-            {
-                "name": "Biskuitteig",
-                "contents": [
-                    {
-                        "text": "Zuerst die Eier, das hei\u00dfe Wasser und den Zucker in eine R\u00fchrsch\u00fcssel geben.",
-                        "photo": null
-                    }
-                ]
             }
         ],
         "notes": null
