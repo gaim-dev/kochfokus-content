@@ -127,15 +127,6 @@
                 ]
             },
             {
-                "name": "Backofen vorbereiten",
-                "contents": [
-                    {
-                        "text": "Den Backofen vorbereitend auf 180 Grad Ober-\/Unterhitze vorheizen.",
-                        "photo": null
-                    }
-                ]
-            },
-            {
                 "name": "Keksteig",
                 "contents": [
                     {
@@ -152,6 +143,15 @@
                     },
                     {
                         "text": "Diesen Teig in die Springform geben und mit Hilfe des Glasbodens gut andr\u00fccken.",
+                        "photo": null
+                    }
+                ]
+            },
+            {
+                "name": "Backofen vorbereiten",
+                "contents": [
+                    {
+                        "text": "Den Backofen vorbereitend auf 180 Grad Ober-\/Unterhitze vorheizen.",
                         "photo": null
                     }
                 ]
