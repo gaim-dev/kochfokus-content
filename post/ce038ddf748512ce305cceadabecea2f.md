@@ -1,5 +1,5 @@
 {
-    "slug": "zweilagiger-puddingkuchen-mit-roter-grutze",
+    "slug": "zweilagiger-puddingkuchen-mit-roter-gruetze",
     "draft": true,
     "date": "2019-08-16T09:14:00+00:00",
     "title": "Zweilagiger Puddingkuchen mit roter Gr\u00fctze",
