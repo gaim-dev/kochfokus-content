@@ -1,5 +1,5 @@
 {
-    "slug": "porridge-mit-apfel-pflaumen-kompott-so-einfach-bereitest-du es-zu",
+    "slug": "porridge-mit-apfel-pflaumen-kompott-so-einfach-bereitest-du-es-zu",
     "draft": true,
     "date": "2019-10-25T19:09:00+00:00",
     "title": "Porridge mit Apfel Pflaumen Kompott - so einfach bereitest Du es zu",
