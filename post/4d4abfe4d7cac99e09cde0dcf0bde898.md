@@ -9,4 +9,6 @@
     "recipe": null
 }
 
-Wenn ich morgens mit unserer Hündin Whoopie Gassi gehe, dann ist es draußen noch dunkel und auch schon recht frisch. Wir gehen entlang an Feldern und auch an unserem Wald vorbei. Bei unserer Rückkehr wird es dann etwas heller und wir sehen, den morgendlichen Nebel über die Felder ziehen. Kannst Du Dir vorstellen, wie sehr ich mich dann nach einem wärmenden Frühstück sehne
+Wenn ich morgens mit unserer Hündin Whoopie Gassi gehe, dann ist es draußen noch dunkel und auch schon recht frisch. Wir gehen entlang an Feldern und auch an unserem Wald vorbei. Bei unserer Rückkehr wird es dann etwas heller und wir sehen, den morgendlichen Nebel über die Felder ziehen. Kannst Du Dir vorstellen, wie sehr ich mich dann nach einem wärmenden Frühstück sehne?
+
+Da kommt mir ein leckeres Porridge genau richtig. Das erste Aufwärmen erledigt eine Tasse heißer Kaffee, so dass ich dann geduldig genug bin und mir nicht schnell etwas Wärmendes machen möchte, sondern mir oft auch Zeit für ein außergewöhnliches Topping nehme. Genau so habe ich es auch mit diesem leckeren Porridge mit Apfel - Pflaumenkompott gemacht.
