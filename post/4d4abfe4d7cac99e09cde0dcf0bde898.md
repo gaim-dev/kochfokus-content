@@ -15,4 +15,16 @@ Da kommt mir ein leckeres Porridge genau richtig. Das erste Aufwärmen erledigt 
 
 Bei diesem Rezept handelt es sich um ein richtig schön einfaches Rezept, bei dem Du Dich aber dennoch auf einen himmlischen Genuss freuen darfst. Einmal mehr habe ich festgestellt, dass die einfachen Dinge des Lebens schlichtweg die Besten sind.
 
-Hast Du Lust auf dieses tolle Frühstück, dass Dir jetzt die Morgen im Herbst versüßt?
+Das Schöne ist, dass es im Moment noch Pflaumen und Äpfel  im Handel gibt. Die Pflaumensaison geht ja Ende September zu Ende, aber man kriegt mitunter noch frische Früchte.
+
+Hast Du Lust auf dieses tolle Frühstück, dass Dir die dunklen und kalten Morgen im Herbst und Winter versüßt?
+
+## Küchengeräte und -utensilien
+
+- Messbecher
+- Küchenwaage
+- Rührschüssel
+- Esslöffel
+- Teelöffel
+
+Du findest mich übrigens auch auf Social Media. Hast Du schon die roten Buttons oben auf dieser Seite gesehen? Klicke sie an und folge mir auch auf Instagram, Twitter und Facebook, denn ich zeige dort Sachen, die es nicht unbedingt auf dem Blog gibt. Also, folge mir und verpasse nichts! 😉 Wenn Du dieses Rezept nachmachst, zeig mir Deine Fotos doch gerne auf Instagram unter dem Hashtag: #kochfokusde
