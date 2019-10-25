@@ -13,4 +13,4 @@ Wenn ich morgens mit unserer Hündin Whoopie Gassi gehe, dann ist es draußen no
 
 Da kommt mir ein leckeres Porridge genau richtig. Das erste Aufwärmen erledigt eine Tasse heißer Kaffee, so dass ich dann geduldig genug bin und mir nicht schnell etwas Wärmendes machen möchte, sondern mir oft auch Zeit für ein außergewöhnliches Topping nehme. Genau so habe ich es auch mit diesem leckeren Porridge mit Apfel Pflaumen Kompott gemacht.
 
-Bei diesem Rezept handelt es sich um ein richtig schön einfaches Rezept, bei dem Du Dich aber dennoch auf einen himmlischen Genuss freuen darfst.
+Bei diesem Rezept handelt es sich um ein richtig schön einfaches Rezept, bei dem Du Dich aber dennoch auf einen himmlischen Genuss freuen darfst. Einmal mehr habe ich festgestellt, dass die einfachen Dinge des Lebens schlichtweg das Beste sind.
