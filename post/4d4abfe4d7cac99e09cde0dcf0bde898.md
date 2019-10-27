@@ -171,7 +171,7 @@ Bei diesem Rezept handelt es sich um ein richtig schön einfaches Rezept, bei de
 
 Ich verwende für mein Porridge kernige Haferflocken. Wenn Du diese nicht magst, kannst Du sie natürlich auch durch zarte oder aber eine Msichung von zarten und kernigen Haferflocken ersetzen.
 
-Solltest Du Dich vegan ernähren, kannst Du die hier verwendete Vollmilch natürlich auch durch Hafer-, Mandel-, Kokosmilch oder eine andere Vegane Alternative ersetzen.
+Solltest Du Dich vegan ernähren, kannst Du die hier verwendete Vollmilch natürlich auch durch Hafer-, Mandel-, Kokosmilch oder eine andere vegane Alternative ersetzen.
 
 Da ich ein süßes Kompott auf mein Porridge gebe, verzichte auf ein Süßmittel für das Porridge. Solltest Du es lieber etwas süßer haben, gib einfach etwas Honig zu Deinem Porridge dazu. Gib es jedoch erst kurz vor Ende der Kochzeit dazu, damit die guten Nährstoffe des Honigs Dir nicht verloren gehen.
 
