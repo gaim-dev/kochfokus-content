@@ -23,8 +23,12 @@ Hast Du Lust auf dieses tolle Frühstück, dass Dir die dunklen und kalten Morge
 
 - Messbecher
 - Küchenwaage
-- Rührschüssel
 - Esslöffel
 - Teelöffel
+- Obstmesser
+- Schneidbrett
+- kleiner Kochtopf
+- Kochlöffel
+- Herd
 
 Du findest mich übrigens auch auf Social Media. Hast Du schon die roten Buttons oben auf dieser Seite gesehen? Klicke sie an und folge mir auch auf Instagram, Twitter und Facebook, denn ich zeige dort Sachen, die es nicht unbedingt auf dem Blog gibt. Also, folge mir und verpasse nichts! 😉 Wenn Du dieses Rezept nachmachst, zeig mir Deine Fotos doch gerne auf Instagram unter dem Hashtag: #kochfokusde
