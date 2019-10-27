@@ -173,7 +173,7 @@ Ich verwende für mein Porridge kernige Haferflocken. Wenn Du diese nicht magst,
 
 Solltest Du Dich vegan ernähren, kannst Du die hier verwendete Vollmilch natürlich auch durch Hafer-, Mandel-, Kokosmilch oder eine andere vegane Alternative ersetzen.
 
-Da ich ein süßes Kompott auf mein Porridge gebe, verzichte auf ein Süßmittel für das Porridge. Solltest Du es lieber etwas süßer haben, gib einfach etwas Honig zu Deinem Porridge dazu. Gib es jedoch erst kurz vor Ende der Kochzeit dazu, damit die guten Nährstoffe des Honigs Dir nicht verloren gehen.
+Da ich ein süßes Kompott auf mein Porridge gebe, verzichte auf ein Süßmittel für das Porridge. Solltest Du es lieber etwas süßer mögen, gib einfach etwas Honig zu Deinem Porridge dazu. Gib den Honig jedoch erst kurz vor Ende der Kochzeit dazu, damit die guten Nährstoffe des Honigs nicht verloren gehen.
 
 Eine kleine Bemerkung möchte ich noch zur Menge machen. Ich verwende diesmal 50 g kernige Haferflocken. Ja, es ist keine kleine Portion, aber mit dieser Menge bleibst Du garantiert bis zum Mittagessen satt. 😉
 
@@ -200,4 +200,4 @@ Hast Du Lust auf dieses tolle Frühstück, dass Dir die dunklen und kalten Morge
 Viel Spaß beim Nachkochen!
 
 
-Du findest mich übrigens auch auf Social Media. Hast Du schon die roten Buttons oben auf dieser Seite gesehen? Klicke sie an und folge mir auch auf Instagram, Twitter und Facebook, denn ich zeige dort Sachen, die es nicht unbedingt auf dem Blog gibt. Also, folge mir und verpasse nichts! 😉 Wenn Du dieses Rezept nachmachst, zeig mir Deine Fotos doch gerne auf Instagram unter dem Hashtag: #kochfokusde
+Du findest mich übrigens auch auf Social Media. Hast Du schon die roten Buttons oben auf dieser Seite gesehen? Klicke sie an und folge mir auch auf Instagram, Twitter und Facebook, denn ich zeige dort Sachen, die es nicht unbedingt auf dem Blog gibt. Also, folge mir und verpasse nichts! 😉 Wenn Du dieses Rezept nachmachst, zeig mir Deine Fotos doch gerne auf Instagram unter dem Hashtag: #kochfokusde, damit ich sie dort finde.
