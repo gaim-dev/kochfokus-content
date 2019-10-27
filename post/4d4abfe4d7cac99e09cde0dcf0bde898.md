@@ -30,6 +30,10 @@
                         "note": null
                     }
                 ]
+            },
+            {
+                "name": "Apfel Pflaumen Kompott",
+                "contents": []
             }
         ],
         "steps": [],
@@ -74,6 +78,7 @@ Hast Du Lust auf dieses tolle Frühstück, dass Dir die dunklen und kalten Morge
 - Teelöffel
 - Obstmesser
 - Schneidbrett
+- Zitruspresse
 - kleiner Kochtopf
 - Kochlöffel
 - Zitruspresse
