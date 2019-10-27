@@ -119,7 +119,7 @@
                     },
                     {
                         "text": "Den Apfel ebenso waschen, abtrocknen, das Kerngeh\u00e4use entfernen, in Spalten schneiden und auch in die Pfanne geben.",
-                        "photo": null
+                        "photo": "porridge-mit-apfel-pflaumen-kompott---so-einfach-bereitest-du-es-zu_5db5da503f78d.jpg"
                     },
                     {
                         "text": "Alles eink\u00f6cheln lassen und kurz vor Ende der Kochzeit (das ist, wenn die Fr\u00fcchte sch\u00f6n weich sind) den Zimt sowie den Honig hinzuf\u00fcgen.",
@@ -179,7 +179,7 @@ Eine kleine Bemerkung möchte ich noch zur Menge machen. Ich verwende diesmal 50
 
 Hast Du Lust auf dieses tolle Frühstück, dass Dir die dunklen und kalten Morgen im Herbst und Winter versüßt?
 
-{{< photo filename="porridge-mit-apfel-pflaumen-kompott---so-einfach-bereitest-du-es-zu_5db5d72b47cc0.jpg" >}}
+{{< photo filename="porridge-mit-apfel-pflaumen-kompott---so-einfach-bereitest-du-es-zu_5db5e38e40fb9.jpg" >}}
 
 ## Küchengeräte und -utensilien
 
