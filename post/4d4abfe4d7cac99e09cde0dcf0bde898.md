@@ -156,6 +156,7 @@
         "porridge kochen",
         "herbstrezept",
         "herbstfr\u00fchst\u00fcck",
+        "winterrezept",
         "winter fr\u00fchst\u00fcck",
         "porridge selber machen",
         "porridge zubereitung",
