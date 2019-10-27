@@ -3,7 +3,7 @@
     "draft": true,
     "date": "2019-10-25T19:09:00+00:00",
     "title": "Porridge mit Apfel Pflaumen Kompott - so einfach bereitest Du es zu",
-    "description": null,
+    "description": "Gerade jetzt im Herbst wenn es morgens noch dunkel und recht frisch ist, sorgt ein w\u00e4rmendes Fr\u00fchst\u00fcck f\u00fcr einen hervorragenden Start in den Tag. Wie Du es Dir ganz einfach zubereitest, erkl\u00e4re ich Dir Schritt f\u00fcr Schritt. Worauf wartest Du noch? Schau Dir das Rezept an!",
     "featuredImage": null,
     "author": "Gabi",
     "recipe": null
