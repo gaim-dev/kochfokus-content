@@ -84,7 +84,42 @@
                 ]
             }
         ],
-        "steps": [],
+        "steps": [
+            {
+                "name": "Porridge",
+                "contents": [
+                    {
+                        "text": "Die Milch in den Kochtopf geben, die Prise Salz hinzuf\u00fcgen und alles zum Kochen bringen.",
+                        "photo": null
+                    },
+                    {
+                        "text": "Wenn die Milch kocht, die Haferflocken hinzuf\u00fcgen und etwa 5 Minuten eink\u00f6cheln lassen. Dabei immer wieder r\u00fchren.",
+                        "photo": null
+                    }
+                ]
+            },
+            {
+                "name": "Apfel Pflaumen Kompott",
+                "contents": [
+                    {
+                        "text": "Die Orange halbieren und auspressen.",
+                        "photo": null
+                    },
+                    {
+                        "text": "Den Saft der Orange in die Pfanne geben und bei mittlerer Hitze erw\u00e4rmen.",
+                        "photo": null
+                    },
+                    {
+                        "text": "Die Pflaumen waschen, mit einem Papierk\u00fcchentuch trocknen, die Steine entfernen, die Pflaumen in Spalten schneiden und zum Orangensaft geben.",
+                        "photo": null
+                    },
+                    {
+                        "text": "Den Apfel ebenso waschen, abtrocknen, das Kerngeh\u00e4use entfernen, in Spalten schneiden und auch in die Pfanne geben.",
+                        "photo": null
+                    }
+                ]
+            }
+        ],
         "notes": null
     },
     "Tags": [
@@ -127,6 +162,7 @@ Hast Du Lust auf dieses tolle Frühstück, dass Dir die dunklen und kalten Morge
 - Obstmesser
 - Schneidbrett
 - Zitruspresse
+- Papierküchentücher
 - kleiner Kochtopf
 - Kochlöffel
 - Zitruspresse
