@@ -155,7 +155,17 @@
         "porridge zubereitung",
         "pflaumenkompott",
         "apfel",
-        "pflaumenkompott mit apfel,"
+        "pflaumenkompott mit apfel",
+        "Obst",
+        "Porridge",
+        "Fr\u00fchst\u00fcck",
+        "gesundes Fr\u00fchst\u00fcck",
+        "Haferbrei",
+        "ballaststoffreich",
+        "haferflocken",
+        "fit food",
+        "warmes fr\u00fchst\u00fcck",
+        "gesund essen"
     ],
     "Kategorien": [
         "Rezepte",
