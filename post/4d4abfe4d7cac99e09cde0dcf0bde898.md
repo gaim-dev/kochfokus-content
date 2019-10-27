@@ -161,15 +161,16 @@
     ]
 }
 
-Wenn ich morgens mit unserer Hündin Whoopie Gassi gehe, dann ist es draußen noch dunkel und auch schon recht frisch. Wir gehen entlang an Feldern und auch an unserem Wald vorbei. Bei unserer Rückkehr wird es dann etwas heller und wir sehen, den morgendlichen Nebel über die Felder ziehen. Kannst Du Dir vorstellen, wie sehr ich mich dann nach einem wärmenden Frühstück sehne?
+Wenn ich morgens mit unserer Hündin Whoopie Gassi gehe, dann ist es draußen noch dunkel und auch schon recht frisch. Wir gehen entlang an Feldern und auch an unserem Wald vorbei. Bei unserer Rückkehr wird es dann etwas heller und wir sehen, den morgendlichen Nebel über die Felder ziehen. Kannst Du Dir vorstellen, wie sehr ich mich in solchen Momenten nach einem wärmenden Frühstück sehne?
 
-Da kommt mir ein leckeres Porridge genau richtig. Das erste Aufwärmen erledigt eine Tasse heißer Kaffee, so dass ich dann geduldig genug bin und mir nicht schnell etwas Wärmendes machen möchte, sondern mir oft auch Zeit für ein außergewöhnliches Topping nehme. Genau so habe ich es auch mit diesem leckeren Porridge mit Apfel Pflaumen Kompott gemacht.
+Da kommt mir ein leckeres Porridge genau richtig. Das erste Aufwärmen erledigt eine Tasse heißer Kaffee, so dass ich in dann geduldig genug bin und mir nicht schnell ein wärmendes Porridge machen möchte, sondern mir oft auch Zeit für ein außergewöhnliches Topping nehme. Genau so habe ich es auch mit diesem leckeren Porridge mit Apfel Pflaumen Kompott gemacht.
 
 Bei diesem Rezept handelt es sich um ein richtig schön einfaches Rezept, bei dem Du Dich aber dennoch auf einen himmlischen Genuss freuen darfst. Einmal mehr habe ich festgestellt, dass die einfachen Dinge des Lebens schlichtweg die Besten sind.
 
 ## Vorbemerkungen zum Rezept
 
 Ich verwende für mein Porridge kernige Haferflocken. Wenn Du diese nicht magst, kannst Du sie natürlich auch durch zarte oder aber eine Msichung von zarten und kernigen Haferflocken ersetzen.
+
 Solltest Du Dich vegan ernähren, kannst Du die hier verwendete Vollmilch natürlich auch durch Hafer-, Mandel-, Kokosmilch oder eine andere Vegane Alternative ersetzen.
 
 Da ich ein süßes Kompott auf mein Porridge gebe, verzichte auf ein Süßmittel für das Porridge. Solltest Du es lieber etwas süßer haben, gib einfach etwas Honig zu Deinem Porridge dazu. Gib es jedoch erst kurz vor Ende der Kochzeit dazu, damit die guten Nährstoffe des Honigs Dir nicht verloren gehen.
