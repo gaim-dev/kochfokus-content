@@ -33,7 +33,55 @@
             },
             {
                 "name": "Apfel Pflaumen Kompott",
-                "contents": []
+                "contents": [
+                    {
+                        "value": "1",
+                        "unit": null,
+                        "name": "Orange",
+                        "note": null
+                    },
+                    {
+                        "value": "2",
+                        "unit": null,
+                        "name": "Pflaumen",
+                        "note": "Bio"
+                    },
+                    {
+                        "value": "1",
+                        "unit": null,
+                        "name": "Apfel",
+                        "note": "klein"
+                    },
+                    {
+                        "value": "1",
+                        "unit": "Teel\u00f6ffel",
+                        "name": "Honig",
+                        "note": null
+                    },
+                    {
+                        "value": "1",
+                        "unit": "Messerspitze",
+                        "name": "Zimt",
+                        "note": null
+                    }
+                ]
+            },
+            {
+                "name": "Topping",
+                "contents": [
+                    {
+                        "value": "Nach Belieben",
+                        "unit": null,
+                        "name": "Haselnusskerne",
+                        "note": "gehobelt"
+                    },
+                    {
+                        "value": "Nach Belieben",
+                        "unit": null,
+                        "name": "Pistazien",
+                        "note": "gehackt"
+                    }
+                ]
             }
         ],
         "steps": [],
