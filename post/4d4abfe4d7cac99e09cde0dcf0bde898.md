@@ -3,7 +3,7 @@
     "draft": true,
     "date": "2019-10-25T19:09:00+00:00",
     "title": "Porridge mit Apfel Pflaumen Kompott - so einfach bereitest Du es zu",
-    "description": "Gerade jetzt im Herbst wenn es morgens noch dunkel und recht frisch ist, sorgt ein w\u00e4rmendes Fr\u00fchst\u00fcck f\u00fcr einen hervorragenden Start in den Tag. Wie Du es Dir ganz einfach zubereitest, erkl\u00e4re ich Dir Schritt f\u00fcr Schritt. Worauf wartest Du noch? Schau Dir das Rezept an!",
+    "description": "Gerade jetzt im Herbst wenn es morgens noch dunkel und recht frisch ist, sorgt ein w\u00e4rmendes Fr\u00fchst\u00fcck f\u00fcr einen hervorragenden Start in den Tag. Wie Du es Dir ganz einfach zubereitest, erkl\u00e4re ich Dir Schritt f\u00fcr Schritt. Hast Du Lust auf dieses tolle Fr\u00fchst\u00fcck, dass Dir die dunklen und kalten Morgen im Herbst und Winter vers\u00fc\u00dft? Dann schau Dir das Rezept an!",
     "featuredImage": null,
     "author": "Gabi",
     "recipe": null,
@@ -24,7 +24,8 @@ Bei diesem Rezept handelt es sich um ein richtig schön einfaches Rezept, bei de
 
 Das Schöne ist, dass es im Moment noch Pflaumen und Äpfel  im Handel gibt. Die Pflaumensaison geht ja Ende September zu Ende, aber man kriegt mitunter noch frische Früchte.
 
-Eine kleine Bemerkung möchte ich noch zur Menge sagen. Ich verwende diesmal 50 g Haferflocken. Ja, es ist keine kleine Portion, aber mit dieser Menge bleibst Du bis zum Mittagessen satt. 😉
+Eine kleine Bemerkung möchte ich noch zur Menge machen. Ich verwende diesmal 50 g kernige Haferflocken. Ja, es ist keine kleine Portion, aber mit dieser Menge bleibst Du garantiert bis zum Mittagessen satt. 😉
+
 Hast Du Lust auf dieses tolle Frühstück, dass Dir die dunklen und kalten Morgen im Herbst und Winter versüßt?
 
 ## Küchengeräte und -utensilien
