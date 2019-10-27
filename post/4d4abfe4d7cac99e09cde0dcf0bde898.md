@@ -17,6 +17,7 @@ Bei diesem Rezept handelt es sich um ein richtig schön einfaches Rezept, bei de
 
 Das Schöne ist, dass es im Moment noch Pflaumen und Äpfel  im Handel gibt. Die Pflaumensaison geht ja Ende September zu Ende, aber man kriegt mitunter noch frische Früchte.
 
+Eine kleine Bemerkung möchte ich noch zur Menge sagen. Ich verwende diesmal 50 g Haferflocken. Ja, es ist keine kleine Portion, aber mit dieser Menge bleibst Du bis zum Mittagessen satt. 😉
 Hast Du Lust auf dieses tolle Frühstück, dass Dir die dunklen und kalten Morgen im Herbst und Winter versüßt?
 
 ## Küchengeräte und -utensilien
