@@ -35,6 +35,11 @@
         "pflaumenkompott",
         "apfel",
         "pflaumenkompott mit apfel,"
+    ],
+    "Kategorien": [
+        "Rezepte",
+        "Fr\u00fchst\u00fcck",
+        "Fit Food"
     ]
 }
 
