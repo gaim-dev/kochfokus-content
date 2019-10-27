@@ -179,6 +179,8 @@ Eine kleine Bemerkung möchte ich noch zur Menge machen. Ich verwende diesmal 50
 
 Hast Du Lust auf dieses tolle Frühstück, dass Dir die dunklen und kalten Morgen im Herbst und Winter versüßt?
 
+{{< photo filename="porridge-mit-apfel-pflaumen-kompott---so-einfach-bereitest-du-es-zu_5db5d72b47cc0.jpg" >}}
+
 ## Küchengeräte und -utensilien
 
 - Messbecher
