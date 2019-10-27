@@ -140,7 +140,7 @@
                     },
                     {
                         "text": "Guten Appetit!",
-                        "photo": null
+                        "photo": "porridge-mit-apfel-pflaumen-kompott---so-einfach-bereitest-du-es-zu_5db5d72b47cc0.jpg"
                     }
                 ]
             }
