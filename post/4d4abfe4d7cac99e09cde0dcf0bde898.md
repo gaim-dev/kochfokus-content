@@ -6,7 +6,29 @@
     "description": "Gerade jetzt im Herbst wenn es morgens noch dunkel und recht frisch ist, sorgt ein w\u00e4rmendes Fr\u00fchst\u00fcck f\u00fcr einen hervorragenden Start in den Tag. Wie Du es Dir ganz einfach zubereitest, erkl\u00e4re ich Dir Schritt f\u00fcr Schritt. Hast Du Lust auf dieses tolle Fr\u00fchst\u00fcck, dass Dir die dunklen und kalten Morgen im Herbst und Winter vers\u00fc\u00dft? Dann schau Dir das Rezept an!",
     "featuredImage": null,
     "author": "Gabi",
-    "recipe": null,
+    "recipe": {
+        "ingredients": [
+            {
+                "name": "Porridge",
+                "contents": [
+                    {
+                        "value": "50",
+                        "unit": "g",
+                        "name": "Haferflocken",
+                        "note": "kernig"
+                    },
+                    {
+                        "value": "300",
+                        "unit": "ml",
+                        "name": "Vollmilch",
+                        "note": "alternativ Hafer-, Mandel- oder Kokosmilch"
+                    }
+                ]
+            }
+        ],
+        "steps": [],
+        "notes": null
+    },
     "Tags": [
         "porridge",
         "porridge zubereitung",
@@ -22,7 +44,10 @@ Da kommt mir ein leckeres Porridge genau richtig. Das erste Aufwärmen erledigt 
 
 Bei diesem Rezept handelt es sich um ein richtig schön einfaches Rezept, bei dem Du Dich aber dennoch auf einen himmlischen Genuss freuen darfst. Einmal mehr habe ich festgestellt, dass die einfachen Dinge des Lebens schlichtweg die Besten sind.
 
-Das Schöne ist, dass es im Moment noch Pflaumen und Äpfel  im Handel gibt. Die Pflaumensaison geht ja Ende September zu Ende, aber man kriegt mitunter noch frische Früchte.
+## Vorbemerkungen zum Rezept
+
+Ich verwende für mein Porridge kernige Haferflocken. Wenn Du diese nicht magst, kannst Du sie natürlich auch durch zarte oder aber eine Msichung von zarten und kernigen Haferflocken ersetzen.
+Solltest Du Dich vegan ernähren, kannst Du die hier verwendete Vollmilch natürlich auch durch Hafer-, Mandel-, Kokosmilch oder eine andere Vegane Alternative ersetzen.
 
 Eine kleine Bemerkung möchte ich noch zur Menge machen. Ich verwende diesmal 50 g kernige Haferflocken. Ja, es ist keine kleine Portion, aber mit dieser Menge bleibst Du garantiert bis zum Mittagessen satt. 😉
 
