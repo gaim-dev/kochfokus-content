@@ -6,7 +6,14 @@
     "description": "Gerade jetzt im Herbst wenn es morgens noch dunkel und recht frisch ist, sorgt ein w\u00e4rmendes Fr\u00fchst\u00fcck f\u00fcr einen hervorragenden Start in den Tag. Wie Du es Dir ganz einfach zubereitest, erkl\u00e4re ich Dir Schritt f\u00fcr Schritt. Worauf wartest Du noch? Schau Dir das Rezept an!",
     "featuredImage": null,
     "author": "Gabi",
-    "recipe": null
+    "recipe": null,
+    "Tags": [
+        "porridge",
+        "porridge zubereitung",
+        "pflaumenkompott",
+        "apfel",
+        "pflaumenkompott mit apfel,"
+    ]
 }
 
 Wenn ich morgens mit unserer Hündin Whoopie Gassi gehe, dann ist es draußen noch dunkel und auch schon recht frisch. Wir gehen entlang an Feldern und auch an unserem Wald vorbei. Bei unserer Rückkehr wird es dann etwas heller und wir sehen, den morgendlichen Nebel über die Felder ziehen. Kannst Du Dir vorstellen, wie sehr ich mich dann nach einem wärmenden Frühstück sehne?
