@@ -95,6 +95,10 @@
                     {
                         "text": "Wenn die Milch kocht, die Haferflocken hinzuf\u00fcgen und etwa 5 Minuten eink\u00f6cheln lassen. Dabei immer wieder r\u00fchren.",
                         "photo": null
+                    },
+                    {
+                        "text": "Das fertige Porridge in eine M\u00fcslischale geben.",
+                        "photo": null
                     }
                 ]
             },
@@ -115,6 +119,27 @@
                     },
                     {
                         "text": "Den Apfel ebenso waschen, abtrocknen, das Kerngeh\u00e4use entfernen, in Spalten schneiden und auch in die Pfanne geben.",
+                        "photo": null
+                    },
+                    {
+                        "text": "Alles eink\u00f6cheln lassen und kurz vor Ende der Kochzeit (das ist, wenn die Fr\u00fcchte sch\u00f6n weich sind) den Zimt sowie den Honig hinzuf\u00fcgen.",
+                        "photo": null
+                    },
+                    {
+                        "text": "Das fertige Kompott dann auf das Porridge geben.",
+                        "photo": null
+                    }
+                ]
+            },
+            {
+                "name": "Topping",
+                "contents": [
+                    {
+                        "text": "Die gehobelten Haselnusskerne sowie die gehackten Pistazien \u00fcber das Apfel Pflaumen Kompott streuen.",
+                        "photo": null
+                    },
+                    {
+                        "text": "Guten Appetit!",
                         "photo": null
                     }
                 ]
