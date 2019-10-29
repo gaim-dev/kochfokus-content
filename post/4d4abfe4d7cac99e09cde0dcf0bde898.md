@@ -222,4 +222,4 @@ Viel Spaß beim Nachkochen!
 
 {{< photo filename="porridge-mit-apfel-pflaumen-kompott---so-einfach-bereitest-du-es-zu_5db5d4fcf00cf.jpg">}}
 
-Du findest mich übrigens auch auf Social Media. Hast Du schon die roten Buttons oben auf dieser Seite gesehen? Klicke sie an und folge mir auch auf Instagram, Twitter und Facebook, denn ich zeige dort Sachen, die es nicht unbedingt auf dem Blog gibt. Also, folge mir und verpasse nichts! 😉 Wenn Du dieses Rezept nachmachst, zeig mir Deine Fotos doch gerne auf Instagram unter dem Hashtag: #kochfokusde, damit ich sie dort finde.
+Du findest mich übrigens auch auf Social Media. Hast Du schon die roten Buttons oben auf dieser Seite gesehen? Klicke sie an und folge mir auch auf Instagram, Twitter und Facebook, denn ich zeige dort Sachen, die es nicht unbedingt auf dem Blog gibt. Also, folge mir und verpasse nichts! 😉 Wenn Du dieses Rezept nachmachst, zeig mir Deine Fotos doch gerne auf Instagram unter dem Hashtag: #kochfokusde, damit ich sie dort finde und in meiner Instagram Story teilen kann.
