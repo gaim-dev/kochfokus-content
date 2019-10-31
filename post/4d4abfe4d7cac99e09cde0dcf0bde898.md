@@ -157,6 +157,7 @@
         "herbstrezept",
         "herbstfr\u00fchst\u00fcck",
         "winterrezept",
+        "zimt",
         "winter fr\u00fchst\u00fcck",
         "porridge selber machen",
         "porridge zubereitung",
