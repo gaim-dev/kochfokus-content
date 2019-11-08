@@ -185,7 +185,7 @@ Ich hoffe, Ihr seid neugierig auf die gesunden Frühstückskekse.
 
 {{< photo filename="ausgekuehlte-gesunde-fru-hstu-ckskekse_59dfeb17e5f3c.jpg" >}}
 
-Vorab jedoch noch eine kleine Bemerkung. Ich habe in meiner Vorratsschublade noch eine angefangene Tüte Cranberries gefunden. Zu dieser gesellen sich auch noch eine angefangene Tüte blütenzarte Haferflocken sowie ein kleiner Rest Chiasamen. Da die Susanne vom Blog [magentratzerl][2] mich zu ihrem  Dauer-Blogevent zum Kochen aus dem Vorratsschrank eingeladen hat, kriegt sie von mir auf diesem Wege gleich ein paar gesunde Frühstückskekse serviert.
+Vorab jedoch noch eine kleine Bemerkung. Ich habe in meiner Vorratsschublade noch eine angefangene Tüte Cranberries gefunden. Zu dieser gesellen sich auch noch eine angefangene Tüte blütenzarte Haferflocken sowie ein kleiner Rest Chiasamen.
 
 ## Küchengeräte und -utensilien
 
@@ -206,5 +206,6 @@ Vorab jedoch noch eine kleine Bemerkung. Ich habe in meiner Vorratsschublade no
 
 Ich wünsche Euch viel Spaß beim Nachbacken!
 
+https://youtu.be/bS0prn095vI
+
  [1]: https://kochfokus.de/rezepte/fruehstuecksmuffins-mit-heidelbeeren/
- [2]: https://magentratzerl.net/schatzsuche-im-vorratsschrank-das-dauerevent/
