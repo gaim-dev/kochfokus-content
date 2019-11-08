@@ -206,6 +206,6 @@ Vorab jedoch noch eine kleine Bemerkung. Ich habe in meiner Vorratsschublade no
 
 Ich wünsche Euch viel Spaß beim Nachbacken!
 
-https://youtu.be/bS0prn095vI
+{{< youtube bS0prn095vI >}}
 
  [1]: https://kochfokus.de/rezepte/fruehstuecksmuffins-mit-heidelbeeren/
