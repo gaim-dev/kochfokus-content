@@ -242,3 +242,7 @@ Viel Freude beim Nachbacken!
 {{< photo filename="exotische-kokos-schokoladen-muffins-mit-kurkuma_5ac74e6e1a938.jpg">}}
 
 Welche Muffins magst du am liebsten?
+
+Du findest mich übrigens auch auf Social Media. Hast Du schon die roten Buttons oben auf dieser Seite gesehen? Klicke sie jetzt an und folge mir auch auf Instagram, Twitter und Facebook, denn ich zeige dort Sachen, die es nicht unbedingt auf dem Blog gibt. Also, folge mir und verpasse nichts! 😉
+
+Wenn Du dieses Rezept nachmachst, zeig mir Deine Fotos doch gerne unter dem Hashtag: #kochfokusde, damit ich sie dort finde und in meiner Instagram Story teilen kann.
