@@ -263,3 +263,7 @@ Ich hoffe, Du bist neugierig auf dieses tolle Rezept.
 Viel Freude beim Nachmachen!
 
 {{< photo filename="haferflockenbrot-mit-knuspriger-kruste-und-fluffiger-krume_5b56f74330315.jpg">}}
+
+Du findest mich übrigens auch auf Social Media. Hast Du schon die roten Buttons oben auf dieser Seite gesehen? Klicke sie jetzt an und folge mir auch auf Instagram, Twitter und Facebook, denn ich zeige dort Sachen, die es nicht unbedingt auf dem Blog gibt. Also, folge mir und verpasse nichts! 😉
+
+Wenn Du dieses Rezept nachmachst, zeig mir Deine Fotos doch gerne unter dem Hashtag: #kochfokusde, damit ich sie dort finde und in meiner Instagram Story teilen kann.
