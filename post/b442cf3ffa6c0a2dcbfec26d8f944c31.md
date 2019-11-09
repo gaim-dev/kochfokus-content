@@ -327,4 +327,8 @@ Ich wünsche Dir viel Spaß beim Nachbacken!
 
 {{< photo filename="rezept-sehr-saftiges-gemuesebrot-mit-chia-samen_5aaf9ca6bcbb1.jpg"  >}}
 
-Welches Brot isst Du am liebsten?
+Welches Brot isst Du am liebsten? Verrate es mir doch gerne in den Kommentaren!
+
+Du findest mich übrigens auch auf Social Media. Hast Du schon die roten Buttons oben auf dieser Seite gesehen? Klicke sie jetzt an und folge mir auch auf Instagram, Twitter und Facebook, denn ich zeige dort Sachen, die es nicht unbedingt auf dem Blog gibt. Also, folge mir und verpasse nichts! 😉
+
+Wenn Du dieses Rezept nachmachst, zeig mir Deine Fotos doch gerne unter dem Hashtag: #kochfokusde, damit ich sie dort finde und in meiner Instagram Story teilen kann.
