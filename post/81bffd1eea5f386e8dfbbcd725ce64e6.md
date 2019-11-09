@@ -352,3 +352,7 @@ Solltest Du irgendwelche Fragen zum Rezept oder zur Hefe haben, dann schreib mir
 
 Viel Spaß beim Nachbacken!
 {{< photo filename="heidelbeer-rosenkuchen---eine-suesse-versuchung_5af0053551da5.jpg" >}}
+
+Du findest mich übrigens auch auf Social Media. Hast Du schon die roten Buttons oben auf dieser Seite gesehen? Klicke sie jetzt an und folge mir auch auf Instagram, Twitter und Facebook, denn ich zeige dort Sachen, die es nicht unbedingt auf dem Blog gibt. Also, folge mir und verpasse nichts! 😉
+
+Wenn Du dieses Rezept nachmachst, zeig mir Deine Fotos doch gerne unter dem Hashtag: #kochfokusde, damit ich sie dort finde und in meiner Instagram Story teilen kann.
