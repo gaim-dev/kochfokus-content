@@ -58,6 +58,12 @@
                         "unit": "Essl\u00f6ffel",
                         "name": "Butter",
                         "note": "zum Einbuttern der Pf\u00e4nnchen"
+                    },
+                    {
+                        "value": "Nach Belieben",
+                        "unit": null,
+                        "name": "Puderzucker",
+                        "note": "zum Bestreuen"
                     }
                 ]
             }
