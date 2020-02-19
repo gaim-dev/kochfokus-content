@@ -78,3 +78,5 @@ Was seine Namensgebung betrifft, so sind mir zwei Varianten bekannt.
 Die erste Variante geht zurück auf den deutschen Pfannkuchen. Daher stammt dann wohl auch  die Bezeichnung *German Pancake*. Irrtümlich wurde aus *Deutsch* kurz *Dutch*.
 
 Bei der zweiten Erklärung geht man davon aus, dass niederländische Pilgerer den Dutch Baby zuerst zubereitet haben sollen.
+
+Wenn Du esganz genau wissen willst, kann ich Dir diesen Artikel aus [Wikipedia](https://en.wikipedia.org/wiki/Dutch_baby_pancake "Wikipedia") dazu als Lektüre empfehlen.
