@@ -1,6 +1,6 @@
 {
     "slug": "dutch-baby-heidelbeer-pfannkuchen-aus-dem-backofen",
-    "draft": false,
+    "draft": true,
     "date": "2020-02-19T11:23:00+00:00",
     "title": "Dutch Baby - Heidelbeer Pfannkuchen aus dem Backofen",
     "description": null,
@@ -67,3 +67,9 @@
     }
 }
 
+Magst Du Pancakes oder auch Eierkuchen gerne? Dann habe ich heute genau das Richtige für Dich. Ich habe ein ganz tolles Rezept dieses super leckeren klassisch amerikanischen Frühstücks.
+Was aber ist ein *Dutch Baby Pancake* eigentlich?
+
+**Ursprung des Dutch Baby**
+
+Der Dutch Baby Pancake wird manchmal auch *German Pancake* oder aber ein Bismarck genannt.
