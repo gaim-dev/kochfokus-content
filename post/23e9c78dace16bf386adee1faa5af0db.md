@@ -76,7 +76,7 @@
 Magst Du Pancakes oder auch Eierkuchen gerne? Dann habe ich heute genau das Richtige für Dich. Ich habe ein ganz tolles Rezept dieses super leckeren klassisch amerikanischen Frühstücks.
 Was aber ist ein *Dutch Baby Pancake* eigentlich?
 
-**Ursprung des Dutch Baby**
+## Ursprung des Dutch Baby
 
 Der Dutch Baby Pancake wird manchmal auch *German Pancake* oder aber ein Bismarck genannt. Er wird allerdings ganz anders zubereitet als der Pancake. Letzterer wird in einer Pfanne auf dem Herd zubereitet. Der Dutch Baby wird jedoch im Backofen gebacken. Er ist in der Regel auch dicker als der Pfannen Pancake.
 
@@ -94,4 +94,8 @@ Das ist doch etwas, oder? 😉
 
 ## Vorbemerkungen zum Rezept
 
-Ich weiche mit meinem Rezept wieder ein wenig von den Original Rezepten b. Zum einen verwende ich nicht nur Mehl, sondern Dinkel- und Kokosmehl. Letzteres hat den Vorteil, dass es dem Teig etwas Süße verleiht. Allerdings wird der Teig dadurch auch etwas dicker, denn Kokosmehl bindet Flüssigkeit sehr gut. Weitere Eigenschaften von Kokosmehl und, wie Du es am besten verwendest, habe ich in dem Artikel [Ist Kokosmehl wirklich gesund? ](https://kochfokus.de/artikel/ist-kokosmehl-wirklich-gesund/ "Ist Kokosmehl wirklich gesund? ")für Dich zusammengefasst.
+Ich weiche mit meinem Rezept wieder ein wenig von den Original Rezepten ab. Zum einen verwende ich nicht nur Mehl, sondern Dinkel- und Kokosmehl. Letzteres hat den Vorteil, dass es dem Teig etwas Süße verleiht. Allerdings wird der Teig dadurch auch etwas dicker, denn Kokosmehl bindet Flüssigkeit sehr gut. Weitere Eigenschaften von Kokosmehl und, wie Du es am besten verwendest, habe ich in dem Artikel [Ist Kokosmehl wirklich gesund? ](https://kochfokus.de/artikel/ist-kokosmehl-wirklich-gesund/ "Ist Kokosmehl wirklich gesund? ")für Dich zusammengefasst.
+
+Zum anderen hebe ich meine Lieblingsbeeren, nämlich Blaubeeren, unter Teig.
+
+Für die Teigmenge empfehle ich zwei kleine ofenfeste Pfännchen zu verwenden, denn die Menge ergibt gut 2 Portionen. Auf die Art kannst Du dieses köstliche Frühstück entweder mit jemandem teilen oder aber zweimal genießen.
