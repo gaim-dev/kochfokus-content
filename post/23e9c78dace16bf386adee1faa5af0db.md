@@ -72,4 +72,9 @@ Was aber ist ein *Dutch Baby Pancake* eigentlich?
 
 **Ursprung des Dutch Baby**
 
-Der Dutch Baby Pancake wird manchmal auch *German Pancake* oder aber ein Bismarck genannt.
+Der Dutch Baby Pancake wird manchmal auch *German Pancake* oder aber ein Bismarck genannt. Er wird allerdings ganz anders zubereitet als der Pancake. Letzterer wird in einer Pfanne auf dem Herd zubereitet. Der Dutch Baby wird jedoch im Backofen gebacken. Er ist in der Regel auch dicker als der Pfannen Pancake.
+
+Was seine Namensgebung betrifft, so sind mir zwei Varianten bekannt. 
+Die erste Variante geht zurück auf den deutschen Pfannkuchen. Daher stammt dann wohl auch  die Bezeichnung *German Pancake*. Irrtümlich wurde aus *Deutsch* kurz *Dutch*.
+
+Bei der zweiten Erklärung geht man davon aus, dass niederländische Pilgerer den Dutch Baby zuerst zubereitet haben sollen.
