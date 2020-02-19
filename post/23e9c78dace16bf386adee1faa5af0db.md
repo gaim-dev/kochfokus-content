@@ -64,6 +64,12 @@
                         "unit": null,
                         "name": "Puderzucker",
                         "note": "zum Bestreuen"
+                    },
+                    {
+                        "value": "Nach Belieben",
+                        "unit": null,
+                        "name": "Honig",
+                        "note": "alternativ oder zus\u00e4tzlich zum Puderzucker"
                     }
                 ]
             }
