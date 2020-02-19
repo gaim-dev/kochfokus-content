@@ -85,6 +85,13 @@ Die erste Variante geht zurück auf den deutschen Pfannkuchen. Daher stammt dann
 
 Bei der zweiten Erklärung geht man davon aus, dass niederländische Pilgerer den Dutch Baby zuerst zubereitet haben sollen.
 
-Wenn Du esganz genau wissen willst, kann ich Dir diesen Artikel aus [Wikipedia](https://en.wikipedia.org/wiki/Dutch_baby_pancake "Wikipedia") dazu als Lektüre empfehlen.
+Wenn Du es ganz genau wissen willst, kann ich Dir diesen Artikel aus [Wikipedia](https://en.wikipedia.org/wiki/Dutch_baby_pancake "Wikipedia") dazu als Lektüre empfehlen.
+
+Weißt Du, was das Tolle am Dutch Baby ist?
+
+Du kannst ihn Dir auch unter der Woche zubereiten, selbst wenn Du morgens nicht viel Zeit hast. Alles, was Du brauchst, ist Zeit zum Genießen. Wie das geht? Ganz einfach! Du breitest Deinen Dutch Baby Pancake Teig nach den Anleitungen in diesem Rezept zu, bevor Du morgens duscht. In der Zeit, in der Du unter Deiner Dusche stehst, backt der Dutch Baby im Backofen und Du kommst aus dem Bad und kannst ein richtig tolles Frühstück genießen.
+Das ist doch etwas, oder? 😉
 
 ## Vorbemerkungen zum Rezept
+
+Ich weiche mit meinem Rezept wieder ein wenig von den Original Rezepten b. Zum einen verwende ich nicht nur Mehl, sondern Dinkel- und Kokosmehl. Letzteres hat den Vorteil, dass es dem Teig etwas Süße verleiht. Allerdings wird der Teig dadurch auch etwas dicker, denn Kokosmehl bindet Flüssigkeit sehr gut. Weitere Eigenschaften von Kokosmehl und, wie Du es am besten verwendest, habe ich in dem Artikel [https://kochfokus.de/artikel/ist-kokosmehl-wirklich-gesund/](https://kochfokus.de/artikel/ist-kokosmehl-wirklich-gesund/) für Dich zusammengefasst.
