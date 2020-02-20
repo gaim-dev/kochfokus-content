@@ -122,6 +122,17 @@ Hast Du  Lust auch dieses einfache, aber doch sehr köstliche Frühstück?
 - Backrost
 - Backhandschuhe oder Topflappen
 - 2 {{< amazon title="Gusseisen Grillpfannen " asin="B07PVP7PZK" >}}(ofenfest)
+- Zeitmesser
+- Holzbrett für die heißen Pfännchen
+- kleines Sieb
+- Schneebesen
+
+Viel Spaß beim Nachbacken!
+
+Du findest mich übrigens auch auf Social Media. Hast Du schon die roten Buttons oben auf dieser Seite gesehen? Klicke sie an und folge mir auch auf Instagram, Twitter und Facebook, denn ich zeige dort Sachen, die es nicht unbedingt auf dem Blog gibt. Also, folge mir und verpasse nichts! 😉
+
+Wenn Du dieses Rezept nachmachst, zeig mir Deine Fotos doch gerne auf Instagram unter dem Hashtag: #kochfokusde, damit ich sie dort finde und in meiner Instagram Story teilen kann.
 
 
+## Erklärung zu den Affiliate Links
 Da mich neulich jemand gefragt hat, ob man auf meiner Seite nicht in eine Kostenfalle gerät, wenn man auf die "roten Begriffe" meiner Liste der Küchengeräte und -utensilien klickt, möchte ich Dir bei dieser Gelegenheit einmal die sogenannten *Affiliate Links* erklären. Ich nehme am Partner Programm von Amazon teil. Diese Links werden bei mir mit der grünen Raute gekennzeichnet. Wenn Du auf diese Links klickst, musst Du **NICHTS** bezahlen. Dafür wirst Du direkt zu einem Produkt weitergeleitet. Du bestellst auch **NICHT** gleich etwas, sondern kannst Dir meine Empfehlung ansehen und dann entscheidest Du, ob Du das Produkt bestellen möchtest oder nicht. Das Ganze ist also ganz einfach und risikolos für Dich. Es hat aber den Vorteil, das ich Dir genau zeigen kann, welche Größe die von mir in den jeweiligen Rezepten verwendeten Küchengeräte haben und ich muss nicht unendlich lange Beschreibungen zu den Küchengeräten geben. Solltest Du etwas bestellen, erhalte ich einen kleinen Geldbetrag und kann meinereits wieder in neue Geräte für meine Rezepte investieren und Dir meine Rezepte weiterhin kostenlos zur Verfügung stellen.
