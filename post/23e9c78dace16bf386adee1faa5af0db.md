@@ -69,7 +69,7 @@
                         "value": "Nach Belieben",
                         "unit": null,
                         "name": "Honig",
-                        "note": "alternativ oder zus\u00e4tzlich zum Puderzucker"
+                        "note": "falls Du es s\u00fc\u00dfer magst"
                     }
                 ]
             }
