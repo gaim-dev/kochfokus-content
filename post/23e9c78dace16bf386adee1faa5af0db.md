@@ -112,4 +112,4 @@ Ich hoffe, Du hast Lust auch dieses einfache, aber doch sehr köstliche Frühst�
 
 ## Küchengeräte und -utensilien
 
-- 2 {{< amazon title="Gusseisen Grillpfannen" asin="B07MCJ7VRH" >}} (ofenfest)
+- 2 {{< amazon title="Gusseisen Grillpfannen " asin="B07PVP7PZK" >}}(ofenfest)
