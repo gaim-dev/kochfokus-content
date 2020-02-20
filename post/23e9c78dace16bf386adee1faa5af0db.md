@@ -114,18 +114,19 @@ Hast Du  Lust auch dieses einfache, aber doch sehr köstliche Frühstück?
 
 ## Küchengeräte und -utensilien
 
-- Küchenwaage
+- {{< amazon title="Küchenwaage" asin="B00DZPM41U" >}}
 - 2 mittelgroße Schüsseln
+- {{< amazon title="Messbecher" asin="B004NSL61M" >}}
 - Esslöffel
 - Teelöffel
 - Backofen
 - Backrost
-- Backhandschuhe oder Topflappen
+- {{< amazon title="Backhandschuhe" asin="B074LCTCF8" >}} oder Topflappen
 - 2 {{< amazon title="Gusseisen Grillpfannen " asin="B07PVP7PZK" >}}(ofenfest)
 - Zeitmesser
-- Holzbrett für die heißen Pfännchen
-- kleines Sieb
-- Schneebesen
+- {{< amazon title="Holzbrett" asin="B01IDA4QH6" >}} für die heißen Pfännchen
+- kleines {{< amazon title="Sieb" asin="B074SGQGSW" >}}
+- {{< amazon title="Schneebesen" asin="B00008XWY7" >}}
 
 Viel Spaß beim Nachbacken!
 
