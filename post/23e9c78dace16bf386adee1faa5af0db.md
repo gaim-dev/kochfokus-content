@@ -124,7 +124,7 @@ Hast Du  Lust auch dieses einfache, aber doch sehr köstliche Frühstück?
 - {{< amazon title="Backhandschuhe" asin="B074LCTCF8" >}} oder Topflappen
 - 2 {{< amazon title="Gusseisen Grillpfannen " asin="B07PVP7PZK" >}}(ofenfest)
 - Zeitmesser
-- {{< amazon title="Holzbrett" asin="B01IDA4QH6" >}} für die heißen Pfännchen
+-  {{< amazon title="Holzbrett" asin="B00171Q7OO" >}} für die heißen Pfännchen
 - kleines {{< amazon title="Sieb" asin="B074SGQGSW" >}}
 - {{< amazon title="Schneebesen" asin="B00008XWY7" >}}
 
