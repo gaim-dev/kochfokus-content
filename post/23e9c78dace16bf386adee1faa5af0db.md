@@ -108,8 +108,20 @@ Für diese Teigmenge empfehle ich zwei kleine ofenfeste Pfännchen zu verwenden,
 
 Ich verwende bei diesem Rezept keinen Zucker. Am Ende werden die Dutch Babies jedoch mit etwas Puderzucker bestäubt. Wem das nicht süß genug ist, der kann dem Teig nach Geschmack Honig oder aber ein anderes Süßmittel hinzufügen.
 
-Ich hoffe, Du hast Lust auch dieses einfache, aber doch sehr köstliche Frühstück.
+Die gusseisernen Grillpfannen, die ich verwende, sind bereits eingebrannt. Ich verlinke sie Dir unter den Küchengeräten.
+
+Hast Du  Lust auch dieses einfache, aber doch sehr köstliche Frühstück?
 
 ## Küchengeräte und -utensilien
 
+- Küchenwaage
+- 2 mittelgroße Schüsseln
+- Esslöffel
+- Teelöffel
+- Backofen
+- Backrost
+- Backhandschuhe oder Topflappen
 - 2 {{< amazon title="Gusseisen Grillpfannen " asin="B07PVP7PZK" >}}(ofenfest)
+
+
+Da mich neulich jemand gefragt hat, ob man auf meiner Seite nicht in eine Kostenfalle gerät, wenn man auf die "roten Begriffe" meiner Liste der Küchengeräte und -utensilien klickt, möchte ich Dir bei dieser Gelegenheit einmal die sogenannten *Affiliate Links* erklären. Ich nehme am Partner Programm von Amazon teil. Diese Links werden bei mir mit der grünen Raute gekennzeichnet. Wenn Du auf diese Links klickst, musst Du **NICHTS** bezahlen. Dafür wirst Du direkt zu einem Produkt weitergeleitet. Du bestellst auch **NICHT** gleich etwas, sondern kannst Dir meine Empfehlung ansehen und dann entscheidest Du, ob Du das Produkt bestellen möchtest oder nicht. Das Ganze ist also ganz einfach und risikolos für Dich. Es hat aber den Vorteil, das ich Dir genau zeigen kann, welche Größe die von mir in den jeweiligen Rezepten verwendeten Küchengeräte haben und ich muss nicht unendlich lange Beschreibungen zu den Küchengeräten geben. Solltest Du etwas bestellen, erhalte ich einen kleinen Geldbetrag und kann meinereits wieder in neue Geräte für meine Rezepte investieren und Dir meine Rezepte weiterhin kostenlos zur Verfügung stellen.
