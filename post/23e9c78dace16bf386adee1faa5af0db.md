@@ -63,7 +63,7 @@
                         "value": "Nach Belieben",
                         "unit": null,
                         "name": "Puderzucker",
-                        "note": "zum Bestreuen"
+                        "note": "zum Best\u00e4uben"
                     },
                     {
                         "value": "Nach Belieben",
@@ -104,4 +104,8 @@ Ich weiche mit meinem Rezept wieder ein wenig von den Original Rezepten ab. Zum 
 
 Zum anderen hebe ich meine Lieblingsbeeren, nämlich Blaubeeren, unter Teig.
 
-Für die Teigmenge empfehle ich zwei kleine ofenfeste Pfännchen zu verwenden, denn die Menge ergibt gut 2 Portionen. Auf die Art kannst Du dieses köstliche Frühstück entweder mit jemandem teilen oder aber zweimal genießen.
+Für diese Teigmenge empfehle ich zwei kleine ofenfeste Pfännchen zu verwenden, denn die Menge ergibt gut 2 Portionen. Auf die Art kannst Du dieses köstliche Frühstück entweder mit jemandem teilen oder aber zweimal genießen.
+
+Ich verwende bei diesem Rezept keinen Zucker. Am Ende werden die Dutch Babies jedoch mit etwas Puderzucker bestäubt. Wem das nicht süß genug ist, der kann dem Teig nach Geschmack Honig oder aber ein anderes Süßmittel hinzufügen.
+
+Ich hoffe, Du hast Lust auch dieses einfache, aber doch sehr köstliche Frühstück.
