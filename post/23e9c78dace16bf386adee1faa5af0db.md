@@ -83,6 +83,10 @@
                         "photo": null
                     },
                     {
+                        "text": "Au\u00dferdem die Heidelbeeren waschen und \u00fcber dem Sieb abtropfen lassen.",
+                        "photo": null
+                    },
+                    {
                         "text": "Zuerst die Milch und die Eier in ein hohes Gef\u00e4\u00df geben und die Eier mit dem Schneebesen kurz aufschlagen.",
                         "photo": null
                     },
@@ -164,6 +168,7 @@ Hast Du  Lust auch dieses einfache, aber doch sehr köstliche Frühstück?
 - mittelgroße Schüsseln
 - hohes Gefäß
 - {{< amazon title="Messbecher" asin="B004NSL61M" >}}
+- Sieb
 - Esslöffel
 - Teelöffel
 - Backofen
