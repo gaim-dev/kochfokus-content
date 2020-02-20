@@ -88,7 +88,7 @@
                     },
                     {
                         "text": "Zuerst die Milch und die Eier in ein hohes Gef\u00e4\u00df geben und die Eier mit dem Schneebesen kurz aufschlagen.",
-                        "photo": null
+                        "photo": "dutch-baby---heidelbeer-pfannkuchen-aus-dem-backofen_5e4ee39430d12.jpg"
                     },
                     {
                         "text": "Die trockenen Zutaten in eine Sch\u00fcssel geben und alles miteinander vermengen.",
