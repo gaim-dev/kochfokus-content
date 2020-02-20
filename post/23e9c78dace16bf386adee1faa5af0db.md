@@ -87,7 +87,31 @@
                         "photo": null
                     },
                     {
-                        "text": "Die trockenen Zutaten in eine",
+                        "text": "Die trockenen Zutaten in eine Sch\u00fcssel geben und miteinander vermengen.",
+                        "photo": null
+                    },
+                    {
+                        "text": "Dann die Eier-Milchmischung zu den trockenen Zutaten hinzuf\u00fcgen und verr\u00fchren.",
+                        "photo": null
+                    },
+                    {
+                        "text": "Wenn der Backofen 215 Grad erreicht hat, die P\u00e4nnchen rausholen. ABER ACHTUNG: Die Pfannen sind hei\u00df! Bitte Topflappen oder Backofenhandschuhe benutzen!",
+                        "photo": null
+                    },
+                    {
+                        "text": "Die Butter in die hei\u00dfen Pf\u00e4nnchen geben.",
+                        "photo": null
+                    },
+                    {
+                        "text": "Dann den Teig auf die Pf\u00e4nnchen verteilen und die Pf\u00e4nnchen wieder in den Backofen geben  und etwa 20 Minuten backen.",
+                        "photo": null
+                    },
+                    {
+                        "text": "Nach 20 Minuten pr\u00fcfen, ob die Dutch Baby Pancakes gut sind.",
+                        "photo": null
+                    },
+                    {
+                        "text": "Guten Appetit!",
                         "photo": null
                     }
                 ]
