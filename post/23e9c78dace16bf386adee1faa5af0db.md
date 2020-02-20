@@ -95,6 +95,10 @@
                         "photo": null
                     },
                     {
+                        "text": "Die Heidelbeeren nun noch unter den Teig heben. Tipp: Leg einige ruhig auf denTeig.",
+                        "photo": null
+                    },
+                    {
                         "text": "Wenn der Backofen 215 Grad erreicht hat, die P\u00e4nnchen rausholen. ABER ACHTUNG: Die Pfannen sind hei\u00df! Bitte Topflappen oder Backofenhandschuhe benutzen!",
                         "photo": null
                     },
