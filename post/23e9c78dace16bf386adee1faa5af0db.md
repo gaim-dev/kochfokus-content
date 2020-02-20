@@ -74,7 +74,25 @@
                 ]
             }
         ],
-        "steps": [],
+        "steps": [
+            {
+                "name": null,
+                "contents": [
+                    {
+                        "text": "Vorbereitend den Backofen auf 215 Grad Ober-\/Unterhitze vorheizen und die ofenfesten Pf\u00e4nnchen auf den Backrost stellen.",
+                        "photo": null
+                    },
+                    {
+                        "text": "Zuerst die Milch und die Eier in ein hohes Gef\u00e4\u00df geben und die Eier mit dem Schneebesen kurz aufschlagen.",
+                        "photo": null
+                    },
+                    {
+                        "text": "Die trockenen Zutaten in eine",
+                        "photo": null
+                    }
+                ]
+            }
+        ],
         "notes": null
     }
 }
@@ -115,7 +133,8 @@ Hast Du  Lust auch dieses einfache, aber doch sehr köstliche Frühstück?
 ## Küchengeräte und -utensilien
 
 - {{< amazon title="Küchenwaage" asin="B00DZPM41U" >}}
-- 2 mittelgroße Schüsseln
+- mittelgroße Schüsseln
+- hohes Gefäß
 - {{< amazon title="Messbecher" asin="B004NSL61M" >}}
 - Esslöffel
 - Teelöffel
@@ -123,6 +142,7 @@ Hast Du  Lust auch dieses einfache, aber doch sehr köstliche Frühstück?
 - Backrost
 - {{< amazon title="Backhandschuhe" asin="B074LCTCF8" >}} oder Topflappen
 - 2 {{< amazon title="Gusseisen Grillpfannen " asin="B07PVP7PZK" >}}(ofenfest)
+- Backrost
 - Zeitmesser
 -  {{< amazon title="Holzbrett" asin="B00171Q7OO" >}} für die heißen Pfännchen
 - kleines {{< amazon title="Sieb" asin="B07XGM67VT" >}}
