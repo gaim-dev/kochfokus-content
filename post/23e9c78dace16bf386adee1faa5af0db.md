@@ -119,6 +119,10 @@
                         "photo": null
                     },
                     {
+                        "text": "Die Pf\u00e4nnchen wieder aus dem Backofen holen und nach Belieben mit Puderzucker best\u00e4uben.",
+                        "photo": null
+                    },
+                    {
                         "text": "Guten Appetit!",
                         "photo": null
                     }
