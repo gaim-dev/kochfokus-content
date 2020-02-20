@@ -100,7 +100,7 @@
                     },
                     {
                         "text": "Die Heidelbeeren nun noch unter den Teig heben. Tipp: Leg einige ruhig auf denTeig.",
-                        "photo": null
+                        "photo": "dutch-baby---heidelbeer-pfannkuchen-aus-dem-backofen_5e4edf3587905.jpg"
                     },
                     {
                         "text": "Wenn der Backofen 215 Grad erreicht hat, die P\u00e4nnchen rausholen. ABER ACHTUNG: Die Pfannen sind hei\u00df! Bitte Topflappen oder Backofenhandschuhe benutzen!",
