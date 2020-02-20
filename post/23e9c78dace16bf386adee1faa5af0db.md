@@ -125,7 +125,7 @@ Hast Du  Lust auch dieses einfache, aber doch sehr köstliche Frühstück?
 - 2 {{< amazon title="Gusseisen Grillpfannen " asin="B07PVP7PZK" >}}(ofenfest)
 - Zeitmesser
 -  {{< amazon title="Holzbrett" asin="B00171Q7OO" >}} für die heißen Pfännchen
-- kleines {{< amazon title="Sieb" asin="B074SGQGSW" >}}
+- kleines {{< amazon title="Sieb" asin="B07XGM67VT" >}}
 - {{< amazon title="Schneebesen" asin="B00008XWY7" >}}
 
 Viel Spaß beim Nachbacken!
