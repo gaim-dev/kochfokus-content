@@ -109,3 +109,5 @@ Für diese Teigmenge empfehle ich zwei kleine ofenfeste Pfännchen zu verwenden,
 Ich verwende bei diesem Rezept keinen Zucker. Am Ende werden die Dutch Babies jedoch mit etwas Puderzucker bestäubt. Wem das nicht süß genug ist, der kann dem Teig nach Geschmack Honig oder aber ein anderes Süßmittel hinzufügen.
 
 Ich hoffe, Du hast Lust auch dieses einfache, aber doch sehr köstliche Frühstück.
+
+## Küchengeräte und -utensilien
