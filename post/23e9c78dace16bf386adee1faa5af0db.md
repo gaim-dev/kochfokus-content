@@ -92,7 +92,7 @@
                     },
                     {
                         "text": "Die trockenen Zutaten in eine Sch\u00fcssel geben und alles miteinander vermengen.",
-                        "photo": null
+                        "photo": "dutch-baby---heidelbeer-pfannkuchen-aus-dem-backofen_5e4ee7664dd65.jpg"
                     },
                     {
                         "text": "Dann die Eier-Milchmischung zu den trockenen Zutaten hinzuf\u00fcgen und alles verr\u00fchren.",
