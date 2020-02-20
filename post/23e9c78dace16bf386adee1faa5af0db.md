@@ -87,11 +87,11 @@
                         "photo": null
                     },
                     {
-                        "text": "Die trockenen Zutaten in eine Sch\u00fcssel geben und miteinander vermengen.",
+                        "text": "Die trockenen Zutaten in eine Sch\u00fcssel geben und alles miteinander vermengen.",
                         "photo": null
                     },
                     {
-                        "text": "Dann die Eier-Milchmischung zu den trockenen Zutaten hinzuf\u00fcgen und verr\u00fchren.",
+                        "text": "Dann die Eier-Milchmischung zu den trockenen Zutaten hinzuf\u00fcgen und alles verr\u00fchren.",
                         "photo": null
                     },
                     {
