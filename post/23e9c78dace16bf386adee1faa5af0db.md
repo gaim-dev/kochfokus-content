@@ -112,7 +112,7 @@
                     },
                     {
                         "text": "Dann den Teig auf die Pf\u00e4nnchen verteilen und die Pf\u00e4nnchen wieder in den Backofen geben  und etwa 20 Minuten backen.",
-                        "photo": null
+                        "photo": "dutch-baby---heidelbeer-pfannkuchen-aus-dem-backofen_5e4ee95258005.jpg"
                     },
                     {
                         "text": "Nach 20 Minuten pr\u00fcfen, ob die Dutch Baby Pancakes gut sind.",
