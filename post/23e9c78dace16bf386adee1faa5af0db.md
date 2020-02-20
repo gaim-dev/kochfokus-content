@@ -111,3 +111,5 @@ Ich verwende bei diesem Rezept keinen Zucker. Am Ende werden die Dutch Babies je
 Ich hoffe, Du hast Lust auch dieses einfache, aber doch sehr köstliche Frühstück.
 
 ## Küchengeräte und -utensilien
+
+- 2 {{< amazon title="Gusseisen Grillpfannen" asin="B07MCJ7VRH" >}} (ofenfest)
