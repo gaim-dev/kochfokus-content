@@ -173,7 +173,7 @@ Die erste Variante geht zurück auf den deutschen Pfannkuchen. Daher stammt dann
 
 Bei der zweiten Erklärung geht man davon aus, dass niederländische Pilgerer den Dutch Baby zuerst zubereitet haben sollen.
 
-Man kann einen Dutch Pancake eigentlich zu jeder Gelegeheit essn. Er ist natürlich ein köstliches Frühstück, aber wird auch als Dessert verspeist oder aber schlicht als super leckerer Begleiter zum Nachmittagskaffee.
+Man kann einen Dutch Pancake eigentlich zu jeder Gelegeheit essen. Er ist natürlich ein köstliches Frühstück, aber wird auch als Dessert verspeist oder aber schlicht als super leckerer Begleiter zum Nachmittagskaffee.
 
 Wenn Du es ganz genau wissen willst, kann ich Dir diesen Artikel aus [Wikipedia](https://en.wikipedia.org/wiki/Dutch_baby_pancake "Wikipedia") dazu als Lektüre empfehlen.
 
