@@ -142,7 +142,7 @@
         "dutch baby pfanne",
         "dutch baby rezept",
         "pfannkuchen",
-        "pfannkuchenteig",
+        "eierkuchenpfannkuchenteig",
         "",
         "pancake",
         "pancake rezept",
