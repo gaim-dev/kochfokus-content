@@ -150,6 +150,11 @@
         "blaubeer pfannkuchen",
         "heidelbeeren",
         "pfannkuchen mit heidelbeeren,"
+    ],
+    "Kategorien": [
+        "Rezepte",
+        "Fr\u00fchst\u00fcck",
+        "Dessert"
     ]
 }
 
