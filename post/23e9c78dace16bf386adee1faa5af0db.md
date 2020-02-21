@@ -1,7 +1,7 @@
 {
     "slug": "dutch-baby-heidelbeer-pfannkuchen-aus-dem-backofen",
     "draft": true,
-    "date": "2020-02-19T11:23:00+00:00",
+    "date": "2020-02-21T15:38:00+00:00",
     "title": "Dutch Baby - Heidelbeer Pfannkuchen aus dem Backofen",
     "description": "Achtung! Bei diesem Fr\u00fchst\u00fcck besteht Suchtgefahr! Diesen leckeren Pancake aus dem Backofen kannst und wirst Du Dir morgens gerne und oft zubereiten, selbst wenn es zeitlich eng ist.",
     "featuredImage": "dutch-baby---heidelbeer-pfannkuchen-aus-dem-backofen_5e4fe72419efe.jpg",
@@ -173,7 +173,7 @@ Die erste Variante geht zurück auf den deutschen Pfannkuchen. Daher stammt dann
 
 Bei der zweiten Erklärung geht man davon aus, dass niederländische Pilgerer den Dutch Baby zuerst zubereitet haben sollen.
 
-Man kann einen Dutch Pancake eigentlich zu jeder Gelegeheit essen. Er ist natürlich ein köstliches Frühstück, aber wird auch als Dessert verspeist oder aber schlicht als super leckerer Begleiter zum Nachmittagskaffee.
+Man kann einen Dutch Pancake eigentlich zu jeder Gelegeheit essen. Er ist natürlich ein köstliches Frühstück, aber wird auch als Dessert gegessen oder aber ist ein super leckerer Begleiter zum Nachmittagskaffee.
 
 Wenn Du es ganz genau wissen willst, kann ich Dir diesen Artikel aus [Wikipedia](https://en.wikipedia.org/wiki/Dutch_baby_pancake "Wikipedia") dazu als Lektüre empfehlen.
 
