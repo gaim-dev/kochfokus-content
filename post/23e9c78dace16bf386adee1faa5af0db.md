@@ -150,7 +150,8 @@
         "blaubeer pfannkuchen",
         "heidelbeeren",
         "pfannkuchen mit heidelbeeren",
-        "pancake teig"
+        "pancake teig. pancakes mit heidelbeeren",
+        "blaubeer pancakes"
     ],
     "Kategorien": [
         "Rezepte",
