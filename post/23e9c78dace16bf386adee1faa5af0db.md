@@ -142,14 +142,15 @@
         "dutch baby pfanne",
         "dutch baby rezept",
         "pfannkuchen",
-        "eierkuchenpfannkuchenteig",
-        "",
+        "eierkuchen",
+        "pfannkuchenteig",
         "pancake",
         "pancake rezept",
         "german pancake",
         "blaubeer pfannkuchen",
         "heidelbeeren",
-        "pfannkuchen mit heidelbeeren,"
+        "pfannkuchen mit heidelbeeren",
+        "pancake teig"
     ],
     "Kategorien": [
         "Rezepte",
