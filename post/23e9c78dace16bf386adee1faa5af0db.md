@@ -193,9 +193,9 @@ Zum anderen hebe ich meine Lieblingsbeeren, nämlich Blaubeeren, unter Teig.
 
 Für diese Teigmenge empfehle ich zwei kleine ofenfeste Pfännchen zu verwenden, denn die Menge ergibt große 2 Portionen. Auf die Art kannst Du dieses köstliche Frühstück entweder mit jemandem teilen oder aber zweimal genießen.
 
-Ich verwende bei diesem Rezept keinen Zucker. Am Ende werden die Dutch Babies lediglich mit etwas Puderzucker bestäubt. Wenn Dir das nicht süß genug ist, kannst Du zum Teig je nach Geschmack Honig oder aber ein anderes Süßmittel hinzufügen.
+Die gusseisernen Grillpfannen, die ich Dir empfehle, sind bereits eingebrannt. Ich verlinke sie Dir unter den Küchengeräten.
 
-Die gusseisernen Grillpfannen, die ich verwende, sind bereits eingebrannt. Ich verlinke sie Dir unter den Küchengeräten.
+Ich verwende bei diesem Rezept keinen Zucker. Am Ende werden die Dutch Babies lediglich mit etwas Puderzucker bestäubt. Wenn Dir das nicht süß genug ist, kannst Du zum Teig je nach Geschmack Honig oder aber ein anderes Süßmittel hinzufügen.
 
 Hast Du  Lust auch dieses einfache, aber doch sehr köstliche Frühstück?
 
