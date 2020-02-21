@@ -182,6 +182,9 @@ Weißt Du, was das Tolle am Dutch Baby ist?
 Du kannst ihn Dir auch unter der Woche zubereiten, selbst wenn Du morgens nicht viel Zeit hast. Alles, was Du brauchst, ist Zeit zum Genießen. Wie das geht? Ganz einfach! Du breitest Deinen Dutch Baby Pancake Teig nach den Anleitungen in diesem Rezept zu, bevor Du morgens duscht. In der Zeit, in der Du unter Deiner Dusche stehst, backt der Dutch Baby im Backofen und Du kommst aus dem Bad und kannst ein richtig tolles Frühstück genießen.
 Das ist doch etwas, oder? 😉
 
+{{< photo filename="dutch-baby---heidelbeer-pfannkuchen-aus-dem-backofen_5e4fa8ac431fd.jpg" >}}
+
+
 ## Vorbemerkungen zum Rezept
 
 Ich weiche mit meinem Rezept wieder ein wenig von den Original Rezepten ab. Zum einen verwende ich nicht nur Mehl, sondern Dinkel- und Kokosmehl. Letzteres hat den Vorteil, dass es dem Teig etwas Süße verleiht. Allerdings wird der Teig dadurch auch etwas dicker, denn Kokosmehl bindet Flüssigkeit sehr gut. Weitere Eigenschaften von Kokosmehl und, wie Du es am besten verwendest, habe ich in dem Artikel [Ist Kokosmehl wirklich gesund? ](https://kochfokus.de/artikel/ist-kokosmehl-wirklich-gesund/ "Ist Kokosmehl wirklich gesund? ")für Dich zusammengefasst.
