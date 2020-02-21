@@ -4,7 +4,7 @@
     "date": "2020-02-19T11:23:00+00:00",
     "title": "Dutch Baby - Heidelbeer Pfannkuchen aus dem Backofen",
     "description": "Achtung! Bei diesem Fr\u00fchst\u00fcck besteht Suchtgefahr! Diesen leckeren Pancake aus dem Backofen kannst und wirst Du Dir morgens zubereiten, selbst wenn es zeitlich eng ist.",
-    "featuredImage": null,
+    "featuredImage": "dutch-baby---heidelbeer-pfannkuchen-aus-dem-backofen_5e4f9999b742e.jpg",
     "author": "Gabi",
     "recipe": {
         "ingredients": [
@@ -191,9 +191,9 @@ Ich weiche mit meinem Rezept wieder ein wenig von den Original Rezepten ab. Zum 
 
 Zum anderen hebe ich meine Lieblingsbeeren, nämlich Blaubeeren, unter Teig.
 
-Für diese Teigmenge empfehle ich zwei kleine ofenfeste Pfännchen zu verwenden, denn die Menge ergibt gut 2 Portionen. Auf die Art kannst Du dieses köstliche Frühstück entweder mit jemandem teilen oder aber zweimal genießen.
+Für diese Teigmenge empfehle ich zwei kleine ofenfeste Pfännchen zu verwenden, denn die Menge ergibt große 2 Portionen. Auf die Art kannst Du dieses köstliche Frühstück entweder mit jemandem teilen oder aber zweimal genießen.
 
-Ich verwende bei diesem Rezept keinen Zucker. Am Ende werden die Dutch Babies jedoch mit etwas Puderzucker bestäubt. Wem das nicht süß genug ist, der kann dem Teig nach Geschmack Honig oder aber ein anderes Süßmittel hinzufügen.
+Ich verwende bei diesem Rezept keinen Zucker. Am Ende werden die Dutch Babies lediglich mit etwas Puderzucker bestäubt. Wenn Dir das nicht süß genug ist, kannst Du zum Teig je nach Geschmack Honig oder aber ein anderes Süßmittel hinzufügen.
 
 Die gusseisernen Grillpfannen, die ich verwende, sind bereits eingebrannt. Ich verlinke sie Dir unter den Küchengeräten.
 
