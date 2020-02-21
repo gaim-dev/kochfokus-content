@@ -120,7 +120,7 @@
                     },
                     {
                         "text": "Die Pf\u00e4nnchen wieder aus dem Backofen holen und nach Belieben mit Puderzucker best\u00e4uben.",
-                        "photo": "dutch-baby---heidelbeer-pfannkuchen-aus-dem-backofen_5e4f9999b742e.jpg"
+                        "photo": "dutch-baby---heidelbeer-pfannkuchen-aus-dem-backofen_5e4fe0c87c075.jpg"
                     },
                     {
                         "text": "Guten Appetit!",
