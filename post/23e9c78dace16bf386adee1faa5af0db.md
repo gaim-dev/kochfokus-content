@@ -1,6 +1,6 @@
 {
     "slug": "dutch-baby-heidelbeer-pfannkuchen-aus-dem-backofen",
-    "draft": true,
+    "draft": false,
     "date": "2020-02-21T15:38:00+00:00",
     "title": "Dutch Baby - Heidelbeer Pfannkuchen aus dem Backofen",
     "description": "Achtung! Bei diesem Fr\u00fchst\u00fcck besteht Suchtgefahr! Diesen leckeren Pancake aus dem Backofen kannst und wirst Du Dir morgens gerne und oft zubereiten, selbst wenn es zeitlich eng ist.",
