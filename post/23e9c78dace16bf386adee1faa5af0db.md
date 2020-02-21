@@ -199,6 +199,9 @@ Die gusseisernen Grillpfannen, die ich verwende, sind bereits eingebrannt. Ich v
 
 Hast Du  Lust auch dieses einfache, aber doch sehr köstliche Frühstück?
 
+{{< photo filename="dutch-baby---heidelbeer-pfannkuchen-aus-dem-backofen_5e4feab280fed.jpg">}}
+
+
 ## Küchengeräte und -utensilien
 
 - {{< amazon title="Küchenwaage" asin="B00DZPM41U" >}}
