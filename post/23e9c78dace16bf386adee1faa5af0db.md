@@ -4,7 +4,7 @@
     "date": "2020-02-19T11:23:00+00:00",
     "title": "Dutch Baby - Heidelbeer Pfannkuchen aus dem Backofen",
     "description": "Achtung! Bei diesem Fr\u00fchst\u00fcck besteht Suchtgefahr! Diesen leckeren Pancake aus dem Backofen kannst und wirst Du Dir morgens zubereiten, selbst wenn es zeitlich eng ist.",
-    "featuredImage": "dutch-baby---heidelbeer-pfannkuchen-aus-dem-backofen_5e4f9999b742e.jpg",
+    "featuredImage": "dutch-baby---heidelbeer-pfannkuchen-aus-dem-backofen_5e4fe72419efe.jpg",
     "author": "Gabi",
     "recipe": {
         "ingredients": [
