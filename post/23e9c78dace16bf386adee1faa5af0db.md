@@ -223,6 +223,9 @@ Hast Du  Lust auch dieses einfache, aber doch sehr köstliche Frühstück?
 
 Viel Spaß beim Nachbacken!
 
+{{< photo filename="dutch-baby---heidelbeer-pfannkuchen-aus-dem-backofen_5e4fed78600f9.jpg" >}}
+
+
 Du findest mich übrigens auch auf Social Media. Hast Du schon die roten Buttons oben auf dieser Seite gesehen? Klicke sie an und folge mir auch auf Instagram, Twitter und Facebook, denn ich zeige dort Sachen, die es nicht unbedingt auf dem Blog gibt. Also, folge mir und verpasse nichts! 😉
 
 Wenn Du dieses Rezept nachmachst, zeig mir Deine Fotos doch gerne auf Instagram unter dem Hashtag: #kochfokusde, damit ich sie dort finde und in meiner Instagram Story teilen kann.
