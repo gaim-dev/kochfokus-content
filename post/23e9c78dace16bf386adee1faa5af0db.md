@@ -3,7 +3,7 @@
     "draft": true,
     "date": "2020-02-19T11:23:00+00:00",
     "title": "Dutch Baby - Heidelbeer Pfannkuchen aus dem Backofen",
-    "description": "Achtung! Bei diesem Fr\u00fchst\u00fcck besteht Suchtgefahr!",
+    "description": "Achtung! Bei diesem Fr\u00fchst\u00fcck besteht Suchtgefahr\u203c\ufe0f",
     "featuredImage": null,
     "author": "Gabi",
     "recipe": {
