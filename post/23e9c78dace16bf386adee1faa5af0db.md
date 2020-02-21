@@ -3,7 +3,7 @@
     "draft": true,
     "date": "2020-02-19T11:23:00+00:00",
     "title": "Dutch Baby - Heidelbeer Pfannkuchen aus dem Backofen",
-    "description": "Achtung! Bei diesem Fr\u00fchst\u00fcck besteht Suchtgefahr\u203c\ufe0f",
+    "description": "Achtung! Bei diesem Fr\u00fchst\u00fcck besteht Suchtgefahr! Diesen leckeren Pancake aus dem Backofen kannst und wirst Du Dir morgens zubereiten, selbst wenn es zeitlich eng ist.",
     "featuredImage": null,
     "author": "Gabi",
     "recipe": {
@@ -133,7 +133,24 @@
             "text": "Hast Du Fragen, Kritik oder Anregungen zum Rezept oder das Rezept schon ausprobiert? Dann hinterlass mir in den Kommentaren doch gerne Deine Meinung, stell Deine Fragen oder mach gerne Verbesserungsvorschl\u00e4ge. Ich freue mich auf Deinen Kommentar!",
             "photo": null
         }
-    }
+    },
+    "Tags": [
+        "dutch baby",
+        "dutch baby pancake",
+        "rezept dutch baby pancake",
+        "rezept dutch baby",
+        "dutch baby pfanne",
+        "dutch baby rezept",
+        "pfannkuchen",
+        "pfannkuchenteig",
+        "",
+        "pancake",
+        "pancake rezept",
+        "german pancake",
+        "blaubeer pfannkuchen",
+        "heidelbeeren",
+        "pfannkuchen mit heidelbeeren,"
+    ]
 }
 
 Magst Du Pancakes oder auch Eierkuchen gerne? Dann habe ich heute genau das Richtige für Dich. Ich habe ein ganz tolles Rezept dieses super leckeren klassisch amerikanischen Frühstücks.
