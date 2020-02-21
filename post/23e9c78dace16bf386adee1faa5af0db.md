@@ -124,7 +124,7 @@
                     },
                     {
                         "text": "Guten Appetit!",
-                        "photo": null
+                        "photo": "dutch-baby---heidelbeer-pfannkuchen-aus-dem-backofen_5e4f9f2759183.jpg"
                     }
                 ]
             }
