@@ -179,7 +179,7 @@ Wenn Du es ganz genau wissen willst, kann ich Dir diesen Artikel aus [Wikipedia]
 
 Weißt Du, was das Tolle am Dutch Baby ist?
 
-Du kannst ihn Dir nicht nur am Wochenende für ein gemütliches Frühstück zubereiten, sondern ebenso gut unter der Woche machen, selbst wenn Du morgens nicht viel Zeit hast. Alles, was Du brauchst, ist Zeit zum Genießen. Wie das geht? Ganz einfach! Du breitest Deinen Dutch Baby Pancake Teig nach den Anleitungen in diesem Rezept zu, bevor Du morgens duscht. In der Zeit, in der Du unter Deiner Dusche stehst, backt der Dutch Baby im Backofen und Du kommst aus dem Bad und kannst ein richtig tolles Frühstück genießen.
+Du kannst ihn Dir nicht nur am Wochenende für ein gemütliches Frühstück zubereiten, sondern ebenso gut unter der Woche machen, selbst wenn Du morgens nicht viel Zeit hast. Alles, was Du brauchst, ist Zeit zum Genießen. Wie das geht? Ganz einfach! Du bereitest Deinen Dutch Baby Pancake Teig nach den Anleitungen in diesem Rezept zu, bevor Du morgens duscht. In der Zeit, in der Du unter Deiner Dusche stehst, backt der Dutch Baby im Backofen und Du kommst aus dem Bad und kannst ein richtig tolles Frühstück genießen.
 Das hat doch etwas, oder? 😉
 
 {{< photo filename="dutch-baby---heidelbeer-pfannkuchen-aus-dem-backofen_5e4fe8854c84b.jpg" >}}
