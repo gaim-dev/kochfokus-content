@@ -103,7 +103,7 @@
                         "photo": "dutch-baby---heidelbeer-pfannkuchen-aus-dem-backofen_5e4edf3587905.jpg"
                     },
                     {
-                        "text": "Wenn der Backofen 215 Grad erreicht hat, die P\u00e4nnchen rausholen. ABER ACHTUNG: Die Pfannen sind hei\u00df! Bitte Topflappen oder Backofenhandschuhe benutzen!",
+                        "text": "Wenn der Backofen 215 Grad erreicht hat, die Pf\u00e4nnchen rausholen. ABER ACHTUNG: Die Pfannen sind hei\u00df! Bitte Topflappen oder Backofenhandschuhe benutzen!",
                         "photo": null
                     },
                     {
@@ -119,7 +119,7 @@
                         "photo": null
                     },
                     {
-                        "text": "Die Pf\u00e4nnchen aus dem Backofen holen und nach Belieben mit Puderzucker best\u00e4uben.",
+                        "text": "Die Pf\u00e4nnchen aus dem Backofen holen und die Dutch Baby Pancakes nach Belieben mit Puderzucker best\u00e4uben.",
                         "photo": null
                     },
                     {
