@@ -30,7 +30,7 @@ Umsatzsteuer-Identifikationsnummer gemäß § 27 a Umsatzsteuergesetz: DE3067466
 Plattform der EU-Kommission zur Online-Streitbeilegung: <https://ec.europa.eu/consumers/odr>  
 Wir sind zur Teilnahme an einem Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle weder verpflichtet noch bereit.
 
-**Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:**  
+**Verantwortlich für den Inhalt nach § 18 Abs. 2 MStV:**  
 Gabriele Altpeter, Schreinerweg 6, 38126 Braunschweig, Deutschland
 
 **Amazon Partnerprogramm**
