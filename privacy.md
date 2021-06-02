@@ -6,7 +6,7 @@
 	"static": true
 }
 
-Unsere Datenschutzerklärung wurde zuletzt am 01. Juni 2021 geändert.
+Unsere Datenschutzerklärung wurde zuletzt am 02. Juni 2021 geändert.
 
 ## Allgemeine Hinweise
 
@@ -69,6 +69,8 @@ Wenn Du eine unserer Webseiten aufrufst, baut Dein Browser eine Verbindung zu ei
 - Dauer der Speicherung: keine
 - Weitergabe der Daten: Unsere Server betreiben wir bei den folgenden Unternehmen. Es handelt sich dabei ausschließlich um Unternehmen aus der EU, die wir sorgfältig nach unseren hohen Datenschutzansprüchen ausgewählt haben.
     * Hetzner Online GmbH, Industriestraße 25, 91710 Gunzenhausen, Deutschland ([Datenschutzerklärung](https://www.hetzner.de/rechtliches/datenschutz))
+    * Uberspace, Kaiserstraße 15, 55116 Mainz, Deutschland ([Datenschutzerklärung](https://uberspace.de/de/about/privacy/))
+    * BunnyWay d.o.o., Cesta komandanta Staneta 4A, 1215 Medvode, Slowenien ([Datenschutzerklärung](https://bunnycdn.com/privacy))
 
 ### Informationen, die Du uns zur Verfügung stellst
 
@@ -98,12 +100,6 @@ Um unsere Webseiten interessanter und lebendiger für Dich zu machen, haben wir 
 Wir binden auf unserer Webseite Videos ein, die bei YouTube gehostet werden. YouTube ist ein Angebot der YouTube LLC, 901 Cherry Ave., San Bruno, CA 94066, USA, die von der Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA vertreten wird.
 
 Dafür verwenden wir den sogenannten „erweiterten Datenschutzmodus“. YouTube gibt an, dass man hierbei keine Daten über Dich speichere, es sei denn Du spielst ein eingebettetes Video ab. Sobald Du ein Video abspielst, sammelt Google Daten über Dich, z.&nbsp;B. in Form von Videostatistiken. Weitere Informationen zum Datenschutz bei YouTube findest Du in [Googles Datenschutzerklärung](https://policies.google.com/privacy).
-
-### Algolia
-
-Die Suche, die wir Dir auf unserer Webseite anbieten, wird technisch von der Algolia, Inc., 589 Howard, Street, Suite 5, San Francisco, CA 94105, USA (oder deren Tochterunternehmen Algolia SAS, 55 Rue d'Amsterdam, 75008 Paris, Frankreich und Algolia Ltd., 1 Primrose St, London, EC2A 2EX, UK) bereitgestellt. Dazu müssen die Suchbegriffe, die Du in unserer Suche eingibst, an Algolia übermittelt werden.
-
-Weitere Informationen dazu, wie die Daten verarbeitet werden, findest du in [der Datenschutzerklärung von Algolia](https://www.algolia.com/policies/privacy).
 
 ### Amazon PartnerNet
 
