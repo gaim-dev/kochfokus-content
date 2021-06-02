@@ -61,7 +61,7 @@ In diesem Abschnitt möchten wir Dir genau erklären, unter welchen Umständen w
 
 ### Informationen, die wir automatisch sammeln
 
-#### Server-Logdateien
+#### Server-Verbindungsdaten
 Wenn Du eine unserer Webseiten aufrufst, baut Dein Browser eine Verbindung zu einem oder mehreren unserer Server auf. Wir haben alle unsere Server so konfiguriert, dass sie keine Logdateien speichern, zur Bearbeitung Deiner Anfrage müssen aber gewisse personenbezogene Daten kurzzeitig im Arbeitsspeicher verarbeitet werden.
 
 - Betroffene Daten: die konkrete Unterseite, die Du besucht hast, das Datum und die Uhrzeit Deines Zugriffs, die Daten die Dein Browser mit der Anfrage schickt (die sogenannten „Header“), darunter Informationen zu Deinem Browser und Betriebssystem (der sogenannte „User-Agent-String“), und Deine IP-Adresse
