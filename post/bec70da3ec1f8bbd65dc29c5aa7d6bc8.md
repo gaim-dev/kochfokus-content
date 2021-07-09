@@ -104,6 +104,17 @@
                         "note": "zum Einfetten der Sch\u00fcssel"
                     }
                 ]
+            },
+            {
+                "name": "F\u00fcr die Fettpfanne",
+                "contents": [
+                    {
+                        "value": "2",
+                        "unit": "Tassen",
+                        "name": "Wasser",
+                        "note": null
+                    }
+                ]
             }
         ],
         "steps": [
