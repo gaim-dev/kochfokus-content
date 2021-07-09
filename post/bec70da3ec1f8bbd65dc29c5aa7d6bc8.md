@@ -169,7 +169,7 @@
                         "photo": "haferflockenbrot-mit-knuspriger-kruste-und-fluffiger-krume_5b5703057e5b9.jpg"
                     },
                     {
-                        "text": "Die Fettpfanne auf den untersten Einschub des Backofens geben. Au\u00dferdem den Backofen auf 200 Grad Umluft vorheizen und das Brot abgedeckt noch so lange ruhen lassen, bis der Backofen 200 Grad erreicht hat.",
+                        "text": "Die Fettpfanne auf den untersten Einschub des Backofens geben und  auf diese zwei Tassen Wasser darauf geben. Au\u00dferdem den Backofen auf 200 Grad Umluft vorheizen und das Brot abgedeckt noch so lange ruhen lassen, bis der Backofen 200 Grad erreicht hat.",
                         "photo": null
                     },
                     {
